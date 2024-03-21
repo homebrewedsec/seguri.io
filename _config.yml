@@ -16,7 +16,7 @@ theme: jekyll-agency
 url    : "" # the base hostname & protocol for your site, e.g. http://example.com
 baseurl: "" # the subpath of your site, e.g. /blog
 
-title      : Seguri | Security Consulting and shit
+title      : Seguri
 email      : info@seguri.com #this is also the email contact forms will go to
 description: "Seguri specializes in comprehensive cybersecurity assessments and acceleration services tailored for enhancing cloud, network, and identity security infrastructure."
 author     : Seguri
