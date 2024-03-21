@@ -1,0 +1,73 @@
+#
+# Work based on https://github.com/mmistakes/minimal-mistakes/blob/master/_data/ui-text.yml
+#
+# Configuration: Add to _config.yml
+# locale: "en-US"  [YOUR PREFERRED LOCALE]
+#
+# How to use:
+# {{ site.data.ui-text[site.locale].<var_name> | default: 'text' }}
+
+# English (default)
+# -----------------
+en: &DEFAULT_EN
+  header:
+    title: Fortifying Your Digital Defenses
+    button: Tell Me More
+    buttonlink: "#services"
+
+  services:
+    title: "Services"
+    section: services
+    list:
+      - title: "Cloud Security"
+        desc: "Elevate your cloud security posture with Seguri's tailored solutions. Our experts conduct thorough assessments to identify vulnerabilities and design robust defenses, ensuring the integrity and confidentiality of your cloud infrastructure. From configuration reviews to threat detection and incident response, trust Seguri to safeguard your cloud environment against evolving cyber threats."
+        icon: fas cloud #find more at https://fontawesome.com/icons
+      - title: "Network Security"
+        desc: "Secure your network infrastructure with Seguri's comprehensive services. Through meticulous assessments and strategic planning, we fortify your network against unauthorized access, data breaches, and cyber attacks. From perimeter defenses to internal segmentation, we implement cutting-edge solutions to protect your critical assets and maintain uninterrupted business operations."
+        icon: fas globe
+      - title: "Identity Security"
+        desc: "Empower your organization with resilient identity security solutions from Seguri. Covering technologies such as Okta, Active Directory, and Entra ID, we streamline identity management processes while strengthening access controls and authentication mechanisms. Our tailored approach ensures seamless integration, enabling you to manage identities effectively across diverse platforms and environments, while minimizing security risks and enhancing regulatory compliance."
+        icon: fas fingerprint
+        
+        #SECURITY ARCHITECTURE, secops
+
+  about:
+    title: "Who We Are"
+    body: "Seguri is a premier cybersecurity consulting firm dedicated to bolstering organizations with tailored security solutions across cloud, network, and identity domains. With our team of seasoned experts, we specialize in comprehensive assessments and acceleration services designed to fortify your digital defenses against evolving threats.
+
+Our mission at Seguri is to provide proactive and personalized cybersecurity solutions that empower businesses of all sizes to navigate today's digital landscape with confidence. Leveraging industry best practices and cutting-edge technologies, we go beyond traditional measures to anticipate and mitigate risks effectively. Partner with Seguri today and experience the peace of mind that comes with having a trusted cybersecurity ally by your side, allowing you to focus on driving success and growth in your organization."
+    section: about
+
+  contact:
+    title: "Contact Us"
+    section: contact
+    name: "Name*"
+    name-validation: "Please enter your name."
+    email: "Email*"
+    email-validation: "Please enter your email address."
+    phone: "Phone Number"
+    phone-validation: "Please enter your phone number."
+    message: "Message*"
+    message-validation: "Please enter a message."
+    subject: "Contact Form Submission"
+    submit: "Send Message"
+
+  footer:
+    legal: "Privacy Policy"
+    social:
+      - url: https://twitter.com
+        icon: "fab x-twitter"
+      - url: https://twitter.com
+        icon: "fab fa-mastodon"
+      - url: https://linkedin.com
+        icon: "fab fa-linkedin-in"
+      - url: https://github.com/raviriley/agency-jekyll-theme
+        icon: "fab fa-github"
+en-US:
+  <<: *DEFAULT_EN
+en-CA:
+  <<: *DEFAULT_EN
+en-GB:
+  <<: *DEFAULT_EN
+en-AU:
+  <<: *DEFAULT_EN
