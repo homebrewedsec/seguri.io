@@ -82,16 +82,16 @@ footer:
   links:
     - label: "X-Twitter"
       icon: "fab fa-fw fa-square-x-twitter"
-      # url:
+      url: "https://x.com"
     - label: "Mastodon"
       icon: "fab fa-fw fa-mastodon"
-      # url:
+      url:"https://mastodon.com"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url:"https://linkedin.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url:
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      # url:
+      url: "https://github.com"
 
 
 # Reading Files
