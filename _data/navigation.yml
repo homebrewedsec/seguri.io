@@ -2,9 +2,6 @@
 main:
    - title: "Services"
      url: /services/
-       subfolderitems:
-          - page: Threat Modelling
-            url: /services#threat-modelling
    - title: "Training"
      url: /training/
    - title: "About"
