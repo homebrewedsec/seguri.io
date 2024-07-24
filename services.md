@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include toc.html html=content %}
+{% include toc %}
 
 # Threat Modelling
 # Maturity Assessments
