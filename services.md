@@ -1,10 +1,8 @@
 ---
 layout: default
-toc: true
-toc_label: "Services"
-toc_icon: "cog"
-toc_sticky: true
 ---
+
+{% include toc.html html=content %}
 
 # Threat Modelling
 # Maturity Assessments
