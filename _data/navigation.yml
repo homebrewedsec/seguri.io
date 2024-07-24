@@ -1,10 +1,10 @@
 # main links
 main:
-  # - title: "Services"
-  #   url: /services/
-  # - title: "Training"
-  #   url: /training/
-  # - title: "About"
-  #   url: /about/
-  # - title: "Contact"
-  #   url: /contact/
+   - title: "Services"
+     url: /services/
+   - title: "Training"
+     url: /training/
+   - title: "About"
+     url: /about/
+   - title: "Contact"
+     url: /contact/
