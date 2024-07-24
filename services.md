@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: default
 toc: true
 toc_label: "Services"
 toc_icon: "cog"
