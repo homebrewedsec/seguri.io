@@ -17,7 +17,9 @@ feature_row:
     alt: "Threat Modelling Services"
     title: "Threat Modelling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "GRC and Regulatory Compliance"
+  - image_path: assets/images/grc.png
+    alt: "GRC and Regulatory Compliance Services"
+    title: "GRC and Regulatory Compliance"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row3:
   - image_path: /assets/images/training.png
