@@ -9,18 +9,21 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-<p align="center"><a href="#contact" class=".btn .btn--success">Speak with an Expert</a></p>
+[Speak with an Expert](#contact){: .btn .btn--success}
+{: .text-center}
 
-<h1 id="Services">Services</h1>
+# Services
+{: #services} 
 {% include feature_row %}
 
-<h1 id="About">Who is Seguri?</h1>
+# Who is Seguri?
+{: #about} 
 
-# Test
+# Training
+{: #training} 
 
-<h1 id="Training">Training</h1>
-
-<h1 id="Contact">Services</h1>
+# Services
+{: #contact} 
 <form
   action="https://formspree.io/f/xdkngjgk"
   method="POST"
