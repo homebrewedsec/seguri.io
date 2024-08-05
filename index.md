@@ -18,16 +18,13 @@ feature_row:
 {: #services} 
 {% include feature_row %}
  \
- \
  
 # Who is Seguri?
 {: #about} 
  \
- \
  
 # Training
 {: #training} 
- \
  \
  
 # Contact
