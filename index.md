@@ -1,22 +1,24 @@
 ---
 layout: splash
+title: "Tailored Cyber Defense Solutions"
+header:
+  overlay_color: "#000"
+  overlay_filter: "0.5"
+  overlay_image: /assets/images/home-header.jpg
+  actions:
+    - label: "Speak with an Expert"
+      url: "#contact"
+  excerpt: "Experience security solutions designed with security practitioners in mind."
+
 feature_row:
-  - title: "Placeholder 1"
+  - title: "Jump Start your Security Program"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Placeholder 2"
+  - title: "Threat Modelling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-    url: "#test-link"
-    btn_label: "Read More"
-    btn_class: "btn--inverse"
-  - title: "Placeholder 3"
+  - title: "GRC and Regulatory Compliance"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-
- \
-  \
-[Speak with an Expert](#contact){: .btn .btn--success}
-{: .text-center}
 
 # Services
 {: #services}
