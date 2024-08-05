@@ -13,7 +13,9 @@ header:
 feature_row:
   - title: "Jump Start your Security Program"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Threat Modelling"
+  - image_path: assets/images/threatmodelling.png.jpg
+    alt: "Threat Modelling Services"
+    title: "Threat Modelling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
   - title: "GRC and Regulatory Compliance"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
