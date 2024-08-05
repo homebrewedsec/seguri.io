@@ -16,12 +16,17 @@ feature_row:
   - image_path: assets/images/threatmodelling.png
     alt: "Threat Modelling Services"
     title: "Threat Modelling"
-    excerpt: "This is some sample content that goes here with **Markdown** formatting."
+    excerpt: "Our threat modeling services leverage industry-leading frameworks to map out potential attack paths, enabling your organization to prioritize security efforts effectively. By adopting an adversarial mindset, we translate threat intelligence into actionable insights, helping you construct a strategic security roadmap that addresses your most critical vulnerabilities. This proactive, data-driven approach ensures your security investments are targeted where they will have the greatest impact, moving beyond reactive measures to a robust and resilient defense strategy. Additionally, our comprehensive threat models can justify the allocation of security resources and aid in prioritizing them, ensuring that your organization’s defenses are both efficient and effective."
   - image_path: assets/images/grc.png
     alt: "GRC and Regulatory Compliance Services"
     title: "GRC and Regulatory Compliance"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row2:
+  - image_path: assets/images/about.png
+    alt: "Seguri"
+    title: "Who are We?"
+    excerpt: 'At Seguri, we are security practitioners dedicated to creating a services company that truly addresses the concerns and issues we've faced in the field. With a background spanning consulting for some of the world’s largest companies, security for large enterprise mergers and acquisitions, and building security programs from the ground up at startups, we understand the diverse challenges businesses encounter.'
+feature_row3:
   - image_path: assets/images/training.png
     alt: "Training Services"
     title: "Training"
@@ -33,9 +38,8 @@ feature_row2:
 {: #services}
 {% include feature_row %}
  
-# Who are We?
 {: #about} 
-At Seguri, we are security practitioners dedicated to creating a services company that truly addresses the concerns and issues we've faced in the field. With a background spanning consulting for some of the world’s largest companies, security for large enterprise mergers and acquisitions, and building security programs from the ground up at startups, we understand the diverse challenges businesses encounter.
+{% include feature_row id="feature_row2" type="right" %}
 
 Our mission is to provide actionable and practical assessments and services that meet your unique requirements without any big surprises when the report comes along. We believe in fully customizable, tailored solutions—not a set of unmovable options from a menu. By leveraging our extensive experience and industry knowledge, we ensure that our services are both effective and aligned with your specific needs, delivering security insights that you can act on immediately. At Seguri, we are committed to helping you enhance your security posture with precision and confidence.
 
