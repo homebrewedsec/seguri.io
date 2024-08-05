@@ -13,7 +13,7 @@ excerpt: "Experience security solutions designed with security practitioners in 
 feature_row:
   - title: "Jump Start your Security Program"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - image_path: assets/images/threatmodelling.png.jpg
+  - image_path: assets/images/threatmodelling.png
     alt: "Threat Modelling Services"
     title: "Threat Modelling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
