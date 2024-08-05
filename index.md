@@ -26,6 +26,11 @@ feature_row2:
     alt: "Seguri"
     title: "Who are We?"
     excerpt: "At Seguri, we are security practitioners dedicated to creating a services company that truly addresses the concerns and issues we've faced in the field. With a background spanning consulting for some of the world’s largest companies, security for large enterprise mergers and acquisitions, and building security programs from the ground up at startups, we understand the diverse challenges businesses encounter."
+feature_row3:
+  - image_path: assets/images/training.png
+    alt: "Training Services"
+    title: "Training"
+    excerpt: "Our training services are designed to empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Our training covers a wide range of topics, from foundational security principles to advanced threat detection and response techniques."
 
 ---
 
