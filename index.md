@@ -30,7 +30,7 @@ feature_row3:
   - image_path: assets/images/training.png
     alt: "Training Services"
     title: "Training"
-    excerpt: "Our training services are designed to empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Our training covers a wide range of topics, from foundational security principles to advanced threat detection and response techniques."
+    excerpt: "Our training services are designed to empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Our training covers a wide range of topics, from foundational security principles to advanced threat detection and response techniques. <br> We focus on providing actionable and practical learning experiences, ensuring that your team can immediately apply what they’ve learned to enhance your security posture. Our programs are fully customizable, allowing you to choose the topics and depth of coverage that best fit your requirements. Whether you're looking to build a strong security foundation or advance your team's expertise, our training services are designed to equip your organization with the tools and knowledge necessary to stay ahead of evolving threats. At Seguri, we are committed to delivering high-quality, impactful training that makes a real difference in your security capabilities."
 
 ---
 
@@ -45,8 +45,6 @@ Our mission is to provide actionable and practical assessments and services that
 
 {: #training} 
 {% include feature_row id="feature_row3" type="left" %}
-
-We focus on providing actionable and practical learning experiences, ensuring that your team can immediately apply what they’ve learned to enhance your security posture. Our programs are fully customizable, allowing you to choose the topics and depth of coverage that best fit your requirements. Whether you're looking to build a strong security foundation or advance your team's expertise, our training services are designed to equip your organization with the tools and knowledge necessary to stay ahead of evolving threats. At Seguri, we are committed to delivering high-quality, impactful training that makes a real difference in your security capabilities.
  
 # Contact
 {: #contact} 
