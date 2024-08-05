@@ -16,7 +16,7 @@ feature_row:
   - image_path: assets/images/threatmodelling.png
     alt: "Threat Modelling Services"
     title: "Threat Modelling"
-    excerpt: "Threat Modelling"
+    excerpt: "Our threat modeling services leverage industry-leading frameworks to map out potential attack paths, enabling your organization to prioritize security efforts effectively. By adopting an adversarial mindset, we translate threat intelligence into actionable insights, helping you construct a strategic security roadmap that addresses your most critical vulnerabilities. This proactive, data-driven approach ensures your security investments are targeted where they will have the greatest impact, moving beyond reactive measures to a robust and resilient defense strategy. Additionally, our comprehensive threat models can justify the allocation of security resources and aid in prioritizing them, ensuring that your organization’s defenses are both efficient and effective."
   - image_path: assets/images/grc.png
     alt: "GRC and Regulatory Compliance Services"
     title: "GRC and Regulatory Compliance"
