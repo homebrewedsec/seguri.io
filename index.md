@@ -9,20 +9,27 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-&nbsp; <br / > &nbsp; <br / > 
+ \
+  \
 [Speak with an Expert](#contact){: .btn .btn--success}
 {: .text-center}
 
 # Services
 {: #services} 
 {% include feature_row %}
-
+ \
+ \
+ 
 # Who is Seguri?
 {: #about} 
-
+ \
+ \
+ 
 # Training
 {: #training} 
-
+ \
+ \
+ 
 # Contact
 {: #contact} 
 <form
