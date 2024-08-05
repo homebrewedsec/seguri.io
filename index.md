@@ -8,7 +8,7 @@ header:
   actions:
     - label: "Speak with an Expert"
       url: "#contact"
-  excerpt: "Experience security solutions designed with security practitioners in mind."
+excerpt: "Experience security solutions designed with security practitioners in mind."
 
 feature_row:
   - title: "Jump Start your Security Program"
