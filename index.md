@@ -21,7 +21,11 @@ feature_row:
     alt: "GRC and Regulatory Compliance Services"
     title: "GRC and Regulatory Compliance"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-
+feature_row2:
+  - image_path: assets/images/about.png
+    alt: "Seguri"
+    title: "Who are We?"
+    excerpt: "At Seguri, we are security practitioners dedicated to creating a services company that truly addresses the concerns and issues we've faced in the field. With a background spanning consulting for some of the world’s largest companies, security for large enterprise mergers and acquisitions, and building security programs from the ground up at startups, we understand the diverse challenges businesses encounter."
 
 ---
 
