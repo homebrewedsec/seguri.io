@@ -1,14 +1,15 @@
 ---
 layout: splash
 feature_row:
-  - title: "Service 1"
+  - title: "Threat Modelling"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Service 2"
+  - title: "Cloud Security Services"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
-  - title: "Service 3"
+  - title: "Identity and Access Management (IAM) Services"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
+&nbsp; <br / > &nbsp; <br / > 
 [Speak with an Expert](#contact){: .btn .btn--success}
 {: .text-center}
 
@@ -22,7 +23,7 @@ feature_row:
 # Training
 {: #training} 
 
-# Services
+# Contact
 {: #contact} 
 <form
   action="https://formspree.io/f/xdkngjgk"
