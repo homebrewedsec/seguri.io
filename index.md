@@ -9,12 +9,14 @@ feature_row:
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 
 ---
-<p align="center"><a href="#contact" class=".btn .btn--success">Speak with an Exper</a></p>
+<p align="center"><a href="#contact" class=".btn .btn--success">Speak with an Expert</a></p>
 
 <h1 id="Services">Services</h1>
 {% include feature_row %}
 
 <h1 id="About">Who is Seguri?</h1>
+
+# Test
 
 <h1 id="Training">Training</h1>
 
