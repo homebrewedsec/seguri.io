@@ -19,7 +19,7 @@ feature_row:
 {% include feature_row %}
  \
  
-# Who is Seguri?
+# Who are We?
 {: #about} 
 At Seguri, we are security practitioners dedicated to creating a services company that truly addresses the concerns and issues we've faced in the field. With a background spanning consulting for some of the world’s largest companies, security for large enterprise mergers and acquisitions, and building security programs from the ground up at startups, we understand the diverse challenges businesses encounter.
 
