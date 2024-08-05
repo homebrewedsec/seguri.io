@@ -22,7 +22,7 @@ feature_row:
     title: "GRC and Regulatory Compliance"
     excerpt: "This is some sample content that goes here with **Markdown** formatting."
 feature_row3:
-  - image_path: /assets/images/training.png
+  - image_path: assets/images/training.png
     alt: "placeholder image 2"
     title: "Training"
     excerpt: 'Our training services are designed to empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Our training covers a wide range of topics, from foundational security principles to advanced threat detection and response techniques.'
