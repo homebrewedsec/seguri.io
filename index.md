@@ -8,6 +8,7 @@ header:
   actions:
     - label: "Speak with an Expert"
       url: "#contact"
+      class: .btn .btn--info .btn--large
 excerpt: "Experience security solutions designed with security practitioners in mind."
 feature_row:
   - image_path: assets/images/race.png
