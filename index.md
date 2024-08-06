@@ -32,8 +32,7 @@ feature_row3:
 
 ---
 
-# Services
-{: #services}
+# Services {: #services}
 {% include feature_row %}
 
 {: #about} 
