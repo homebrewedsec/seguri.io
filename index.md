@@ -51,11 +51,11 @@ feature_row3:
   method="POST"
 >
   <label>
-    Your email:
+    Email
     <input type="email" name="email">
   </label>
   <label>
-    Your message:
+    Describe the security solutions you're looking for. *(Optional)*
     <textarea name="message"></textarea>
   </label>
   <!-- your other form fields go here -->
