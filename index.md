@@ -37,9 +37,8 @@ feature_row3:
 {: #services}
 {% include feature_row %}
 
-# Who are We
 {: #about} 
-{% include feature_row id="intro" type="left" %}
+{% include feature_row id="intro" type="center" %}
 
 {: #training}
 {% include feature_row id="feature_row3" type="left" %}
