@@ -40,21 +40,3 @@ feature_row3:
 
 {: #training}
 {% include feature_row id="feature_row3" type="left" %}
- 
-# Contact
-{: #contact} 
-<form
-  action="https://formspree.io/f/xdkngjgk"
-  method="POST"
->
-  <label>
-    Email
-    <input type="email" name="email">
-  </label>
-  <label>
-    Describe the security solutions you're looking for. <i>(Optional)</i>
-    <textarea name="message"></textarea>
-  </label>
-  <!-- your other form fields go here -->
-  <button type="submit">Send</button>
-</form>
