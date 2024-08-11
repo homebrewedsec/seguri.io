@@ -33,7 +33,7 @@ feature_row3:
 ---
 {: #services}
 # Services 
-{% include feature_row %}
+{% include services.html %}
 
 {: #about} 
 {% include feature_row id="intro" type="center" %}
