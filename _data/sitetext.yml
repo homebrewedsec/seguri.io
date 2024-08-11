@@ -21,13 +21,13 @@ en: &DEFAULT_EN
     list:
       - title: "Cloud Security"
         desc: "Elevate your cloud security posture with Seguri's tailored solutions. Our experts conduct thorough assessments to identify vulnerabilities and design robust defenses, ensuring the integrity and confidentiality of your cloud infrastructure. From configuration reviews to threat detection and incident response, trust Seguri to safeguard your cloud environment against evolving cyber threats."
-        icon: fa-cloud #find more at https://fontawesome.com/icons
+        icon: fa-solid fa-cloud #find more at https://fontawesome.com/icons
       - title: "Network Security"
         desc: "Secure your network infrastructure with Seguri's comprehensive services. Through meticulous assessments and strategic planning, we fortify your network against unauthorized access, data breaches, and cyber attacks. From perimeter defenses to internal segmentation, we implement cutting-edge solutions to protect your critical assets and maintain uninterrupted business operations."
-        icon: fa-globe
+        icon: fa-solid fa-globe
       - title: "Identity Security"
         desc: "Empower your organization with resilient identity security solutions from Seguri. Covering technologies such as Okta, Active Directory, and Entra ID, we streamline identity management processes while strengthening access controls and authentication mechanisms. Our tailored approach ensures seamless integration, enabling you to manage identities effectively across diverse platforms and environments, while minimizing security risks and enhancing regulatory compliance."
-        icon: fa-fingerprint
+        icon: fa-solid fa-fingerprint
         
         #SECURITY ARCHITECTURE, secops
 
