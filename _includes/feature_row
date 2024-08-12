@@ -21,8 +21,8 @@
 		
 		{% if f.icon %}
 		  <span class="fa-stack fa-4x" style="text-align:center; margin:auto;">
-            <i class="fas fa-circle fa-stack-2x text-primary" style="color:#9aceeb;"></i>
-            <i class="{{ f.icon | default: "fa-solid fa-globe" }} fa-stack-1x fa-inverse"></i>
+            <i class="fas fa-circle fa-stack-2x text-primary" style="color:#9aceeb; text-align:center; margin:auto;"></i>
+            <i class="{{ f.icon | default: "fa-solid fa-globe" }} fa-stack-1x fa-inverse" style="text-align:center; margin:auto;"></i>
           </span>
         {% endif %}
 
