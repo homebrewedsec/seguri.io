@@ -22,7 +22,7 @@
 		{% if f.icon %}
 		  <span class="fa-stack fa-4x">
             <i class="fas fa-circle fa-stack-2x text-primary" style="color:#9aceeb;"></i>
-            <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+            <i class="{{ f.icon | default: "fa-solid fa-globe" }} fa-stack-1x fa-inverse"></i>
           </span>
         {% endif %}
 
