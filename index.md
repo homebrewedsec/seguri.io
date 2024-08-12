@@ -9,8 +9,8 @@ header:
     - label: "Speak with an Expert"
       url: "#contact"
 excerpt: "Experience security solutions designed with security practitioners in mind."
-feature_row:
-  - image_path: assets/images/race.png
+services:
+- image_path: assets/images/race.png
     title: "Jump Start your Security Program"
     excerpt: "Our **Jump Start Your Security Program** service provides a comprehensive foundation to establish a robust security posture from the ground up. We begin with an in-depth assessment of your current security landscape, identifying gaps and opportunities for improvement. By leveraging industry best practices and frameworks, we create a tailored security strategy that aligns with your business goals and compliance requirements. This service includes the implementation of essential security controls, policies, and procedures designed to protect your organization from emerging threats. With a focus on continuous improvement, we also provide training and resources to empower your team, ensuring they are well-equipped to maintain and advance your security initiatives. Whether you're building a new program or enhancing an existing one, our expert guidance ensures your security foundation is solid, scalable, and resilient."
   - image_path: assets/images/threatmodelling.png
