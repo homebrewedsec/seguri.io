@@ -18,6 +18,13 @@
             {% endif %}
           </div>
         {% endif %}
+		
+		{% if f.icon %}
+		  <span class="fa-stack fa-4x">
+            <i class="fas fa-circle fa-stack-2x text-primary" style="color:#9aceeb;"></i>
+            <i class="{{ service.icon | default: "fas fa-shopping-cart" }} fa-stack-1x fa-inverse"></i>
+          </span>
+        {% endif %}
 
         <div class="archive__item-body">
           {% if f.title %}
