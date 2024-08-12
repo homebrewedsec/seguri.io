@@ -19,7 +19,7 @@ services:
   - icon: fa-regular fa-clipboard
     title: "GRC and Regulatory Compliance"
     excerpt: "Our GRC and Regulatory Compliance services are designed to help you establish, evaluate, and maintain a comprehensive governance, risk, and compliance (GRC) program that meets both customer and regulatory requirements. Whether you're just starting your GRC program, need to assess its effectiveness, or require assistance in meeting specific compliance standards, our expert team is here to guide you every step of the way. We support compliance with key frameworks and standards such as CMMC, ISO 27001, SOC 2, IT SOX, and Cyber Essentials. Our approach includes a comprehensive assessment of your current GRC posture to identify gaps and opportunities for improvement, development of tailored GRC strategies that align with your business objectives and regulatory requirements, and implementation of robust policies, controls, and processes to ensure continuous compliance and risk management."
-services2
+services2:
   - icon: fa-solid fa-briefcase
     title: "Mergers and Acquisitions"
     excerpt: "Plaholder"
