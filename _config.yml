@@ -97,6 +97,10 @@ footer:
       icon: "fab fa-fw fa-github"
       url: "https://github.com"
       label: " "
+    - label: "Privacy Policy"
+      url: "https://seguri.io/privacy"
+    - label: "Terms of Service"
+      url: "https://seguri.io/terms"
 
 
 # Reading Files
