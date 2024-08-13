@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: single
 title: "Prioritize Your Security Roadmap with Attack Path Mapping"
 date: 2024-08-13
 toc: true
