@@ -72,11 +72,11 @@ social:
 
 # Analytics
 google_analytics: "G-PX89M4SK7R"
-#analytics:
- # provider               : "google-gtag"
- # google:
- #   tracking_id          : ""
- #   anonymize_ip         : # true, false (default)
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : ""
+    anonymize_ip         : # true, false (default)
 
 # Site Footer
 footer:
