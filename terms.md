@@ -47,12 +47,9 @@ We may update these Terms of Service from time to time. Any changes will be post
 
 ## Governing Law
 
-These Terms of Service and any disputes related to them or the Site or Services will be governed by and construed in accordance with the laws of [Your State/Country], without regard to its conflict of laws provisions.
+These Terms of Service and any disputes related to them or the Site or Services will be governed by and construed in accordance with the laws of Deleware, without regard to its conflict of laws provisions.
 
 ## Contact Us
 
-If you have any questions or concerns about these Terms of Service or our data practices, please contact us at:
+If you have any questions or concerns about these Terms of Service or our data practices, please direct them to to privacy@seguri.io.
 
-Seguri  
-Email: [Insert Contact Email]  
-Phone: [Insert Contact Phone Number]
