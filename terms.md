@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: "Terms of Service"
+toc: true
 ---
 
 # Terms of Service
