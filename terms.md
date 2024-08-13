@@ -4,7 +4,6 @@ title: "Terms of Service"
 toc: true
 ---
 
-# Terms of Service
 
 _Last updated: July 15th, 2024_
 
