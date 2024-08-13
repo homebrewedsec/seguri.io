@@ -1,6 +1,7 @@
 ---
-layout: page
+layout: single
 title: "Privacy Policy"
+toc: true
 ---
 
 # Privacy Policy
