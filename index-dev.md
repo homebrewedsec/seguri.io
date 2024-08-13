@@ -2,13 +2,14 @@
 layout: splash
 title: "Tailored Cyber Defense Solutions"
 header:
+  title: "Tired of one-size-fits-all cybersecurity solutions?
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/home-header.jpg
   actions:
     - label: "Speak with an Expert"
       url: "#contact"
-excerpt: "Experience security solutions designed with security practitioners in mind."
+excerpt: "Experience custom-tailored security solutions designed with security practitioners in mind."
 services:
   - icon: fa-solid fa-shield-halved
     title: "Jump Start your Security Program"
@@ -49,8 +50,10 @@ training:
 {% include feature_row id="services" %}
 {% include feature_row id="services2" %}
 
+{: #training}
+# Training
+{% include feature_row id="training" %}
+
+
 {: #about} 
 {% include feature_row id="intro" type="center" %}
-
-{: #training}
-{% include feature_row id="training" %}
