@@ -23,26 +23,26 @@ services:
 services2:
   - icon: fa-solid fa-briefcase
     title: "Mergers and Acquisitions"
-    excerpt: "Placeholder"
+    excerpt: "Our Mergers and Acquisitions service ensures that security is at the forefront of your M&A activities. We provide comprehensive assessments to identify potential risks and vulnerabilities in the target company’s security posture, enabling you to make informed decisions. Our approach includes detailed integration plans to align security practices, ensuring that your expanded organization remains resilient and secure throughout the transition."
   - icon: fa-solid fa-globe
     title: "Zero Trust Solutions"
-    excerpt: "Placeholder"
+    excerpt: "Our Zero Trust Solutions are designed to help you implement a security model that eliminates implicit trust and continuously validates every stage of digital interaction. We work with you to design and deploy a Zero Trust architecture that aligns with your organization’s specific needs, ensuring that all users, devices, and applications are securely authenticated and authorized, regardless of their location."
   - icon: fa-solid fa-ellipsis
     title: "Custom Solutions"
-    excerpt: "Placeholder"
+    excerpt: "Our Custom Solutions service offers fully tailored security strategies that meet the unique needs of your organization. Whether you're facing specific challenges or looking to implement specialized security measures, we work closely with you to develop and execute solutions that address your most critical security concerns. With no 'one-size-fits-all' approach, our services are as flexible and adaptable as your business requires."
 intro:
   - title: "Who are We?"
     excerpt: "At Seguri, we are security practitioners dedicated to creating a services company that truly addresses the concerns and issues we've faced in the field. With a background spanning consulting for some of the world’s largest companies, security for large enterprise mergers and acquisitions, and building security programs from the ground up at startups, we understand the diverse challenges businesses encounter.  <br>  <br> Our mission is to provide actionable and practical assessments and services that meet your unique requirements without any big surprises when the report comes along. We believe in fully customizable, tailored solutions—not a set of unmovable options from a menu. By leveraging our extensive experience and industry knowledge, we ensure that our services are both effective and aligned with your specific needs, delivering security insights that you can act on immediately. At Seguri, we are committed to helping you enhance your security posture with precision and confidence."
 training:
   - icon: fa-solid fa-fingerprint
     title: "Active Directory Security Training"
-    excerpt: "Placeholder"
+    excerpt: "Our Active Directory Security Training focuses on safeguarding one of your organization’s most critical assets. This program dives deep into best practices, common vulnerabilities, and advanced techniques to secure and harden your Active Directory environment. Participants will learn how to detect and mitigate threats, implement robust access controls, and maintain the integrity of their directory services."
   - icon: fa-solid fa-magnifying-glass
     title: "Detection Engineering Bootcamp"
-    excerpt: "Placeholder"
+    excerpt: "Our Detection Engineering Bootcamp is an intensive, hands-on course designed to enhance your team's ability to build, tune, and maintain effective detection mechanisms. Participants will gain expertise in crafting custom detection rules, leveraging advanced analytics, and responding to security incidents with precision. This training is essential for any organization looking to elevate their threat detection capabilities to the next level."
   - icon: fa-solid fa-chalkboard-user
     title: "Custom Training"
-    excerpt: "Our training services are designed to empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Our training covers a wide range of topics, from foundational security principles to advanced threat detection and response techniques. We focus on providing actionable and practical learning experiences, ensuring that your team can immediately apply what they’ve learned to enhance your security posture. "
+    excerpt: "Our training services are designed to empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Our training covers a wide range of topics, from foundational security principles to advanced threat detection and response techniques. We focus on providing actionable and practical learning experiences, ensuring that your team can immediately apply what they’ve learned to enhance your security posture."
 
 ---
 {: #services}
