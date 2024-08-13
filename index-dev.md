@@ -2,7 +2,7 @@
 layout: splash
 title: "Tailored Cyber Defense Solutions"
 header:
-  title: "Tired of one-size-fits-all cybersecurity solutions?
+  title: "Tired of one-size-fits-all cybersecurity solutions?"
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/home-header.jpg
