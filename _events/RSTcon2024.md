@@ -7,7 +7,7 @@ header:
   teaser: /assets/images/events-rstcon.png
 ---
 
-We’re thrilled to announce that Seguri will be attending [RSTcon 2024](https://rstcon.org/), taking place on September 13-15, 2024, at The DeSoto Hotel in Savannah, GA. RSTcon is a premier event focusing on industrial control systems (ICS) and operational technology (OT), bringing together leading experts, researchers, and practitioners in the field.
+We’re thrilled to announce that Seguri will be attending and presenting at [RSTcon 2024](https://rstcon.org/), taking place on September 13-15, 2024, at The DeSoto Hotel in Savannah, GA. RSTcon is a premier event focusing on industrial control systems (ICS) and operational technology (OT), bringing together leading experts, researchers, and practitioners in the field.
 
 ## Connect with Us
 
