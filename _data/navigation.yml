@@ -10,3 +10,5 @@ main:
      url: "https://seguri.io/events/"
    - title: "Blog"
      url: "https://seguri.io/blog/"
+   - title: "Contact Us"
+     url: "https://seguri.io/contact/"

@@ -75,9 +75,11 @@ footer:
       url: "https://github.com"
       label: " "
     - label: "Privacy Policy"
-      url: "https://seguri.io/privacy"
+      url: "https://seguri.io/privacy/"
     - label: "Terms of Service"
-      url: "https://seguri.io/terms"
+      url: "https://seguri.io/terms/"
+    - label: "Contact Us"
+      url: "https://seguri.io/contact/"
 
 
 # Reading Files
