@@ -1,8 +1,10 @@
 # main links
 main:
    - title: "About"
-     url: "#about"
+     url: "https://seguri.io/#about"
    - title: "Services"
-     url: "#services"
+     url: "https://seguri.io/#services"
    - title: "Training"
-     url: "#training"
+     url: "https://seguri.io/#training"
+   - title: "Blog"
+     url: "https://seguri.io/blog/"
