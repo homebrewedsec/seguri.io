@@ -56,7 +56,7 @@ Whether you're a seasoned ICS security professional or new to the field, this me
     <input type="company" name="company">
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">RSVP</button>
 </form>
 
 ### Book a Meeting

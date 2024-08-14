@@ -51,7 +51,7 @@ We'll have drinks, light appetizers, and plenty of great conversation. This is a
     <input type="company" name="company">
   </label>
   <!-- your other form fields go here -->
-  <button type="submit">Send</button>
+  <button type="submit">RSVP</button>
 </form>
 
 ### Book a Meeting
