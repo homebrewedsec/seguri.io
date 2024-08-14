@@ -3,7 +3,8 @@ title: "RSTcon 2024"
 excerpt: "September 13-15, 2024 at The DeSoto Hotel, Savannah, GA"
 layout: "splash"
 header:
-  image: /assets/images/events-rstcon.png
+  overlay_image: /assets/images/events-rstcon.png
+  overlay_filter: 0.5
   teaser: /assets/images/events-rstcon.png
 ---
 

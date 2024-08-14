@@ -1,8 +1,10 @@
 ---
 title: "BlueTeamCon 2024"
 excerpt: "September 7-8, 2024 at Fairmont Hotel Chicago"
+layout: "splash"
 header:
-  image: /assets/images/events-blueteamcon.png
+  overlay_image: /assets/images/events-blueteamcon.png
+  overlay_filter: 0.5
   teaser: /assets/images/events-blueteamcon.png
 ---
 
