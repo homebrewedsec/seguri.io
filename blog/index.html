@@ -4,3 +4,10 @@ title: "Blog"
 paginate: 5
 entries_layout: grid
 ---
+
+
+<div class="grid__wrapper">
+  {% for post in site.paginator %}
+    {% include archive-single.html type="grid" %}
+  {% endfor %}
+</div>
