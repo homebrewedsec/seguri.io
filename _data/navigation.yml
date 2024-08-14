@@ -6,5 +6,7 @@ main:
      url: "https://seguri.io/#services"
    - title: "Training"
      url: "https://seguri.io/#training"
+   - title: "Events"
+     url: "https://seguri.io/events/"
    - title: "Blog"
      url: "https://seguri.io/blog/"

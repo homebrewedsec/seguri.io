@@ -1,5 +1,5 @@
 ---
-title: Events
+title: Upcomming Events
 layout: collection
 permalink: /events/
 collection: events
