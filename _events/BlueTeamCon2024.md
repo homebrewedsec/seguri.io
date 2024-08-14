@@ -1,30 +1,71 @@
 ---
-title: "Foo Bar Identity"
-excerpt: "Foo Bar design system including logo mark, website design, and branding applications."
+title: "BlueTeamCon 2024"
+excerpt: "September 7-8, 2024 at Fairmont Hotel Chicago"
 header:
-  image: /assets/images/foo-bar-identity.jpg
-  teaser: /assets/images/foo-bar-identity-th.jpg
-sidebar:
-  - title: "Role"
-    image: http://placehold.it/350x250
-    image_alt: "logo"
-    text: "Designer, Front-End Developer"
-  - title: "Responsibilities"
-    text: "Reuters try PR stupid commenters should isn't a business model"
-gallery:
-  - url: /assets/images/unsplash-gallery-image-1.jpg
-    image_path: assets/images/unsplash-gallery-image-1-th.jpg
-    alt: "placeholder image 1"
-  - url: /assets/images/unsplash-gallery-image-2.jpg
-    image_path: assets/images/unsplash-gallery-image-2-th.jpg
-    alt: "placeholder image 2"
-  - url: /assets/images/unsplash-gallery-image-3.jpg
-    image_path: assets/images/unsplash-gallery-image-3-th.jpg
-    alt: "placeholder image 3"
+  image: /assets/images/events-blueteamcon.png
+  teaser: /assets/images/events-blueteamcon.png
 ---
 
-Pictures of Goats section West Seattle Blog dingbat newspaper rubber cement Google+ newsroom cafe news.me rubber cement, Ushahidi Kindle Single syndicated Instagram HuffPo community mthomps, Mozilla iPhone app should isn't a business model curmudgeon Snarkmarket Tim Carmody production of innocence. Fuego tweets community DocumentCloud metered model Gardening & War section YouTube social media SEO information overload analytics Aron Pilhofer Journal Register data visualization WikiLeaks Groupon, collaboration Steve Jobs we need a Nate Silver AP What Would Google Do the power of the press belongs to the person who owns one Clay Shirky curmudgeon Voice of San Diego free as in beer dead trees the notion of the public Lucius Nieman.
+We’re excited to announce that Seguri will be attending [BlueTeamCon 2024](https://blueteamcon.com/), taking place on September 7-8, 2024, at the Fairmont Hotel Chicago. This event brings together cybersecurity professionals, practitioners, and enthusiasts to share knowledge, network, and discuss the latest trends in defensive security.
 
-{% include gallery caption="This is a sample gallery to go along with this case study." %}
+## Connect with Us
 
-hackgate copyright Lucius Nieman CNN leaves it there right-sizing a giant stack of newspapers that you'll never read net neutrality algorithms RT algorithms TechCrunch 5% corruption, horse-race coverage Gardening & War section CTR try PR CPC David Cohn shoot a photo algorithms content is king Android Snarkmarket crowdfunding, Fuego Twitter topples dictators YouTube abundance WordPress Reuters try PR stupid commenters should isn't a business model bringing a tote bag to a knife fight.
+At Seguri, we’re committed to helping organizations build robust, tailored cyber defense solutions. BlueTeamCon is the perfect opportunity for us to connect with like-minded professionals, discuss industry challenges, and explore innovative approaches to security.
+
+Our team will be available throughout the event to chat with practitioners about their security needs, challenges, and goals. Whether you’re interested in discussing our services, exploring potential partnerships, or just want to talk shop, we’d love to meet with you.
+
+### Meet with Like-Minded Defenders
+
+We're hosting a special meetup on **Friday, September 6th**, the evening before BlueTeamCon kicks off. This informal gathering is the perfect chance to unwind, share war stories, and exchange ideas with fellow defenders in a relaxed setting. Whether you're a seasoned professional or just starting in the field, this meetup offers a unique opportunity to connect with peers and industry experts.
+
+#### Event Details:
+- **Date:** Friday, September 6th, 2024
+- **Time:** 7:00 PM - 9:00 PM
+- **Location:** [Venue provided upon RSVP - Near the Fairmont Hotel Chicago]
+- **RSVP:** Please fill out the form below to let us know you're coming.
+
+We'll have drinks, light appetizers, and plenty of great conversation. This is a fantastic opportunity to network, discuss the latest challenges and trends in cybersecurity, and build connections that could last a lifetime.
+
+*RSVP soon as space is limited!*
+
+<form
+  action="https://formspree.io/f/mpwalanr"
+  method="POST"
+>
+  <label>
+    Your name:
+    <input type="name" name="name">
+  </label>
+  <label>
+    Your work email:
+    <input type="email" name="email">
+  </label>
+  <label>
+    Title
+    <input type="title" name="title">
+  </label>
+  <label>
+    Company:
+    <input type="company" name="company">
+  </label>
+  <!-- your other form fields go here -->
+  <button type="submit">Send</button>
+</form>
+
+### Book a Meeting
+
+If you’d like to schedule a dedicated time to speak with us during BlueTeamCon, feel free to [contact us](https://seguri.io/contact) in advance. We can arrange a time that fits into your schedule, ensuring you get the most out of your experience at the event.
+
+## Why Attend BlueTeamCon?
+
+BlueTeamCon is more than just a conference—it’s a community-driven event that focuses on practical, actionable knowledge for defenders. With a range of talks, workshops, and networking opportunities, it’s an ideal venue for anyone looking to deepen their understanding of defensive security and connect with others in the field.
+
+We look forward to seeing you there!
+
+---
+
+**Event Details:**
+
+- **Date:** September 7-8, 2024
+- **Location:** Fairmont Hotel Chicago
+- **Learn More:** [BlueTeamCon 2024](https://blueteamcon.com/)
