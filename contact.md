@@ -2,7 +2,7 @@
 title: "Contact Us"
 layout: "single"
 header:
-  overlay_image: /assets/images/header-bg.png
+  overlay_image: /assets/images/home-header.png
   overlay_filter: 0.5
 ---
 
