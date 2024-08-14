@@ -1,7 +1,6 @@
 ---
 layout: splash
 title: "Tailored Cyber Defense Solutions"
-sitemap: false
 header:
   title: "Tired of one-size-fits-all cybersecurity solutions?"
   overlay_color: "#000"
