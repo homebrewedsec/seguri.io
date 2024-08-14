@@ -1,8 +1,0 @@
----
-layout: home
-classes: wide
-title: "Blog"
-paginate: 5
-permalink:"/blog/"
-entries_layout: grid
----
