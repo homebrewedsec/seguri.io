@@ -15,13 +15,15 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
-	  <li>Subscribe <form
+	  <li>Subscribe
+	  <form
   action="https://formspree.io/f/xgvwzwbk"
   method="POST"
 >
   <label>
-    <input type="email" name="email" value="email">
-  </label><button type="submit">Submit</button>
+    <li><input type="email" name="email" value="your@email.com">
+  </label>
+  <li><button type="submit">Submit</button>
 </form>
   </ul>
 </div>
