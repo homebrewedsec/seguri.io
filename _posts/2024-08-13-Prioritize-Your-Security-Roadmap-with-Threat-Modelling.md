@@ -1,10 +1,10 @@
 ---
 layout: single
 title: "Prioritize Your Security Roadmap with Attack Path Mapping"
-date: 2024-08-13
 toc: true
 tags: [MITRE ATT&CK, Threat Modeling, Cybersecurity, Security Roadmap]
 header:
+  teaser: /assets/images/threatmodelling-bg.png
   overlay_image: /assets/images/threatmodelling-bg.png
   overlay_filter: 0.5
 excerpt: >
