@@ -147,8 +147,8 @@ sass:
 # Outputting
 permalink: /:categories/:title/
 paginate: 5 # amount of posts to show
-paginate_path: blog/page:num/
-timezone: # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+paginate_path: /blog/page:num/
+timezone: "America/New_York"
 
 
 # Plugins (previously gems:)
@@ -208,6 +208,9 @@ collections:
    posts:
      output: true
      permalink: /blog/:title/
+  events:
+    output: true
+    permalink: /:collection/:path/
 
 # Defaults
 defaults:
