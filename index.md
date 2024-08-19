@@ -5,7 +5,7 @@ header:
   title: "Tired of one-size-fits-all cybersecurity solutions?"
   overlay_color: "#000"
   overlay_filter: "0.5"
-  overlay_image: assets/images/home-header.png
+  overlay_image: assets/images/home-header.webp
   actions:
     - label: "Speak with an Expert"
       url: "/contact"
