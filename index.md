@@ -8,7 +8,7 @@ header:
   overlay_image: assets/images/home-header.png
   actions:
     - label: "Speak with an Expert"
-      url: "#contact"
+      url: "/contact"
 excerpt: "Experience custom-tailored security solutions designed with security practitioners in mind."
 services:
   - icon: fa-solid fa-shield-halved
