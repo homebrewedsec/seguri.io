@@ -17,8 +17,8 @@
     {% unless site.atom_feed.hide %}
       <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ '/feed.xml' | relative_url }}{% endif %}"><i class="fas fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
     {% endunless %}
-	  <li> <form action="https://formspree.io/f/xgvwzwbk"method="POST">Subscribe</li>
-    <li><label><input type="email" name="email" value="your@email.com" aria-label="email"></label></li>
+	  <li>Subscribe</li>
+    <li><form action="https://formspree.io/f/xgvwzwbk"method="POST"><label><input type="email" name="email" value="your@email.com" aria-label="email"></label></li>
   <li><button type="submit">Submit</button></form></li>
 
   </ul>
