@@ -2,7 +2,7 @@
 layout: null
 sitemap: false
 ---
-Sitemap: https://nithinbekal.com/sitemap.xml
+Sitemap: https://seguri.io/sitemap.xml
 
 User-agent: *
 Disallow: /feed.xml
