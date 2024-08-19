@@ -1,0 +1,7 @@
+---
+layout: null
+sitemap: false
+---
+Contact: mailto:security@seguri.io
+Expires: 2025-08-01T07:00:00.000Z
+Canonical: https://seguri.io/security.txt
