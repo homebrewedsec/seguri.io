@@ -35,10 +35,11 @@ reCaptcha:
 atom_feed:
   path                   : # blank (default) uses feed.xml
   hide                   : true
+future                   : false
 
 # Social Sharing
 twitter:
-  username               :
+  username               : seguri_io
 og_image                 : # Open Graph/Twitter default site image
 # For specifying social profiles
 # - https://developers.google.com/structured-data/customize/social-profiles
