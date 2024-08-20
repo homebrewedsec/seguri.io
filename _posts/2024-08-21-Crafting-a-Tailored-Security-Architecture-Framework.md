@@ -4,8 +4,8 @@ title: "Crafting a Tailored Security Architecture Framework"
 excerpt: "Leverage the strengths of TOGAF, SABSA, Zachman, and more to build a security architecture framework that fits your organization."
 toc: true
 header:
-  overlay_image: /assets/images/post-architecture.png
-  teaser: /assets/images/post-architecture.png
+  overlay_image: /assets/images/post-architecture.jpg
+  teaser: /assets/images/post-architecture.jpg
   overlay_filter: 0.5
 tags:
   - TOGAF
