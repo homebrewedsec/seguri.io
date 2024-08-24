@@ -7,7 +7,6 @@ header:
   overlay_image: /assets/images/post-incidentresponse.jpg
   teaser: /assets/images/post-incidentresponse.jpg
   overlay_filter: 0.5
-tags: [Incident Response Planning, Tabletop Exercises,Playbooks ]
 ---
 
 In today’s rapidly evolving cyber threat landscape, having a robust incident response plan (IRP) is not just a best practice—it’s a necessity. An effective IRP ensures that your organization is prepared to detect, respond to, and recover from security incidents swiftly and efficiently. But planning is just the first step. To be truly prepared, your IRP needs to be tested regularly, and your team should have access to well-crafted alert and incident playbooks.

@@ -7,12 +7,6 @@ header:
   overlay_image: /assets/images/post-resourceplan.jpg
   teaser: /assets/images/post-resourceplan.jpg
   overlay_filter: 0.5
-tags:
-  - Resource Planning
-  - CMMC
-  - Security Program
-  - Outsourcing
-  - MSSP
 ---
 
 When developing a robust security program, many organizations focus on policies, procedures, and technical controls. However, one crucial component that often gets overlooked is the Security Resource Plan. Without proper resourcing, even the most well-designed security strategy can fail to achieve its objectives. A Security Resource Plan ensures that all security domains and practices within your organization are adequately supported, whether through internal teams, outsourced providers, or a combination of both.

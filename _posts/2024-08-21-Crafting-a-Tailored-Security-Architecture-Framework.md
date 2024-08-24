@@ -7,12 +7,6 @@ header:
   overlay_image: /assets/images/post-architecture.jpg
   teaser: /assets/images/post-architecture.jpg
   overlay_filter: 0.5
-tags:
-  - TOGAF
-  - SABSA
-  - Zachman
-  - DODAF
-  - Security Architecture
 ---
 
 In today's complex digital landscape, building a robust security architecture framework is more than just a necessity—it's a strategic imperative. But where do you begin? The answer lies in leveraging existing security architecture frameworks like TOGAF, SABSA, Zachman, and O-ESA, while tailoring them to fit your specific organizational needs. Many of these frameworks are designed with massive organizations in mind, so a one-size-fits-all approach may leave your program bloated with unnecessary components. Instead, by carefully selecting and tailoring elements from these frameworks, you can craft a security architecture that elevates your program without overwhelming it.

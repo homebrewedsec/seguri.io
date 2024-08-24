@@ -10,7 +10,7 @@ header:
 
 ## Your Event Here
 
-Whether you’re planning a meetup, sponsoring a conference, or organizing trainings during Cybersecurity Awareness Month, we’d love to be a part of it.
+Whether you’re planning a meetup, have a conference you think we should sponsor or speak at, or organizing trainings during Cybersecurity Awareness Month, we’d love to talk to you about it.
 
 **Invite us to your next event**—we can collaborate on anything from speaking engagements to hands-on workshops, tailored to meet the unique needs of your audience.
 
