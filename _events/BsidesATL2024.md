@@ -3,8 +3,8 @@ title: "BSides Atlanta 2024"
 layout: splash
 excerpt: "September 14th, 2024 - KSU Center, Kennesaw, GA"
 header:
-  overlay_image: /assets/images/events-bsidesatl.png
-  teaser: /assets/images/events-bsidesatl.png
+  overlay_image: /assets/images/evemts-bsidesatl.png
+  teaser: /assets/images/evemts-bsidesatl.png
   overlay_filter: 0.5
 ---
 
