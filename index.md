@@ -25,6 +25,17 @@ services2:
   - icon: fa-solid fa-briefcase
     title: "Mergers and Acquisitions"
     excerpt: "Ensure security is at the forefront of your M&A activities with our Mergers and Acquisitions solutions. We provide comprehensive assessments to identify potential risks and vulnerabilities in the target company’s security posture, enabling you to make informed decisions. Our approach includes detailed integration plans to align security practices, ensuring that your expanded organization remains resilient and secure throughout the transition."
+  - icon: fa-solid fa-fire-extinguisher
+    title: "Incident Response Planning"
+    excerpt: "Prepare your organization to effectively handle security incidents with our Incident Response Planning services. We develop comprehensive incident response plans, conduct tabletop exercises (TTX) to test and refine your strategies, and create detailed incident response playbooks to ensure your team is ready to respond swiftly and efficiently to any threat."
+  - icon: fa-solid fa-compass-drafting
+    title: "Security Architecture Development"
+    excerpt: "Build a robust and scalable security architecture tailored to your organization’s unique needs with our Security Architecture Development services. We work closely with your team to develop a customized security framework, create custom artifacts and metamodels, and provide a detailed architecture roadmap that aligns with your long-term security goals."
+
+services3:
+  - icon: fa-solid fa-gear
+    title: "Security Operations"
+    excerpt: "Enhance your organization’s ability to detect, respond to, and mitigate security threats with our Security Operations services. We offer comprehensive detection engineering, perform gap analysis and tuning, and develop alert triage playbooks to optimize your security operations and ensure your defenses are always at their peak."
   - icon: fa-solid fa-globe
     title: "Zero Trust Solutions"
     excerpt: "Implement a security model that eliminates implicit trust and continuously validates every stage of digital interaction with our Zero Trust Solutions. We work with you to design and deploy a Zero Trust architecture that aligns with your organization’s specific needs, ensuring that all users, devices, and applications are securely authenticated and authorized, regardless of their location."
@@ -52,6 +63,7 @@ training:
 # Services 
 {% include feature_row id="services" %}
 {% include feature_row id="services2" %}
+{% include feature_row id="services3" %}
 
 {: #training}
 # Training
