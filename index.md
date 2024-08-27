@@ -36,7 +36,6 @@ services3:
   - icon: fa-solid fa-gear
     title: "Security Operations"
     excerpt: "Elevate your security game with our Security Operations services. We're not just about implementing tools - we're about optimizing your entire security ecosystem. From crafting robust detection engineering strategies to performing meticulous gap analysis and tuning, we'll help you spot threats faster and respond smarter. Our custom alert triage playbooks ensure your team isn't just drowning in alerts, but efficiently tackling real threats. The result? A security operations center that's always ahead of the curve, not just keeping pace."
-
   - icon: fa-solid fa-globe
     title: "Zero Trust Solutions"
     excerpt: "Zero trust is not just a product you can buy off the shelf. Our Zero Trust Solutions help you transition from a 'trust but verify' approach to a 'never trust, always verify' mindset. We don't just throw buzzwords at you - we work closely with your team to design and implement a Zero Trust architecture that fits your organization like a glove. From users and devices to applications, we ensure everything is authenticated, authorized, and continuously validated, no matter where they are. It's not just security - it's peace of mind in a perimeter-less world."
