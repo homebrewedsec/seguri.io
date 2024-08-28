@@ -3,6 +3,7 @@ layout: single
 title: "Privacy Policy"
 toc: true
 permalink: "/privacy/"
+last_modified_at: 2024-07-15
 ---
 
 _Last updated: July 15th, 2024_
