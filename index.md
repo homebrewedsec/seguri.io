@@ -2,14 +2,14 @@
 layout: splash
 title: "Seguri"
 header:
-  title: "Ready for Security Solutions That Actually Fit Your Business?"
+  title: "Your Business is Unique, Your Security Solutions Should be Too"
   overlay_color: "#000"
   overlay_filter: "0.5"
   overlay_image: assets/images/home-header.webp
   actions:
     - label: "Let's Secure Your Business"
       url: "/contact"
-excerpt: "Frustrated with cookie-cutter cybersecurity approaches that ignore your unique challenges? At Seguri, we get it. We're practitioners turned consultants, crafting tailored security solutions that work in the real world, not just on paper."
+excerpt: "At Seguri, we craft security solutions as unique as your business, because one-size-fits-all doesn't cut it in the real world."
 services:
   - icon: fa-solid fa-shield-halved
     title: "Accelerate your Security Program"
