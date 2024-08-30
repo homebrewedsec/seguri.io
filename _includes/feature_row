@@ -4,7 +4,7 @@
   {% assign feature_row = page.feature_row %}
 {% endif %}
 
-<div class="feature__wrapper" style="margin-top:2em;border-bottom:0px;border-top:1px solid #51555d;padding-top:2em;">
+<div class="feature__wrapper" style="margin-top:2em;border-bottom:0px;border-bottom:1px solid #51555d;padding-top:2em;">
 
   {% for f in feature_row %}
     <div class="feature__item{% if include.type %}--{{ include.type }}{% endif %}">
