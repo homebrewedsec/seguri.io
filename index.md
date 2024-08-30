@@ -1,6 +1,6 @@
 ---
 layout: splash
-title: "Seguri"
+title: "Tailored Cyber Defense Solutions"
 header:
   title: "Your Business is Unique, Your Security Solutions Should be Too"
   overlay_color: "#000"
