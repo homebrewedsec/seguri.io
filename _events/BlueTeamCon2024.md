@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/events-blueteamcon.png
 ---
 
-We’re excited to announce that Seguri will be attending [BlueTeamCon 2024](https://blueteamcon.com/), taking place on September 7-8, 2024, at the Fairmont Hotel Chicago. This event brings together cybersecurity professionals, practitioners, and enthusiasts to share knowledge, network, and discuss the latest trends in defensive security.
+We’re excited to announce that Seguri will be attending <a title="BlueTeamCon" href="https://blueteamcon.com/" target="_blank">BlueTeamCon</a>, taking place on September 7-8, 2024, at the Fairmont Hotel Chicago. This event brings together cybersecurity professionals, practitioners, and enthusiasts to share knowledge, network, and discuss the latest trends in defensive security.
 
 ## Connect with Us
 
@@ -56,7 +56,7 @@ We'll have drinks, light appetizers, and plenty of great conversation. This is a
 
 ### Book a Meeting
 
-If you’d like to schedule a dedicated time to speak with us during BlueTeamCon, feel free to [contact us](https://seguri.io/contact) in advance. We can arrange a time that fits into your schedule, ensuring you get the most out of your experience at the event.
+If you’d like to schedule a dedicated time to speak with us during BlueTeamCon, feel free to <a title="Contact Seguri" href="https://seguri.io/contact/">Contct Us</a> in advance. We can arrange a time that fits into your schedule, ensuring you get the most out of your experience at the event.
 
 ## Why Attend BlueTeamCon?
 
@@ -70,4 +70,4 @@ We look forward to seeing you there!
 
 - **Date:** September 7-8, 2024
 - **Location:** Fairmont Hotel Chicago
-- **Learn More:** [BlueTeamCon 2024](https://blueteamcon.com/)
+- **Learn More:** <a title="BlueTeamCon" href="https://blueteamcon.com/" target="_blank">BlueTeamCon</a>
