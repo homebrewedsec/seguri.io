@@ -7,7 +7,7 @@
     {% if site.footer.links %}
       {% for link in site.footer.links %}
         {% if link.label and link.url and link.icon %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer" title="{{ link.label }}"><i class="{{ link.icon | default: '' }}" aria-hidden="true"></i> </a></li>
+          <li><a href="{{ link.url }}" target="_blank" rel="nofollow noopener noreferrer" title="{{ link.label }}"><i class="{{ link.icon | default: '' }}" aria-hidden="true"></i> </a></li>
 		{% elsif link.label and link.url and link.icon == null %}
 		  <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer" title="{{ link.label }}"><i class="{{ link.icon | default: '' }}" aria-hidden="true"></i> {{ link.label }}</a></li>
         {% endif %}
