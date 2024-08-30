@@ -1,7 +1,7 @@
 ---
 layout: "splash"
 title: "Your Event Here"
-excerpt: "Let's Collaborate!"
+excerpt: "Let's collaborate to see how Seguri can support your event. Get in touch to discuss your needs."
 header:
   overlay_image: /assets/images/events-placeholder.jpg
   teaser: /assets/images/events-placeholder.jpg

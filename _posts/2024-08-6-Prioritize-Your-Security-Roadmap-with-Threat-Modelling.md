@@ -6,8 +6,7 @@ header:
   teaser: /assets/images/threatmodelling-bg.png
   overlay_image: /assets/images/threatmodelling-bg.png
   overlay_filter: 0.5
-excerpt: >
-  Tired of putting out fires and reacting to the latest vulnerabilities? Shift to a proactive security strategy with Attack Path Mapping using the MITRE ATT&CK framework. Learn how to identify and prioritize the most critical gaps in your security program that attackers could exploit to access your crown jewels.
+excerpt: "Enhance your security with Attack Path Mapping using MITRE ATT&CK. Prioritize critical gaps for proactive protection."
 ---
 
 In the ever-evolving landscape of cybersecurity, it can be tempting to chase after the latest vulnerabilities and threats. However, this reactive approach often leads to a cycle of "putting out fires" without addressing the underlying gaps in your security program. Instead, a strategic, proactive approach can be far more effective in securing your organization. One of the most powerful tools to achieve this is **Attack Path Mapping** using the <a title="MITRE ATT&CK" href="https://attack.mitre.org/" target="_blank">MITRE ATT&CK</a> framework.

@@ -2,7 +2,7 @@
 layout: single
 title: "Unlocking Efficiency: Why Your Security Program Needs a Resource Plan"
 toc: true
-excerpt: "Ensuring your security program is adequately resourced is crucial for its success. Learn how to develop a comprehensive security resource plan that supports your organization's unique needs."
+excerpt: "Discover the importance of a well-resourced security program. Learn how you can develop a tailored plan to support your organization's needs."
 header:
   overlay_image: /assets/images/post-resourceplan.jpg
   teaser: /assets/images/post-resourceplan.jpg

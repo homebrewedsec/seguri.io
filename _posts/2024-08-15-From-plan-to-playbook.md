@@ -2,7 +2,7 @@
 layout: single
 title: "From Plan to Playbook: Elevating Your Incident Response Strategy"
 toc: true
-excerpt: "Effective incident response planning is crucial for defending your organization against cyber threats. Learn how to write an IRP, test it with a tabletop exercise, and develop alert and incident playbooks to ensure your team is prepared."
+excerpt: "Learn how to create an effective incident response plan, test it with tabletop exercises, and develop alert and incident playbooks with Seguri."
 header:
   overlay_image: /assets/images/post-incidentresponse.jpg
   teaser: /assets/images/post-incidentresponse.jpg

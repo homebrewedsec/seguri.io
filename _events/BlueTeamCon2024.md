@@ -1,6 +1,6 @@
 ---
 title: "BlueTeamCon 2024"
-excerpt: "September 7-8, 2024 at Fairmont Hotel Chicago"
+excerpt: "Join us on September 7-8, 2024 at Fairmont Hotel Chicago for BlueTeamCon"
 layout: "splash"
 header:
   overlay_image: /assets/images/events-blueteamcon.png
