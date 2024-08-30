@@ -44,7 +44,7 @@ services3:
     excerpt: "Security challenges rarely fit into neat little boxes, and neither do our solutions. Our Custom Solutions service is all about addressing your unique security needs head-on. Whether you're grappling with industry-specific regulations, facing unusual threat vectors, or looking to push the boundaries of your security posture, we're here to craft strategies that fit your world. We don't believe in off-the-shelf solutions - instead, we roll up our sleeves and work side-by-side with you to develop and implement security measures that tackle your most critical concerns. Your business is unique, and your security should be too."
 
 intro:
-  - title: "Who are We?"
+  - title: "Who is Seguri?"
     excerpt: "Seguri exists to provide organizations with adaptive, real-world cybersecurity solutions. We're committed to being true security partners, offering tailored services that evolve with our clients' needs and deliver tangible, lasting results. <br> <br>Born from frustration with traditional security consulting, Seguri brings together a team of seasoned cybersecurity practitioners who've been in your shoes. We've experienced firsthand the gap between theoretical best practices and real-world implementation, and we're here to bridge it. Our approach is different - we don't believe in one-size-fits-all solutions or reports that gather dust on shelves. Instead, we offer flexible, customizable services that adapt to your unique challenges and objectives. <br> <br> At our core, we're hackers with a defensive focus. This unique perspective allows us to anticipate threats and develop robust protection strategies. We're not interested in being just another vendor you call for annual assessments. Our goal is to become an extension of your team, a true partner in your security journey. Through continuous collaboration and open communication, we ensure our solutions not only address your current needs but also evolve with your organization, providing lasting value and measurable improvements to your security posture."
 
 training:
@@ -60,13 +60,13 @@ training:
 
 ---
 {: #services}
-# Services 
+## Services 
 {% include feature_row id="services" %}
 {% include feature_row id="services2" %}
 {% include feature_row id="services3" %}
 
 {: #training}
-# Training
+## Training
 {% include feature_row id="training" %}
 
 
