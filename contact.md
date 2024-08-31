@@ -3,6 +3,7 @@ title: "Contact Us"
 description: "reach out to Seguri for personalized cyber defense solutions that meet your business's unique needs. Contact us via phone, email, or contact form today."
 layout: "single"
 header:
+  teaser: /assets/images/home-header.png
   overlay_image: /assets/images/home-header.png
   overlay_filter: 0.5
 ---

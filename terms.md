@@ -4,6 +4,8 @@ title: "Terms of Service"
 toc: true
 permalink: "/terms/"
 last_modified_at: 2024-07-15
+header:
+  teaser: /assets/images/home-header.png
 ---
 
 

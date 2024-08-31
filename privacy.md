@@ -4,6 +4,8 @@ title: "Privacy Policy"
 toc: true
 permalink: "/privacy/"
 last_modified_at: 2024-07-15
+header:
+  teaser: /assets/images/home-header.png
 ---
 
 _Last updated: July 15th, 2024_
