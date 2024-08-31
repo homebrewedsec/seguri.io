@@ -54,5 +54,5 @@ These Terms of Service and any disputes related to them or the Site or Services 
 
 ## Contact Us
 
-If you have any questions or concerns about these Terms of Service or our data practices, please direct them to to privacy@seguri.io.
+If you have any questions or concerns about these Terms of Service or our data practices, please direct them to to <a href="mailto:privacy@seguri.io" title="privacy@seguri.io">privacy@seguri.io</a>.
 

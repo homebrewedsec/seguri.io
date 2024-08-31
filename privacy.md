@@ -60,5 +60,5 @@ We may update this privacy policy from time to time. Any changes will be posted 
 
 ## Contact Us
 
-If you have any specific requests relative to your personal data, questions about the privacy aspects of our Services, or any complaints, please direct them to to privacy@seguri.io.
+If you have any specific requests relative to your personal data, questions about the privacy aspects of our Services, or any complaints, please direct them to to <a href="mailto:privacy@seguri.io" title="privacy@seguri.io">privacy@seguri.io</a>.
 

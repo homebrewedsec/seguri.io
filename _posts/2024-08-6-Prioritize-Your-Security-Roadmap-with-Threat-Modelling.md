@@ -57,4 +57,4 @@ Start prioritizing your security efforts today by understanding how attackers mi
 
 ---
 
-Interested in learning more about how Seguri can help you map out your attack paths and build a robust security roadmap? [Contact us today](https://seguri.io/contact) to schedule a consultation.
+Interested in learning more about how Seguri can help you map out your attack paths and build a robust security roadmap? <a title="Contact us today" href="https://seguri.io/contact/" target="_blank">Contact us today</a> to schedule a consultation.
