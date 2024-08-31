@@ -13,7 +13,7 @@ _Last updated: July 15th, 2024_
 
 ## Introduction
 
-We at Seguri, Inc. are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This privacy policy explains how we collect, use, and protect your information when you visit our website at [https://seguri.io](https://seguri.io) (the "Site") or use any of our services (collectively, the "Services"). By visiting the Site or using any of our Services, you agree that your personal information will be handled as described in this Policy.
+We at Seguri, Inc. are committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This privacy policy explains how we collect, use, and protect your information when you visit our website at https://seguri.io (the "Site") or use any of our services (collectively, the "Services"). By visiting the Site or using any of our Services, you agree that your personal information will be handled as described in this Policy.
 
 ## Information We Collect
 

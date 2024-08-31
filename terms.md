@@ -13,7 +13,7 @@ _Last updated: July 15th, 2024_
 
 ## Introduction
 
-Your use of the Seguri, Inc. website located at [https://seguri.io](https://seguri.io) (the "Site"), or any of our services (collectively, the "Services"), are bound by these Terms of Service ("Terms"). Please read these Terms carefully before using the Site or Services. If you do not agree to these Terms, you should not use the Site or Services.
+Your use of the Seguri, Inc. website located at https://seguri.io (the "Site"), or any of our services (collectively, the "Services"), are bound by these Terms of Service ("Terms"). Please read these Terms carefully before using the Site or Services. If you do not agree to these Terms, you should not use the Site or Services.
 
 ## Use of the Site
 
