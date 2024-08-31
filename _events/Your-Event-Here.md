@@ -16,4 +16,4 @@ Whether you’re planning a meetup, have a conference you think we should sponso
 
 ### How to Get in Touch
 
-Interested in having Seguri at your next event? Reach out to us at [events@seguri.io](mailto:events@seguri.io), and let’s make it happen!
+Interested in having Seguri at your next event? Reach out to us at <a href="mailto:events@seguri.io" title="events@seguri.io">events@seguri.io</a>, and let’s make it happen!
