@@ -1,6 +1,7 @@
 ---
 layout: single
 title: "Privacy Policy"
+description: "Seguri is committed to protecting your privacy and ensuring that your personal information is handled in a safe and responsible manner. This privacy policy explains how we collect, use, and protect your information."
 toc: true
 permalink: "/privacy/"
 last_modified_at: 2024-07-15

@@ -20,7 +20,7 @@ title                    : "Seguri"
 title_separator          : "|"
 subtitle                 : "Tailored Cyber Defense Solutions" # site tagline that appears below site title in masthead
 name                     : "Seguri"
-description              : "Seguri specializes n providing tailored cyber defense solutions that meet the unique needs of your business. "
+description              : "Seguri exists to provide organizations with adaptive, real-world cybersecurity solutions. We're committed to being your true security partner."
 url                      : "https://seguri.io" # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "homebrewedsec/seguri.io" # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
