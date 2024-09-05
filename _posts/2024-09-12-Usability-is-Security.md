@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "The Curb-Cutting Effect: Why Usability isnKey to Security"
+title: "The Curb-Cutting Effect: Why Usability is Key to Security"
 toc: true
 excerpt: "Improving usability can have unexpected positive impacts on security. Explore how making security tools more accessible can enhance your organization's overall security posture."
 header:
