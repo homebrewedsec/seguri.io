@@ -3,8 +3,8 @@ layout: splash
 title: "Tailored Cyber Defense Solutions"
 header:
   title: "Your Business is Unique, Your Security Solutions Should be Too"
-  overlay_color: "#000"
-  overlay_filter: "0.5"
+  overlay_color: "#595a54"
+  overlay_filter: "0.75"
   overlay_image: assets/images/home-header.png
   actions:
     - label: "Let's Secure Your Business"
