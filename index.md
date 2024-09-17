@@ -5,7 +5,7 @@ header:
   title: "Your Business is Unique, Your Security Solutions Should be Too"
   overlay_color: "#595a54"
   overlay_filter: "0.5"
-  overlay_image: assets/images/home-header.png
+  overlay_image: assets/images/home-header.webp
   actions:
     - label: "Let's Secure Your Business"
       url: "/contact"
