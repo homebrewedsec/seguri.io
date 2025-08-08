@@ -17,9 +17,9 @@ services:
   - icon: fa-solid fa-user-secret
     title: "Threat Modelling and Attack Path Mapping"
     excerpt: "Harness the power of proactive defense with our Threat Modeling and Attack Path Mapping services. We combine a hacker's insight with a defender's focus to map out potential attack paths, helping you prioritize your security efforts where they matter most. This isn't just a theoretical exercise – it's a practical, data-driven approach that transforms your security strategy from reactive to proactive. Plus, it provides the concrete justification you need for allocating security resources effectively, ensuring your defenses are both robust and efficient."
-  - icon: fa-regular fa-clipboard
-    title: "GRC and Regulatory Compliance"
-    excerpt: "Navigate the complex world of Governance, Risk, and Compliance (GRC) with confidence. Our GRC and Regulatory Compliance services are designed to help you establish, evaluate, and maintain a comprehensive program that meets both customer expectations and regulatory requirements. Whether you're initiating your GRC journey, assessing your current program's effectiveness, or tackling specific compliance challenges, we're here as your long-term partners. Our approach goes beyond mere checkbox ticking – we help you build a resilient, practical GRC program that stands up to real-world challenges."
+  - icon: fa-solid fa-network-wired
+    title: "Network Security Assessments"
+    excerpt: "Discover and eliminate network vulnerabilities before attackers do with our comprehensive Network Security Assessments. Our expert team conducts thorough evaluations of your network infrastructure, identifying potential attack vectors, misconfigurations, and security gaps. We don't just scan your network – we think like attackers, mapping out potential lateral movement paths and privilege escalation opportunities. From perimeter security and network segmentation to wireless infrastructure and remote access solutions, we provide detailed findings with actionable remediation steps that strengthen your network defense posture."
 
 services2:
   - icon: fa-solid fa-briefcase
@@ -32,16 +32,6 @@ services2:
     title: "Identity And Access Management"
     excerpt: "Secure your organization's digital identities with our specialized Identity and Access Management services. We focus on comprehensive assessments of Microsoft Entra ID (Azure AD) and traditional Active Directory environments, identifying vulnerabilities, misconfigurations, and opportunities for improvement. Our approach goes beyond basic compliance to deliver actionable insights that strengthen your identity infrastructure. From access reviews and privileged account management to conditional access policies and hybrid identity architectures, we help you build a robust IAM foundation that protects your most critical assets while enabling business productivity."
 
-services3:
-  - icon: fa-solid fa-gear
-    title: "SIEM Setup and Tuning"
-    excerpt: "Transform your security monitoring capabilities with our specialized SIEM Setup and Tuning services. We don't just deploy SIEM solutions – we optimize them for your unique environment. Our approach includes comprehensive log source integration, custom correlation rule development, and fine-tuning to reduce false positives while maximizing threat detection accuracy. From initial SIEM architecture design and deployment to ongoing optimization and custom dashboard creation, we ensure your security information and event management system becomes a powerful force multiplier for your security team, not just another tool generating noise."
-  - icon: fa-solid fa-network-wired
-    title: "Network Security Assessments"
-    excerpt: "Discover and eliminate network vulnerabilities before attackers do with our comprehensive Network Security Assessments. Our expert team conducts thorough evaluations of your network infrastructure, identifying potential attack vectors, misconfigurations, and security gaps. We don't just scan your network – we think like attackers, mapping out potential lateral movement paths and privilege escalation opportunities. From perimeter security and network segmentation to wireless infrastructure and remote access solutions, we provide detailed findings with actionable remediation steps that strengthen your network defense posture."
-  - icon: fa-solid fa-ellipsis
-    title: "Custom Solutions"
-    excerpt: "Security challenges rarely fit into neat little boxes, and neither do our solutions. Our Custom Solutions service is all about addressing your unique security needs head-on. Whether you're grappling with industry-specific regulations, facing unusual threat vectors, or looking to push the boundaries of your security posture, we're here to craft strategies that fit your world. We don't believe in off-the-shelf solutions - instead, we roll up our sleeves and work side-by-side with you to develop and implement security measures that tackle your most critical concerns. Your business is unique, and your security should be too."
 
 intro:
   - title: "Who is Seguri?"
@@ -53,7 +43,7 @@ training:
     excerpt: "Focus on protecting one of your organization’s most critical assets with our Active Directory Security Training. This program dives deep into best practices, common vulnerabilities, and advanced techniques to secure and harden your Active Directory environment. Participants will learn how to detect and mitigate threats, implement robust access controls, and maintain the integrity of their directory services."
   - icon: fa-solid fa-magnifying-glass
     title: "Detection Engineering Bootcamp"
-    excerpt: "Enhance your team's ability to build, tune, and maintain effective detection mechanisms with our Detection Engineering Bootcamp. This intensive, hands-on course provides expertise in crafting custom detection rules, leveraging advanced analytics, and responding to security incidents with precision. It’s essential training for any organization looking to elevate their threat detection capabilities."
+    excerpt: "Enhance your team's ability to build, tune, and maintain effective detection mechanisms with our Detection Engineering Bootcamp. This intensive, hands-on course provides expertise in crafting custom detection rules, leveraging advanced analytics, and responding to security incidents with precision. Participants will learn SIEM architecture design, log source integration, correlation rule development, and fine-tuning techniques to reduce false positives while maximizing threat detection accuracy. It's essential training for any organization looking to elevate their threat detection capabilities and optimize their security monitoring infrastructure."
   - icon: fa-solid fa-chalkboard-user
     title: "Custom Training"
     excerpt: "Empower your team with the knowledge and skills needed to defend against today’s sophisticated cyber threats through our training services. We offer comprehensive, hands-on training programs tailored to your organization’s unique needs and security goals. Covering a wide range of topics, from foundational security principles to advanced threat detection and response techniques, our training provides actionable and practical learning experiences, ensuring your team can immediately apply what they’ve learned to enhance your security posture."
@@ -63,7 +53,6 @@ training:
 ## Services 
 {% include feature_row id="services" %}
 {% include feature_row id="services2" %}
-{% include feature_row id="services3" %}
 
 {: #training}
 ## Training
