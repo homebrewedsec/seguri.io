@@ -6,7 +6,7 @@ toc: true
 permalink: "/privacy/"
 last_modified_at: 2024-07-15
 header:
-  teaser: /assets/images/home-header.png
+  teaser: /assets/images/home-header.webp
 ---
 
 _Last updated: July 15th, 2024_

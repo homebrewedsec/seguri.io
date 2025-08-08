@@ -7,7 +7,7 @@ entries_layout: grid
 classes: wide
 description: "Enhance your team's cybersecurity capabilities with Seguri's comprehensive training programs, from specialized technical bootcamps to custom organizational training designed for your specific needs."
 header:
-  teaser: /assets/images/home-header.png
+  teaser: /assets/images/home-header.webp
 ---
 
 ## Empower Your Security Team

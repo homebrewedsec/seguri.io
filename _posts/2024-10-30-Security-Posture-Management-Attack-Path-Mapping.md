@@ -5,7 +5,7 @@ toc: true
 excerpt: "Discover how combining attack path mapping with security posture management can supercharge your risk prioritization and management strategies."
 header:
   overlay_image: /assets/images/post-attack-path-spm.jpg
-  teaser: /assets/images/attack-post-attack-path-spm.jpg
+  teaser: /assets/images/post-attack-path-spm.jpg
   overlay_filter: 0.5
 ---
 
