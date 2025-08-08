@@ -28,5 +28,8 @@ codekit-config.json
 _asset_bundler_cache
 _site
 
+# Unused stock images (source material)
+assets/images/unused/
+
 # Claude Code artifacts
 CLAUDE.md
