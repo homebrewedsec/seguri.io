@@ -33,3 +33,7 @@ assets/images/unused/
 
 # Claude Code artifacts
 CLAUDE.md
+.claude/
+*.claude.json
+settings.local.json
+claude_settings.json
