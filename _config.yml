@@ -213,6 +213,12 @@ collections:
    events:
      output: true
      permalink: /:collection/:path/
+   services:
+     output: true
+     permalink: /:collection/:path/
+   training:
+     output: true
+     permalink: /:collection/:path/
 
 # Defaults
 defaults:
@@ -226,5 +232,27 @@ defaults:
       read_time: true
       show_date: true
       comments: # true
+      share: true
+      related: true
+  # _services
+  - scope:
+      path: ""
+      type: services
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      show_date: false
+      share: true
+      related: true
+  # _training
+  - scope:
+      path: ""
+      type: training
+    values:
+      layout: single
+      author_profile: false
+      read_time: false
+      show_date: false
       share: true
       related: true
