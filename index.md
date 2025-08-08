@@ -11,9 +11,9 @@ header:
       url: "/contact"
 excerpt: "At Seguri, we craft security solutions as unique as your business, because one-size-fits-all doesn't cut it in the real world."
 services:
-  - icon: fa-solid fa-shield-halved
-    title: "Accelerate your Security Program"
-    excerpt: "Our **Accelerate Your Security Program** service begins with a comprehensive assessment of your unique security landscape. We identify critical gaps and opportunities, crafting a tailored strategy that aligns with leading industry frameworks. Whether you're building from the ground up or enhancing an existing program, we're not just consultants – we're partners committed to establishing a robust, scalable, and resilient security foundation that evolves with your needs."
+  - icon: fa-solid fa-cogs
+    title: "OT Managed Detection and Response"
+    excerpt: "Protect your operational technology environments with our specialized OT Managed Detection and Response services. We understand the unique challenges of securing industrial control systems, SCADA networks, and critical infrastructure. Our approach combines deep OT expertise with advanced threat detection capabilities, providing 24/7 monitoring and rapid incident response tailored specifically for operational technology environments. We help bridge the gap between IT and OT security, ensuring your critical operations remain secure without compromising availability or performance."
   - icon: fa-solid fa-user-secret
     title: "Threat Modelling and Attack Path Mapping"
     excerpt: "Harness the power of proactive defense with our Threat Modeling and Attack Path Mapping services. We combine a hacker's insight with a defender's focus to map out potential attack paths, helping you prioritize your security efforts where they matter most. This isn't just a theoretical exercise – it's a practical, data-driven approach that transforms your security strategy from reactive to proactive. Plus, it provides the concrete justification you need for allocating security resources effectively, ensuring your defenses are both robust and efficient."
@@ -28,17 +28,17 @@ services2:
   - icon: fa-solid fa-fire-extinguisher
     title: "Incident Response Planning"
     excerpt: "Hope for the best, prepare for the worst. Our Incident Response Planning services ensure you're ready for whatever cyber threats come your way. We don't just hand you a generic plan and call it a day. Instead, we develop comprehensive, tailored incident response strategies, put them to the test with realistic tabletop exercises (TTX), and create detailed playbooks that give your team the confidence to respond swiftly and effectively when it matters most. With us, you'll turn potential crises into well-managed events."
-  - icon: fa-solid fa-compass-drafting
-    title: "Security Architecture Development"
-    excerpt: "One-size-fits-all security architecture? Not on our watch. Our Security Architecture Development services are all about creating a robust, scalable framework that's as unique as your organization. We roll up our sleeves and work side-by-side with your team to develop a customized security blueprint. From bespoke artifacts and metamodels to a detailed architecture roadmap, we ensure every aspect aligns with your long-term security goals. The result? A security architecture that not only protects you today but evolves with your business for years to come."
+  - icon: fa-solid fa-id-card
+    title: "Identity And Access Management"
+    excerpt: "Secure your organization's digital identities with our specialized Identity and Access Management services. We focus on comprehensive assessments of Microsoft Entra ID (Azure AD) and traditional Active Directory environments, identifying vulnerabilities, misconfigurations, and opportunities for improvement. Our approach goes beyond basic compliance to deliver actionable insights that strengthen your identity infrastructure. From access reviews and privileged account management to conditional access policies and hybrid identity architectures, we help you build a robust IAM foundation that protects your most critical assets while enabling business productivity."
 
 services3:
   - icon: fa-solid fa-gear
-    title: "Security Operations"
-    excerpt: "Elevate your security game with our Security Operations services. We're not just about implementing tools - we're about optimizing your entire security ecosystem. From crafting robust detection engineering strategies to performing meticulous gap analysis and tuning, we'll help you spot threats faster and respond smarter. Our custom alert triage playbooks ensure your team isn't just drowning in alerts, but efficiently tackling real threats. The result? A security operations center that's always ahead of the curve, not just keeping pace."
-  - icon: fa-solid fa-globe
-    title: "Zero Trust Solutions"
-    excerpt: "Zero trust is not just a product you can buy off the shelf. Our Zero Trust Solutions help you transition from a 'trust but verify' approach to a 'never trust, always verify' mindset. We don't just throw buzzwords at you - we work closely with your team to design and implement a Zero Trust architecture that fits your organization like a glove. From users and devices to applications, we ensure everything is authenticated, authorized, and continuously validated, no matter where they are. It's not just security - it's peace of mind in a perimeter-less world."
+    title: "SIEM Setup and Tuning"
+    excerpt: "Transform your security monitoring capabilities with our specialized SIEM Setup and Tuning services. We don't just deploy SIEM solutions – we optimize them for your unique environment. Our approach includes comprehensive log source integration, custom correlation rule development, and fine-tuning to reduce false positives while maximizing threat detection accuracy. From initial SIEM architecture design and deployment to ongoing optimization and custom dashboard creation, we ensure your security information and event management system becomes a powerful force multiplier for your security team, not just another tool generating noise."
+  - icon: fa-solid fa-network-wired
+    title: "Network Security Assessments"
+    excerpt: "Discover and eliminate network vulnerabilities before attackers do with our comprehensive Network Security Assessments. Our expert team conducts thorough evaluations of your network infrastructure, identifying potential attack vectors, misconfigurations, and security gaps. We don't just scan your network – we think like attackers, mapping out potential lateral movement paths and privilege escalation opportunities. From perimeter security and network segmentation to wireless infrastructure and remote access solutions, we provide detailed findings with actionable remediation steps that strengthen your network defense posture."
   - icon: fa-solid fa-ellipsis
     title: "Custom Solutions"
     excerpt: "Security challenges rarely fit into neat little boxes, and neither do our solutions. Our Custom Solutions service is all about addressing your unique security needs head-on. Whether you're grappling with industry-specific regulations, facing unusual threat vectors, or looking to push the boundaries of your security posture, we're here to craft strategies that fit your world. We don't believe in off-the-shelf solutions - instead, we roll up our sleeves and work side-by-side with you to develop and implement security measures that tackle your most critical concerns. Your business is unique, and your security should be too."
