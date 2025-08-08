@@ -14,9 +14,9 @@ services:
   - icon: fa-solid fa-cogs
     title: "OT Managed Detection and Response"
     excerpt: "Protect your operational technology environments with our specialized OT Managed Detection and Response services. We understand the unique challenges of securing industrial control systems, SCADA networks, and critical infrastructure. Our approach combines deep OT expertise with advanced threat detection capabilities, providing 24/7 monitoring and rapid incident response tailored specifically for operational technology environments. We help bridge the gap between IT and OT security, ensuring your critical operations remain secure without compromising availability or performance."
-  - icon: fa-solid fa-user-secret
-    title: "Threat Modelling and Attack Path Mapping"
-    excerpt: "Harness the power of proactive defense with our Threat Modeling and Attack Path Mapping services. We combine a hacker's insight with a defender's focus to map out potential attack paths, helping you prioritize your security efforts where they matter most. This isn't just a theoretical exercise – it's a practical, data-driven approach that transforms your security strategy from reactive to proactive. Plus, it provides the concrete justification you need for allocating security resources effectively, ensuring your defenses are both robust and efficient."
+  - icon: fa-solid fa-id-card
+    title: "Identity And Access Management"
+    excerpt: "Secure your organization's digital identities with our specialized Identity and Access Management services. We focus on comprehensive assessments of Microsoft Entra ID (Azure AD) and traditional Active Directory environments, identifying vulnerabilities, misconfigurations, and opportunities for improvement. Our approach goes beyond basic compliance to deliver actionable insights that strengthen your identity infrastructure. From access reviews and privileged account management to conditional access policies and hybrid identity architectures, we help you build a robust IAM foundation that protects your most critical assets while enabling business productivity."
   - icon: fa-solid fa-network-wired
     title: "Network Security Assessments"
     excerpt: "Discover and eliminate network vulnerabilities before attackers do with our comprehensive Network Security Assessments. Our expert team conducts thorough evaluations of your network infrastructure, identifying potential attack vectors, misconfigurations, and security gaps. We don't just scan your network – we think like attackers, mapping out potential lateral movement paths and privilege escalation opportunities. From perimeter security and network segmentation to wireless infrastructure and remote access solutions, we provide detailed findings with actionable remediation steps that strengthen your network defense posture."
@@ -28,10 +28,9 @@ services2:
   - icon: fa-solid fa-fire-extinguisher
     title: "Incident Response Planning"
     excerpt: "Hope for the best, prepare for the worst. Our Incident Response Planning services ensure you're ready for whatever cyber threats come your way. We don't just hand you a generic plan and call it a day. Instead, we develop comprehensive, tailored incident response strategies, put them to the test with realistic tabletop exercises (TTX), and create detailed playbooks that give your team the confidence to respond swiftly and effectively when it matters most. With us, you'll turn potential crises into well-managed events."
-  - icon: fa-solid fa-id-card
-    title: "Identity And Access Management"
-    excerpt: "Secure your organization's digital identities with our specialized Identity and Access Management services. We focus on comprehensive assessments of Microsoft Entra ID (Azure AD) and traditional Active Directory environments, identifying vulnerabilities, misconfigurations, and opportunities for improvement. Our approach goes beyond basic compliance to deliver actionable insights that strengthen your identity infrastructure. From access reviews and privileged account management to conditional access policies and hybrid identity architectures, we help you build a robust IAM foundation that protects your most critical assets while enabling business productivity."
-
+  - icon: fa-solid fa-user-secret
+    title: "Threat Modelling and Attack Path Mapping"
+    excerpt: "Harness the power of proactive defense with our Threat Modeling and Attack Path Mapping services. We combine a hacker's insight with a defender's focus to map out potential attack paths, helping you prioritize your security efforts where they matter most. This isn't just a theoretical exercise – it's a practical, data-driven approach that transforms your security strategy from reactive to proactive. Plus, it provides the concrete justification you need for allocating security resources effectively, ensuring your defenses are both robust and efficient."
 
 intro:
   - title: "Who is Seguri?"
