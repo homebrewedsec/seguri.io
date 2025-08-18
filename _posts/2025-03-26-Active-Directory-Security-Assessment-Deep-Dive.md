@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Active Directory Security Assessment Deep Dive: Beyond Forest Functional Levels"
+title: "Active Directory Security Assessment Deep Dive"
 toc: true
 excerpt: "Active Directory assessments that only check GPO settings and password policies miss the real risks. Learn how to assess AD architecture, identify privilege escalation paths, and evaluate domain-level attack scenarios."
 header:
