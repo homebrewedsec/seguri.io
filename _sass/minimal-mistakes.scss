@@ -38,3 +38,108 @@
 @import "minimal-mistakes/archive";
 @import "minimal-mistakes/sidebar";
 @import "minimal-mistakes/print";
+
+/* Custom Seguri Enhancements */
+@keyframes pulse-glow {
+  0%, 100% { 
+    filter: drop-shadow(0 4px 8px rgba(154, 206, 235, 0.3)); 
+    transform: scale(1);
+  }
+  50% { 
+    filter: drop-shadow(0 4px 16px rgba(154, 206, 235, 0.5)); 
+    transform: scale(1.05);
+  }
+}
+
+@keyframes spin-slow {
+  0% { transform: translate(-50%, -50%) rotate(0deg); }
+  100% { transform: translate(-50%, -50%) rotate(360deg); }
+}
+
+.feature__wrapper {
+  position: relative;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: -10px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 60px;
+    height: 4px;
+    background: linear-gradient(90deg, transparent, #9aceeb, transparent);
+    border-radius: 2px;
+  }
+}
+
+.feature__item {
+  position: relative;
+  transition: transform 0.3s ease, box-shadow 0.3s ease;
+  
+  &:hover {
+    transform: translateY(-5px);
+    
+    .fa-hexagon {
+      animation-duration: 1.5s !important;
+      filter: drop-shadow(0 6px 20px rgba(154, 206, 235, 0.6)) !important;
+    }
+  }
+}
+
+.archive__item-title {
+  position: relative;
+  
+  &::after {
+    content: '';
+    position: absolute;
+    bottom: -8px;
+    left: 50%;
+    transform: translateX(-50%);
+    width: 40px;
+    height: 2px;
+    background: linear-gradient(90deg, transparent, #9aceeb, transparent);
+    border-radius: 1px;
+  }
+}
+
+.cta-enhanced {
+  background: linear-gradient(135deg, rgba(154, 206, 235, 0.1), rgba(154, 206, 235, 0.05));
+  border: 1px solid rgba(154, 206, 235, 0.2);
+  border-radius: 12px;
+  padding: 2.5rem;
+  position: relative;
+  overflow: hidden;
+  
+  &::before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.1), transparent);
+    animation: shimmer 3s ease-in-out infinite;
+  }
+  
+  h3 {
+    margin-bottom: 1rem !important;
+    position: relative;
+    z-index: 2;
+  }
+  
+  .btn {
+    position: relative;
+    z-index: 2;
+    transition: all 0.3s ease;
+    
+    &:hover {
+      transform: translateY(-2px);
+      box-shadow: 0 8px 25px rgba(0, 0, 0, 0.2);
+    }
+  }
+}
+
+@keyframes shimmer {
+  0%, 100% { left: -100%; }
+  50% { left: 100%; }
+}
