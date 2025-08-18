@@ -85,11 +85,8 @@
 
 .feature__item {
   position: relative;
-  transition: transform 0.3s ease, box-shadow 0.3s ease;
   
   &:hover {
-    transform: translateY(-5px);
-    
     .fa-hexagon {
       animation-duration: 1.5s !important;
       
@@ -160,4 +157,25 @@
 @keyframes shimmer {
   0%, 100% { left: -100%; }
   50% { left: 100%; }
+}
+
+@keyframes subtle-rotate {
+  0% { transform: rotate(0deg); }
+  100% { transform: rotate(360deg); }
+}
+
+.about-enhanced {
+  @media (max-width: 768px) {
+    padding: 2rem 1rem !important;
+    
+    div[style*="grid-template-columns"] {
+      grid-template-columns: 1fr !important;
+      gap: 1.5rem !important;
+    }
+    
+    div[style*="display: flex"][style*="gap: 2rem"] {
+      flex-direction: column !important;
+      gap: 1rem !important;
+    }
+  }
 }
