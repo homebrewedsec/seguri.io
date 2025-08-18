@@ -51,6 +51,17 @@
   }
 }
 
+@keyframes pulse-glow-dark-blue {
+  0%, 100% { 
+    filter: drop-shadow(0 4px 8px rgba(74, 144, 226, 0.3)); 
+    transform: scale(1);
+  }
+  50% { 
+    filter: drop-shadow(0 4px 16px rgba(74, 144, 226, 0.5)); 
+    transform: scale(1.05);
+  }
+}
+
 @keyframes spin-slow {
   0% { transform: translate(-50%, -50%) rotate(0deg); }
   100% { transform: translate(-50%, -50%) rotate(360deg); }
@@ -81,7 +92,14 @@
     
     .fa-hexagon {
       animation-duration: 1.5s !important;
-      filter: drop-shadow(0 6px 20px rgba(154, 206, 235, 0.6)) !important;
+      
+      &[style*="#9aceeb"] {
+        filter: drop-shadow(0 6px 20px rgba(154, 206, 235, 0.6)) !important;
+      }
+      
+      &[style*="#4a90e2"] {
+        filter: drop-shadow(0 6px 20px rgba(74, 144, 226, 0.6)) !important;
+      }
     }
   }
 }

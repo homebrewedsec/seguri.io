@@ -27,10 +27,10 @@
 		    {% assign orbit_color = "rgba(154, 206, 235, 0.2)" %}
 		    {% assign animation_class = "pulse-glow" %}
 		  {% else %}
-		    {% assign hex_color = "#ff6b6b" %}
-		    {% assign hex_shadow = "rgba(255, 107, 107, 0.3)" %}
-		    {% assign orbit_color = "rgba(255, 107, 107, 0.2)" %}
-		    {% assign animation_class = "pulse-glow-red" %}
+		    {% assign hex_color = "#4a90e2" %}
+		    {% assign hex_shadow = "rgba(74, 144, 226, 0.3)" %}
+		    {% assign orbit_color = "rgba(74, 144, 226, 0.2)" %}
+		    {% assign animation_class = "pulse-glow-dark-blue" %}
 		  {% endif %}
 		  <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
 		    <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
