@@ -13,24 +13,24 @@ excerpt: "At Seguri, we craft security solutions as unique as your business, bec
 services:
   - icon: fa-solid fa-cogs
     title: "OT Managed Detection and Response"
-    excerpt: "Protect your operational technology environments with our specialized OT Managed Detection and Response services. We understand the unique challenges of securing industrial control systems, SCADA networks, and critical infrastructure. Our approach combines deep OT expertise with advanced threat detection capabilities, providing 24/7 monitoring and rapid incident response tailored specifically for operational technology environments. We help bridge the gap between IT and OT security, ensuring your critical operations remain secure without compromising availability or performance."
+    excerpt: "Your production lines can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have. Our 24/7 monitoring detects threats without disrupting your operations, because we understand that uptime isn't just important—it's everything. When seconds count and production is on the line, you need defenders who speak both IT and OT fluently."
   - icon: fa-solid fa-id-card
     title: "Identity And Access Management"
-    excerpt: "Secure your organization's digital identities with our specialized Identity and Access Management services. We focus on comprehensive assessments of Microsoft Entra ID (Azure AD) and traditional Active Directory environments, identifying vulnerabilities, misconfigurations, and opportunities for improvement. Our approach goes beyond basic compliance to deliver actionable insights that strengthen your identity infrastructure. From access reviews and privileged account management to conditional access policies and hybrid identity architectures, we help you build a robust IAM foundation that protects your most critical assets while enabling business productivity."
+    excerpt: "Most breaches start with compromised credentials—but yours won't. We dive deep into your Microsoft Entra ID and Active Directory environments to find the identity vulnerabilities that automated scans miss. Our assessments uncover misconfigurations, excessive privileges, and weak access controls that could hand attackers the keys to your kingdom. We don't just audit—we architect stronger identity foundations that stop attackers in their tracks."
   - icon: fa-solid fa-network-wired
     title: "Network Security Assessments"
-    excerpt: "Discover and eliminate network vulnerabilities before attackers do with our comprehensive Network Security Assessments. Our expert team conducts thorough evaluations of your network infrastructure, identifying potential attack vectors, misconfigurations, and security gaps. We don't just scan your network – we think like attackers, mapping out potential lateral movement paths and privilege escalation opportunities. From perimeter security and network segmentation to wireless infrastructure and remote access solutions, we provide detailed findings with actionable remediation steps that strengthen your network defense posture."
+    excerpt: "Attackers don't just scan your network—they map it, study it, and exploit its weaknesses. We think like they do, but we're on your side. Our assessments reveal the hidden attack paths that connect your DMZ to your crown jewels, exposing lateral movement opportunities before bad actors find them. We don't just point out problems—we show you exactly how to lock down every pathway and turn your network into a fortress."
 
 services2:
   - icon: fa-solid fa-briefcase
     title: "Mergers and Acquisitions"
-    excerpt: "Don't let security concerns derail your M&A plans. Our Mergers and Acquisitions solutions put security at the forefront of your deal-making process. We conduct thorough assessments to uncover potential risks and vulnerabilities in your target company's security posture, giving you the insights you need to make informed decisions. But we don't stop there - we'll work with you to create detailed integration plans that align security practices, ensuring your newly expanded organization stays resilient and secure throughout the transition and beyond."
+    excerpt: "That perfect acquisition target might be hiding a cybersecurity nightmare worth millions in remediation costs. We dive deep into their security posture before you sign on the dotted line, uncovering hidden vulnerabilities, compliance gaps, and technical debt that could torpedo your ROI. Our security due diligence turns potential deal-breakers into negotiating leverage, ensuring your expansion strengthens—not weakens—your overall security stance."
   - icon: fa-solid fa-fire-extinguisher
     title: "Incident Response Planning"
-    excerpt: "Hope for the best, prepare for the worst. Our Incident Response Planning services ensure you're ready for whatever cyber threats come your way. We don't just hand you a generic plan and call it a day. Instead, we develop comprehensive, tailored incident response strategies, put them to the test with realistic tabletop exercises (TTX), and create detailed playbooks that give your team the confidence to respond swiftly and effectively when it matters most. With us, you'll turn potential crises into well-managed events."
+    excerpt: "When cyber attacks hit, every minute of confusion costs you money, reputation, and trust. We build battle-tested incident response plans that transform chaos into coordinated action. Through realistic tabletop exercises, we stress-test your team's readiness and fine-tune your playbooks until response becomes second nature. When the real attack comes, your team won't panic—they'll execute with precision."
   - icon: fa-solid fa-user-secret
     title: "Threat Modelling and Attack Path Mapping"
-    excerpt: "Harness the power of proactive defense with our Threat Modeling and Attack Path Mapping services. We combine a hacker's insight with a defender's focus to map out potential attack paths, helping you prioritize your security efforts where they matter most. This isn't just a theoretical exercise – it's a practical, data-driven approach that transforms your security strategy from reactive to proactive. Plus, it provides the concrete justification you need for allocating security resources effectively, ensuring your defenses are both robust and efficient."
+    excerpt: "Stop playing defense with yesterday's playbook. We map your environment through an attacker's eyes, revealing the exact paths they'd take to reach your most valuable assets. Our threat modeling isn't theoretical—it's a practical blueprint that shows you where to invest your security budget for maximum impact. We turn abstract vulnerabilities into concrete attack scenarios, giving you the justification you need to secure the resources that matter most."
 
 intro:
   - title: "Who is Seguri?"
@@ -49,14 +49,49 @@ training:
 
 ---
 {: #services}
-## Services 
+<div style="text-align: center; margin: 2rem 0 3rem;">
+  <i class="fas fa-shield-halved" style="font-size: 2rem; color: #9aceeb; margin-bottom: 1rem;"></i>
+  <h2 style="margin: 0;">Our Services</h2>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+</div>
+
 {% include feature_row id="services" %}
+
+<div style="text-align: center; margin: 4rem 0 2rem;">
+  <div style="display: inline-block; width: 200px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.5), transparent); margin: 0 auto;"></div>
+  <i class="fas fa-cog fa-spin" style="font-size: 1.5rem; color: rgba(154, 206, 235, 0.6); margin: 0 1rem; animation: spin 4s linear infinite;"></i>
+  <div style="display: inline-block; width: 200px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.5), transparent); margin: 0 auto;"></div>
+</div>
+
 {% include feature_row id="services2" %}
 
+<div class="cta-enhanced" style="text-align: center; margin: 4rem auto 3rem; max-width: 600px;">
+  <i class="fas fa-rocket" style="font-size: 2.5rem; color: #9aceeb; margin-bottom: 1rem; display: block;"></i>
+  <h3 style="color: #fff; margin-bottom: 1rem;">Ready to Strengthen Your Defenses?</h3>
+  <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 2rem;">Don't wait for the next attack. Let's build your cyber resilience today.</p>
+  <a href="/contact" class="btn btn--primary btn--large" style="margin-right: 1rem;">
+    <i class="fas fa-comments" style="margin-right: 0.5rem;"></i>Get Started Today
+  </a>
+  <a href="/blog" class="btn btn--inverse btn--large">
+    <i class="fas fa-lightbulb" style="margin-right: 0.5rem;"></i>Explore Our Insights
+  </a>
+</div>
+
 {: #training}
-## Training
+<div style="text-align: center; margin: 4rem 0 3rem;">
+  <i class="fas fa-graduation-cap" style="font-size: 2rem; color: #9aceeb; margin-bottom: 1rem;"></i>
+  <h2 style="margin: 0;">Training & Education</h2>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Empower your team with cutting-edge cybersecurity knowledge and hands-on expertise</p>
+</div>
+
 {% include feature_row id="training" %}
 
+<div style="text-align: center; margin: 4rem 0 2rem;">
+  <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
+  <i class="fas fa-users" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin: 0 1rem;"></i>
+  <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
+</div>
 
 {: #about} 
 {% include feature_row id="intro" type="center" %}
