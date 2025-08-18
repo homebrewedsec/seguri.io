@@ -20,12 +20,24 @@
         {% endif %}
 		
 		{% if f.icon %}
+		  {% assign cycle_index = forloop.index0 | modulo: 2 %}
+		  {% if cycle_index == 0 %}
+		    {% assign hex_color = "#9aceeb" %}
+		    {% assign hex_shadow = "rgba(154, 206, 235, 0.3)" %}
+		    {% assign orbit_color = "rgba(154, 206, 235, 0.2)" %}
+		    {% assign animation_class = "pulse-glow" %}
+		  {% else %}
+		    {% assign hex_color = "#ff6b6b" %}
+		    {% assign hex_shadow = "rgba(255, 107, 107, 0.3)" %}
+		    {% assign orbit_color = "rgba(255, 107, 107, 0.2)" %}
+		    {% assign animation_class = "pulse-glow-red" %}
+		  {% endif %}
 		  <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
 		    <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
-              <i class="fas fa-hexagon fa-stack-2x text-primary" style="color:#9aceeb; filter: drop-shadow(0 4px 8px rgba(154, 206, 235, 0.3)); animation: pulse-glow 3s ease-in-out infinite;"></i>
+              <i class="fas fa-hexagon fa-stack-2x text-primary" style="color:{{ hex_color }}; filter: drop-shadow(0 4px 8px {{ hex_shadow }}); animation: {{ animation_class }} 3s ease-in-out infinite;"></i>
               <i class="{{ f.icon | default: "fa-solid fa-globe" }} fa-stack-1x fa-inverse" style="color: #fff; font-size: 1.2em;"></i>
             </span>
-            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 120px; height: 120px; border: 2px solid rgba(154, 206, 235, 0.2); border-radius: 50%; animation: spin-slow 20s linear infinite; pointer-events: none;"></div>
+            <div style="position: absolute; top: 50%; left: 50%; transform: translate(-50%, -50%); width: 120px; height: 120px; border: 2px solid {{ orbit_color }}; border-radius: 50%; animation: spin-slow 20s linear infinite; pointer-events: none;"></div>
           </div>
         {% endif %}
 
