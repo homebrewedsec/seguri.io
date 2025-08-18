@@ -51,13 +51,13 @@
   }
 }
 
-@keyframes pulse-glow-dark-blue {
+@keyframes pulse-glow-slate {
   0%, 100% { 
-    filter: drop-shadow(0 4px 8px rgba(74, 144, 226, 0.3)); 
+    filter: drop-shadow(0 4px 8px rgba(77, 103, 117, 0.4)); 
     transform: scale(1);
   }
   50% { 
-    filter: drop-shadow(0 4px 16px rgba(74, 144, 226, 0.5)); 
+    filter: drop-shadow(0 4px 20px rgba(77, 103, 117, 0.7)); 
     transform: scale(1.05);
   }
 }
@@ -94,8 +94,8 @@
         filter: drop-shadow(0 6px 20px rgba(154, 206, 235, 0.6)) !important;
       }
       
-      &[style*="#4a90e2"] {
-        filter: drop-shadow(0 6px 20px rgba(74, 144, 226, 0.6)) !important;
+      &[style*="#4d6775"] {
+        filter: drop-shadow(0 6px 20px rgba(77, 103, 117, 0.6)) !important;
       }
     }
   }
@@ -177,5 +177,69 @@
       flex-direction: column !important;
       gap: 1rem !important;
     }
+  }
+}
+
+/* Contact Page Enhancements */
+.contact-enhanced {
+  @media (max-width: 768px) {
+    grid-template-columns: 1fr !important;
+    gap: 2rem !important;
+    padding: 0 1rem !important;
+  }
+}
+
+.contact-form-container, .contact-info-container {
+  @media (max-width: 768px) {
+    padding: 1.5rem !important;
+  }
+}
+
+/* Form Input Styling */
+input[type="text"], input[type="email"], textarea {
+  &:focus {
+    outline: none !important;
+    border-color: rgba(154, 206, 235, 0.6) !important;
+    box-shadow: 0 0 0 3px rgba(154, 206, 235, 0.1) !important;
+    background: rgba(255, 255, 255, 0.08) !important;
+  }
+  
+  &:hover {
+    border-color: rgba(154, 206, 235, 0.4) !important;
+  }
+}
+
+/* Submit Button Effects */
+button[type="submit"] {
+  &:hover {
+    transform: translateY(-2px) !important;
+    box-shadow: 0 8px 25px rgba(74, 144, 226, 0.3) !important;
+    background: linear-gradient(135deg, #4a90e2, #9aceeb) !important;
+  }
+  
+  &:active {
+    transform: translateY(0) !important;
+  }
+  
+  &:before {
+    content: '';
+    position: absolute;
+    top: 0;
+    left: -100%;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(90deg, transparent, rgba(255, 255, 255, 0.2), transparent);
+    transition: left 0.5s;
+  }
+  
+  &:hover:before {
+    left: 100%;
+  }
+}
+
+/* Phone Link Styling */
+a[href^="tel:"] {
+  &:hover {
+    color: #9aceeb !important;
   }
 }
