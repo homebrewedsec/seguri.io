@@ -30,11 +30,11 @@ services2:
     excerpt: "When cyber attacks hit, every minute of confusion costs you money, reputation, and trust. We build battle-tested incident response plans that transform chaos into coordinated action. Through realistic tabletop exercises, we stress-test your team's readiness and fine-tune your playbooks until response becomes second nature. When the real attack comes, your team won't panic—they'll execute with precision."
   - icon: fa-solid fa-user-secret
     title: "Threat Modelling and Attack Path Mapping"
-    excerpt: "Stop playing defense with yesterday's playbook. We map your environment through an attacker's eyes, revealing the exact paths they'd take to reach your most valuable assets. Our threat modeling isn't theoretical—it's a practical blueprint that shows you where to invest your security budget for maximum impact. We turn abstract vulnerabilities into concrete attack scenarios, giving you the justification you need to secure the resources that matter most."
+    excerpt: "Stop playing defense with yesterday's playbook. We map your environment to reveal the exact paths that could lead to your most valuable assets, identifying critical vulnerabilities before they become problems. Our threat modeling isn't theoretical—it's a practical blueprint that shows you where to invest your security budget for maximum impact. We turn abstract vulnerabilities into concrete risk scenarios, giving you the justification you need to secure the resources that matter most."
 
 intro:
   - title: "Who is Seguri?"
-    excerpt: "Seguri exists to provide organizations with adaptive, real-world cybersecurity solutions. We're committed to being true security partners, offering tailored services that evolve with our clients' needs and deliver tangible, lasting results. <br> <br>Born from frustration with traditional security consulting, Seguri brings together a team of seasoned cybersecurity practitioners who've been in your shoes. We've experienced firsthand the gap between theoretical best practices and real-world implementation, and we're here to bridge it. Our approach is different - we don't believe in one-size-fits-all solutions or reports that gather dust on shelves. Instead, we offer flexible, customizable services that adapt to your unique challenges and objectives. <br> <br> At our core, we're hackers with a defensive focus. This unique perspective allows us to anticipate threats and develop robust protection strategies. We're not interested in being just another vendor you call for annual assessments. Our goal is to become an extension of your team, a true partner in your security journey. Through continuous collaboration and open communication, we ensure our solutions not only address your current needs but also evolve with your organization, providing lasting value and measurable improvements to your security posture."
+    excerpt: "Seguri exists to provide organizations with adaptive, real-world cybersecurity solutions. We're committed to being true security partners, offering tailored services that evolve with our clients' needs and deliver tangible, lasting results. <br> <br>Born from frustration with traditional security consulting, Seguri brings together a team of seasoned cybersecurity practitioners who've been in your shoes. We've experienced firsthand the gap between theoretical best practices and real-world implementation, and we're here to bridge it. Our approach is different - we don't believe in one-size-fits-all solutions or reports that gather dust on shelves. Instead, we offer flexible, customizable services that adapt to your unique challenges and objectives. <br> <br> At our core, we're security practitioners with deep technical expertise and real-world experience. This perspective allows us to anticipate threats and develop robust protection strategies that actually work in your environment. We're not interested in being just another vendor you call for annual assessments. Our goal is to become an extension of your team, a true partner in your security journey. Through continuous collaboration and open communication, we ensure our solutions not only address your current needs but also evolve with your organization, providing lasting value and measurable improvements to your security posture."
 
 training:
   - icon: fa-solid fa-fingerprint
@@ -50,11 +50,7 @@ training:
 ---
 {: #services}
 <div style="text-align: center; margin: 2rem 0 3rem;">
-  <h2 style="margin: 0; display: flex; align-items: center; justify-content: center; gap: 1rem;">
-    <i class="fas fa-shield-halved" style="font-size: 2.5rem; color: #9aceeb; filter: drop-shadow(0 0 10px rgba(154, 206, 235, 0.3));"></i>
-    Our Services
-    <i class="fas fa-cogs" style="font-size: 2rem; color: #4d6775; filter: drop-shadow(0 0 8px rgba(77, 103, 117, 0.3));"></i>
-  </h2>
+  <h2 style="margin: 0;">Our Services</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
@@ -64,7 +60,6 @@ training:
 
 {: #training}
 <div style="text-align: center; margin: 4rem 0 3rem;">
-  <i class="fas fa-graduation-cap" style="font-size: 2rem; color: #9aceeb; margin-bottom: 1rem;"></i>
   <h2 style="margin: 0;">Training & Education</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Empower your team with cutting-edge cybersecurity knowledge and hands-on expertise</p>
@@ -79,6 +74,10 @@ training:
 </div>
 
 {: #about}
+<div style="text-align: center; margin: 4rem 0 3rem;">
+  <h2 style="margin: 0;">Who is Seguri?</h2>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+</div>
 
 <div class="about-enhanced" style="max-width: 900px; margin: 0 auto; padding: 3rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 20s linear infinite; pointer-events: none;"></div>
@@ -121,10 +120,10 @@ training:
     <div style="text-align: center; padding: 2rem; background: rgba(74, 144, 226, 0.1); border-radius: 12px; border: 1px solid rgba(74, 144, 226, 0.2);">
       <h4 style="color: #9aceeb; margin-bottom: 1rem;">
         <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
-        Security Experts with an Offensive Mindset
+        Security Experts with Deep Technical Expertise
       </h4>
       <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.6; margin-bottom: 1rem;">
-        At our core, we're security professionals who think like attackers to build better defenses. This unique perspective allows us to anticipate threats and develop robust protection strategies. We're not just another vendor—we're your true security partners.
+        At our core, we're security professionals with deep technical expertise and real-world experience defending complex environments. This perspective allows us to anticipate threats and develop robust protection strategies that actually work. We're not just another vendor—we're your true security partners.
       </p>
       <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
         <div style="text-align: center;">

@@ -20,21 +20,11 @@
         {% endif %}
 		
 		{% if f.icon %}
-		  {% comment %} Use start_index to determine color alternation {% endcomment %}
-		  {% assign start_idx = include.start_index | default: 0 %}
-		  {% assign current_index = start_idx | plus: forloop.index0 %}
-		  {% assign cycle_index = current_index | modulo: 2 %}
-		  {% if cycle_index == 0 %}
-		    {% assign hex_color = "#9aceeb" %}
-		    {% assign hex_shadow = "rgba(154, 206, 235, 0.3)" %}
-		    {% assign orbit_color = "rgba(154, 206, 235, 0.2)" %}
-		    {% assign animation_class = "pulse-glow" %}
-		  {% else %}
-		    {% assign hex_color = "#4d6775" %}
-		    {% assign hex_shadow = "rgba(77, 103, 117, 0.4)" %}
-		    {% assign orbit_color = "rgba(77, 103, 117, 0.2)" %}
-		    {% assign animation_class = "pulse-glow-slate" %}
-		  {% endif %}
+		  {% comment %} All hexagons use the same color {% endcomment %}
+		  {% assign hex_color = "#9aceeb" %}
+		  {% assign hex_shadow = "rgba(154, 206, 235, 0.3)" %}
+		  {% assign orbit_color = "rgba(154, 206, 235, 0.2)" %}
+		  {% assign animation_class = "pulse-glow" %}
 		  <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
 		    <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
               <i class="fas fa-hexagon fa-stack-2x text-primary" style="color:{{ hex_color }}; filter: drop-shadow(0 4px 8px {{ hex_shadow }}); animation: {{ animation_class }} 3s ease-in-out infinite;"></i>
