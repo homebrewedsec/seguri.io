@@ -50,32 +50,17 @@ training:
 ---
 {: #services}
 <div style="text-align: center; margin: 2rem 0 3rem;">
-  <i class="fas fa-shield-halved" style="font-size: 2rem; color: #9aceeb; margin-bottom: 1rem;"></i>
-  <h2 style="margin: 0;">Our Services</h2>
+  <h2 style="margin: 0; display: flex; align-items: center; justify-content: center; gap: 1rem;">
+    <i class="fas fa-shield-halved" style="font-size: 2.5rem; color: #9aceeb; filter: drop-shadow(0 0 10px rgba(154, 206, 235, 0.3));"></i>
+    Our Services
+    <i class="fas fa-cogs" style="font-size: 2rem; color: #4d6775; filter: drop-shadow(0 0 8px rgba(77, 103, 117, 0.3));"></i>
+  </h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
 {% include feature_row id="services" start_index=0 %}
 
-<div style="text-align: center; margin: 4rem 0 2rem;">
-  <div style="display: inline-block; width: 200px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.5), transparent); margin: 0 auto;"></div>
-  <i class="fas fa-cog fa-spin" style="font-size: 1.5rem; color: rgba(154, 206, 235, 0.6); margin: 0 1rem; animation: spin 4s linear infinite;"></i>
-  <div style="display: inline-block; width: 200px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.5), transparent); margin: 0 auto;"></div>
-</div>
-
 {% include feature_row id="services2" start_index=3 %}
-
-<div class="cta-enhanced" style="text-align: center; margin: 4rem auto 3rem; max-width: 600px;">
-  <i class="fas fa-rocket" style="font-size: 2.5rem; color: #9aceeb; margin-bottom: 1rem; display: block;"></i>
-  <h3 style="color: #fff; margin-bottom: 1rem;">Ready to Strengthen Your Defenses?</h3>
-  <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 2rem;">Don't wait for the next attack. Let's build your cyber resilience today.</p>
-  <a href="/contact" class="btn btn--primary btn--large" style="margin-right: 1rem;">
-    <i class="fas fa-comments" style="margin-right: 0.5rem;"></i>Get Started Today
-  </a>
-  <a href="/blog" class="btn btn--inverse btn--large">
-    <i class="fas fa-lightbulb" style="margin-right: 0.5rem;"></i>Explore Our Insights
-  </a>
-</div>
 
 {: #training}
 <div style="text-align: center; margin: 4rem 0 3rem;">
@@ -94,14 +79,6 @@ training:
 </div>
 
 {: #about}
-<div style="text-align: center; margin: 4rem 0 3rem;">
-  <div style="display: inline-block; position: relative; margin-bottom: 2rem;">
-    <i class="fas fa-shield-halved" style="font-size: 3rem; color: #9aceeb; margin-right: 1rem; filter: drop-shadow(0 0 10px rgba(154, 206, 235, 0.3));"></i>
-    <i class="fas fa-users" style="font-size: 2rem; color: #4a90e2; margin-left: -0.5rem; filter: drop-shadow(0 0 8px rgba(74, 144, 226, 0.3));"></i>
-  </div>
-  <h2 style="margin: 0; font-size: 2.5rem; color: #fff;">Who is Seguri?</h2>
-  <div style="width: 120px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
-</div>
 
 <div class="about-enhanced" style="max-width: 900px; margin: 0 auto; padding: 3rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 20s linear infinite; pointer-events: none;"></div>
@@ -109,7 +86,7 @@ training:
   <div style="position: relative; z-index: 2;">
     <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 2rem;">
       <div style="flex: 1;">
-        <h3 style="color: #9aceeb; margin-bottom: 1rem; font-size: 1.3rem;">
+        <h3 style="color: #9aceeb; margin-bottom: 1rem; font-size: 1.3rem; text-align: center;">
           <i class="fas fa-rocket" style="margin-right: 0.5rem; color: #4a90e2;"></i>
           Our Mission
         </h3>
@@ -121,7 +98,7 @@ training:
     
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 2rem 0;">
       <div>
-        <h4 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h4 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center; justify-content: center;">
           <i class="fas fa-lightbulb" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Born from Experience
         </h4>
@@ -131,7 +108,7 @@ training:
       </div>
       
       <div>
-        <h4 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h4 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center; justify-content: center;">
           <i class="fas fa-cogs" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Adaptive Approach
         </h4>
@@ -143,11 +120,11 @@ training:
     
     <div style="text-align: center; padding: 2rem; background: rgba(74, 144, 226, 0.1); border-radius: 12px; border: 1px solid rgba(74, 144, 226, 0.2);">
       <h4 style="color: #9aceeb; margin-bottom: 1rem;">
-        <i class="fas fa-user-secret" style="margin-right: 0.5rem; color: #4a90e2;"></i>
-        Hackers with a Defensive Focus
+        <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
+        Security Experts with an Offensive Mindset
       </h4>
       <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.6; margin-bottom: 1rem;">
-        At our core, we're hackers with a defensive focus. This unique perspective allows us to anticipate threats and develop robust protection strategies. We're not just another vendor—we're your true security partners.
+        At our core, we're security professionals who think like attackers to build better defenses. This unique perspective allows us to anticipate threats and develop robust protection strategies. We're not just another vendor—we're your true security partners.
       </p>
       <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
         <div style="text-align: center;">
