@@ -1,7 +1,7 @@
 ---
 title: "Contact Seguri for Custom Cyber Defense Solutions"
 description: "reach out to Seguri for personalized cyber defense solutions that meet your business's unique needs. Contact us via phone, email, or contact form today."
-layout: "single"
+layout: "splash"
 header:
   teaser: /assets/images/home-header.webp
   overlay_image: /assets/images/home-header.webp
@@ -20,10 +20,10 @@ header:
   </p>
 </div>
 
-<div class="contact-enhanced" style="max-width: 1000px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 3rem; padding: 0 2rem;">
+<div class="contact-enhanced" style="max-width: 1200px; margin: 0 auto; display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; padding: 0 1rem;">
   
   <!-- Contact Form Section -->
-  <div class="contact-form-container" style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; padding: 2.5rem; position: relative; overflow: hidden;">
+  <div class="contact-form-container" style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; padding: 2rem; position: relative; overflow: hidden;">
     <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 25s linear infinite; pointer-events: none;"></div>
     
     <div style="position: relative; z-index: 2;">
@@ -65,7 +65,7 @@ header:
   </div>
 
   <!-- Contact Information Section -->
-  <div class="contact-info-container" style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 16px; padding: 2.5rem; position: relative; overflow: hidden;">
+  <div class="contact-info-container" style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 16px; padding: 2rem; position: relative; overflow: hidden;">
     <div style="position: absolute; top: -50%; right: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(74, 144, 226, 0.05) 0%, transparent 50%); animation: subtle-rotate 30s linear reverse infinite; pointer-events: none;"></div>
     
     <div style="position: relative; z-index: 2;">
