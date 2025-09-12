@@ -1,24 +1,25 @@
 ---
 layout: splash
-title: "BlueTeamCon 2025"
+title: "BlueTeamCon 2024"
 location: "Fairmont Chicago Millennium Park"
 address: "200 N Columbus Dr, Chicago, IL 60601"
-excerpt: "Join the Seguri team at September 6-7, 2025 at BlueTeamCon 2025"
+event_date: 2024-09-07
+excerpt: "Join the Seguri team at September 6-7, 2024 at BlueTeamCon 2024"
 header:
   overlay_image: /assets/images/events-blueteamcon.png
   teaser: /assets/images/events-blueteamcon.png
   overlay_filter: 0.5
 ---
 
-## BlueTeamCon 2025 - The Premier Conference for Cybersecurity Defenders
+## BlueTeamCon 2024 - The Premier Conference for Cybersecurity Defenders
 
-**Dates:** September 6-7, 2025 (Training: September 4-5)  
+**Dates:** September 6-7, 2024 (Training: September 4-5)  
 **Location:** Fairmont Chicago Millennium Park  
 **Address:** 200 N Columbus Dr, Chicago, IL 60601
 
 ---
 
-Join us at **BlueTeamCon 2025**, the only annual in-person conference created specifically for cybersecurity defenders. This unique event brings together 850+ community-minded defensive cybersecurity experts for information sharing, relationship building, and defense-focused presentations.
+Join us at **BlueTeamCon 2024**, the only annual in-person conference created specifically for cybersecurity defenders. This unique event brings together 850+ community-minded defensive cybersecurity experts for information sharing, relationship building, and defense-focused presentations.
 
 BlueTeamCon is designed for anyone interested in safeguarding organizations, making it the perfect venue to connect with like-minded professionals and explore the latest defensive strategies and technologies. The conference offers an inclusive environment where defenders can learn, share experiences, and build valuable professional relationships.
 

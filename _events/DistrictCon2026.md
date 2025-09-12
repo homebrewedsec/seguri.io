@@ -3,6 +3,7 @@ layout: splash
 title: "DistrictCon 2026"
 location: "Yours Truly DC Hotel"
 address: "1143 New Hampshire Ave NW, Washington, DC 20037"
+event_date: 2026-01-24
 excerpt: "Join the Seguri team at January 24-25, 2026 at DistrictCon 2026"
 header:
   overlay_image: /assets/images/events-districtcon.png

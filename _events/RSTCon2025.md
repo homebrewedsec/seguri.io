@@ -3,6 +3,7 @@ layout: splash
 title: "RSTCon 2025"
 location: "Hotel Indigo Savannah Historic District"
 address: "Near River Street, Savannah, GA"
+event_date: 2025-10-24
 excerpt: "Join the Seguri team at October 24-26, 2025 at RSTCon 2025 in Savannah, GA"
 header:
   overlay_image: /assets/images/events-rstcon.png

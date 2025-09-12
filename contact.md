@@ -10,10 +10,8 @@ header:
 
 <div style="text-align: center; margin: 3rem 0 4rem;">
   <div style="display: inline-block; position: relative; margin-bottom: 2rem;">
-    <i class="fas fa-comments" style="font-size: 3rem; color: #9aceeb; margin-right: 1rem; filter: drop-shadow(0 0 10px rgba(154, 206, 235, 0.3));"></i>
-    <i class="fas fa-shield-halved" style="font-size: 2rem; color: #4a90e2; margin-left: -0.5rem; filter: drop-shadow(0 0 8px rgba(74, 144, 226, 0.3));"></i>
   </div>
-  <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">Let's Secure Your Future</h1>
+  <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">Contact Us to Secure Your Future</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
   <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; max-width: 600px; margin: 0 auto;">
     Ready to transform your cybersecurity posture? Our experts are standing by to discuss your unique challenges and craft tailored solutions.

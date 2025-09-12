@@ -3,6 +3,7 @@ layout: splash
 title: "CarolinaCon 2025"
 location: "TBA"
 address: "Location to be announced"
+event_date: 2025-11-08
 excerpt: "Join the Seguri team at November 8-9, 2025 at CarolinaCon 2025"
 header:
   overlay_image: /assets/images/events-carolinacon.jpg
