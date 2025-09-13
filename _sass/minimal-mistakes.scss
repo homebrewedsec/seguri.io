@@ -69,6 +69,7 @@
 
 .feature__wrapper {
   position: relative;
+  margin-top: 0.5em !important;
   
   &::before {
     content: '';
