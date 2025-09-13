@@ -143,17 +143,17 @@ header:
       </p>
       <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
         <div style="text-align: center; flex: 1; min-width: 200px;">
-          <i class="fas fa-user-cog" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block;"></i>
+          <i class="fas fa-user-cog" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block; line-height: 1;"></i>
           <span style="color: rgba(255, 255, 255, 0.8); font-weight: 600;">OT-Specialized Analysts</span>
           <p style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; margin: 0.5rem 0 0;">Industrial experience, not just security training</p>
         </div>
         <div style="text-align: center; flex: 1; min-width: 200px;">
-          <i class="fas fa-tachometer-alt" style="font-size: 1.8rem; color: #4a90e2; margin-bottom: 0.5rem; display: block;"></i>
+          <i class="fas fa-tachometer-alt" style="font-size: 1.8rem; color: #4a90e2; margin-bottom: 0.5rem; display: block; line-height: 1;"></i>
           <span style="color: rgba(255, 255, 255, 0.8); font-weight: 600;">Rapid Response</span>
           <p style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; margin: 0.5rem 0 0;">OT-specific incident response playbooks</p>
         </div>
         <div style="text-align: center; flex: 1; min-width: 200px;">
-          <i class="fas fa-handshake" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block;"></i>
+          <i class="fas fa-handshake" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block; line-height: 1;"></i>
           <span style="color: rgba(255, 255, 255, 0.8); font-weight: 600;">Operations Coordination</span>
           <p style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; margin: 0.5rem 0 0;">Seamless integration with plant operations</p>
         </div>
