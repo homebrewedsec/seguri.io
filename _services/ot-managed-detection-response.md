@@ -346,16 +346,18 @@ header:
 
 <div style="text-align: center; margin: 1rem 0 1.5rem;">
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
-  <i class="fas fa-industry" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin: 0 1rem;"></i>
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
 </div>
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0 0 0 0;">Continue Learning</h2>
+  <h2 style="margin: 0 0 0 0; display: inline-flex; align-items: center;">
+    <i class="fas fa-industry" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin-right: 0.5rem;"></i>
+    Continue Learning
+  </h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 900px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.05), rgba(74, 144, 226, 0.03)); border: 1px solid rgba(154, 206, 235, 0.1); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
@@ -379,6 +381,22 @@ header:
       <li><a href="/training#detection-engineering-bootcamp" style="color: rgba(255, 255, 255, 0.8); text-decoration: none;">Detection Engineering Bootcamp</a></li>
       <li><a href="/training#custom-training" style="color: rgba(255, 255, 255, 0.8); text-decoration: none;">Custom Training Programs</a></li>
     </ul>
+  </div>
+
+  <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.05), rgba(74, 144, 226, 0.03)); border: 1px solid rgba(154, 206, 235, 0.1); border-radius: 12px; padding: 2rem;">
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
+      <i class="fas fa-envelope" style="margin-right: 0.5rem; color: #4a90e2;"></i>
+      OT Security Newsletter
+    </h3>
+    <p style="color: rgba(255, 255, 255, 0.8); margin: 0 0 1.5rem 0; font-size: 0.9rem; line-height: 1.5;">
+      Get the latest OT security insights, threat intelligence, and best practices delivered to your inbox monthly.
+    </p>
+    <form style="display: flex; flex-direction: column; gap: 1rem;">
+      <input type="email" placeholder="Your email address" required style="padding: 0.75rem; border: 1px solid rgba(154, 206, 235, 0.3); border-radius: 6px; background: rgba(255, 255, 255, 0.05); color: rgba(255, 255, 255, 0.9); font-size: 0.9rem;">
+      <button type="submit" style="padding: 0.75rem 1rem; background: linear-gradient(135deg, #9aceeb, #4a90e2); border: none; border-radius: 6px; color: white; font-weight: 600; font-size: 0.9rem; cursor: pointer; transition: all 0.3s ease;">
+        Subscribe
+      </button>
+    </form>
   </div>
 
 </div>
