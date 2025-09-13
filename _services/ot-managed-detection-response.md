@@ -216,6 +216,28 @@ header:
     </ul>
   </div>
 
+  <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(154, 206, 235, 0.3);">5</div>
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Compliance & Documentation</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
+      <li><strong>Regulatory Mapping:</strong> Alignment with NERC CIP, TSA, and CISA requirements</li>
+      <li><strong>Audit Support:</strong> Documentation and evidence collection for compliance audits</li>
+      <li><strong>Risk Reporting:</strong> Executive dashboards and regulatory reporting</li>
+      <li><strong>Policy Development:</strong> OT security policies and procedures</li>
+    </ul>
+  </div>
+
+  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
+    <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(74, 144, 226, 0.3);">6</div>
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Strategic Evolution</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
+      <li><strong>Technology Roadmap:</strong> Planning for OT security technology evolution</li>
+      <li><strong>Threat Landscape Updates:</strong> Adapting to emerging OT-specific threats</li>
+      <li><strong>Business Alignment:</strong> Ensuring security supports operational objectives</li>
+      <li><strong>Maturity Growth:</strong> Advancing your OT security program over time</li>
+    </ul>
+  </div>
+
 </div>
 
 <div style="text-align: center; margin: 4rem 0 3rem;">
