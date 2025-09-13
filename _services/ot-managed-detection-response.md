@@ -302,6 +302,38 @@ header:
     </ul>
   </div>
 
+  <div style="text-align: center;">
+    <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
+      <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
+        <i class="fas fa-hexagon fa-stack-2x text-primary" style="color: #9aceeb; filter: drop-shadow(0 4px 8px rgba(154, 206, 235, 0.3)); animation: pulse-glow 3s ease-in-out infinite;"></i>
+        <i class="fas fa-shield-alt fa-stack-1x fa-inverse" style="color: #fff; font-size: 0.9em;"></i>
+      </span>
+    </div>
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0; text-align: center;">Enhanced Security Posture</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); text-align: left; padding-left: 1.5rem; line-height: 1.6; margin: 0;">
+      <li>Faster detection of security threats before they impact operations</li>
+      <li>Proactive prevention through advanced threat hunting</li>
+      <li>Full understanding of your OT environment and its threats</li>
+      <li>Meeting industry standards and requirements with confidence</li>
+    </ul>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
+      <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
+        <i class="fas fa-hexagon fa-stack-2x text-primary" style="color: #4d6775; filter: drop-shadow(0 4px 8px rgba(77, 103, 117, 0.4)); animation: pulse-glow-slate 3s ease-in-out infinite;"></i>
+        <i class="fas fa-cogs fa-stack-1x fa-inverse" style="color: #fff; font-size: 0.9em;"></i>
+      </span>
+    </div>
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 0; text-align: center;">Operational Excellence</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); text-align: left; padding-left: 1.5rem; line-height: 1.6; margin: 0;">
+      <li>Security measures that enhance rather than hinder critical processes</li>
+      <li>Proactive identification of issues before they impact operations</li>
+      <li>Protection of safety-critical infrastructure and processes</li>
+      <li>Efficient security spend with measurable ROI and clear value</li>
+    </ul>
+  </div>
+
 </div>
 
 
