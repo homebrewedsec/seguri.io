@@ -3,7 +3,6 @@ layout: splash
 title: "BlueTeamCon 2024"
 location: "Fairmont Chicago Millennium Park"
 address: "200 N Columbus Dr, Chicago, IL 60601"
-event_date: 2024-09-07
 excerpt: "Join the Seguri team at September 6-7, 2024 at BlueTeamCon 2024"
 header:
   overlay_image: /assets/images/events-blueteamcon.png
