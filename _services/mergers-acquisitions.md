@@ -11,10 +11,13 @@ toc: true
 
 <style>
 h1, h2, h3, h4, h5, h6 {
-  text-align: center;
+  text-align: left;
 }
-p, li {
+p {
   text-align: justify;
+}
+li {
+  text-align: left;
 }
 </style>
 

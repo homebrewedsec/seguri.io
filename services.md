@@ -21,7 +21,7 @@ p {
   text-align: justify !important;
 }
 .archive__item-title {
-  text-align: center !important;
+  text-align: left !important;
 }
 .page__title {
   text-align: center !important;

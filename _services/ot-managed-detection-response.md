@@ -14,10 +14,17 @@ header:
 
 <style>
 h1, h2, h3, h4, h5, h6 {
-  text-align: center;
+  text-align: left;
 }
-p, li {
+p {
   text-align: justify;
+}
+li {
+  text-align: left;
+}
+/* Center section description text that follows headings with decorative bars */
+div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
+  text-align: center !important;
 }
 </style>
 
