@@ -42,7 +42,7 @@ header:
     <img src="/assets/images/ot-security-challenges.jpg" alt="Industrial control systems and SCADA networks" style="width: 100%; height: 300px; object-fit: cover; border-radius: 12px;">
     <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 12px;"></div>
     <div style="position: absolute; bottom: 1rem; left: 1rem; right: 1rem; text-align: center;">
-      <p style="color: white; font-weight: 700; margin: 0; font-size: 1.3rem; text-shadow: 0 0 20px rgba(0,0,0,0.8), 0 0 40px rgba(0,0,0,0.6), 0 4px 8px rgba(0,0,0,0.9); border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 8px; background: rgba(0,0,0,0.4); backdrop-filter: blur(4px);">When cyber attackers target these systems, they're threatening operations, safety, and your bottom line</p>
+      <p style="color: white; font-weight: 700; margin: 0; font-size: 1.3rem; text-shadow: 0 0 20px rgba(0,0,0,0.8), 0 0 40px rgba(0,0,0,0.6), 0 4px 8px rgba(0,0,0,0.9);">When cyber attackers target these systems, they're threatening operations, safety, and your bottom line</p>
     </div>
   </div>
 </div>
