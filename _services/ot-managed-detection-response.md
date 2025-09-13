@@ -22,7 +22,7 @@ header:
 
 <div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
-  <div style="position: relative; z-index: 2; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%;">
+  <div style="position: relative; z-index: 2; text-align: center;">
     <h2 style="color: #9aceeb; margin-bottom: 2rem; font-size: 1.8rem;">
       <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       OT Security That Actually Understands Operations
@@ -47,7 +47,7 @@ header:
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px; align-items: start;">
   
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
