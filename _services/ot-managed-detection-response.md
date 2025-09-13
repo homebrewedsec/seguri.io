@@ -312,7 +312,7 @@ header:
 </div>
 
 
-<div style="text-align: center; margin: 1rem 0 1.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; max-width: 900px; margin-left: auto; margin-right: auto; position: relative; overflow: hidden;">
+<div style="text-align: center; margin: 1rem 0 1.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; width: 100%; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 25s linear infinite; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2;">
