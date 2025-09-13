@@ -38,14 +38,6 @@ header:
   <h2 style="margin: 0 0 0 0;">The OT Security Reality</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 2rem;">Why traditional cybersecurity fails in operational environments</p>
-  
-  <div style="max-width: 100%; margin: 0 auto 2rem; position: relative; border-radius: 12px; overflow: hidden;">
-    <img src="/assets/images/ot-security-challenges.jpg" alt="Industrial control systems and SCADA networks" style="width: 100%; height: 300px; object-fit: cover; border-radius: 12px;">
-    <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 12px;"></div>
-    <div style="position: absolute; bottom: 1rem; left: 1rem; right: 1rem; text-align: center;">
-      <p style="color: white; font-weight: 700; margin: 0; font-size: 1.3rem; text-shadow: 0 0 20px rgba(0,0,0,0.8), 0 0 40px rgba(0,0,0,0.6), 0 4px 8px rgba(0,0,0,0.9);">When cyber attackers target these systems, they're threatening operations, safety, and your bottom line</p>
-    </div>
-  </div>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
