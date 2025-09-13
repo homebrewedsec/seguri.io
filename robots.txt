@@ -7,3 +7,7 @@ Sitemap: https://seguri.io/sitemap.xml
 User-agent: *
 Disallow: /feed.xml
 Disallow: /cdn-cgi/l/email-protection
+Disallow: /icons/
+Disallow: /categories/
+Disallow: /svgs/
+Disallow: /index-dev/
