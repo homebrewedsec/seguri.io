@@ -23,7 +23,7 @@ header:
 <div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2; text-align: center;">
-    <h2 style="color: #9aceeb; margin-bottom: 2rem; font-size: 1.8rem;">
+    <h2 style="color: #9aceeb; margin: 0 0 2rem 0; font-size: 1.8rem;">
       <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       OT Security That Actually Understands Operations
     </h2>
@@ -34,7 +34,7 @@ header:
 </div>
 
 <div style="text-align: center; margin: 1rem 0 1.5rem;">
-  <h2 style="margin: 0;">The OT Security Reality</h2>
+  <h2 style="margin: 0 0 0 0;">The OT Security Reality</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 2rem;">Why traditional cybersecurity fails in operational environments</p>
   
@@ -50,7 +50,7 @@ header:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px; align-items: start;">
   
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; display: flex; flex-direction: column; justify-content: flex-start; align-self: start;">
-    <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
       <i class="fas fa-clock" style="margin-right: 0.5rem; color: #9aceeb; font-size: 1.2rem;"></i>
       Always-On Operations
     </h3>
@@ -63,7 +63,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem;">
-    <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
       <i class="fas fa-crosshairs" style="margin-right: 0.5rem; color: #4a90e2; font-size: 1.2rem;"></i>
       Targeted Threat Landscape
     </h3>
@@ -76,7 +76,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem;">
-    <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
       <i class="fas fa-gavel" style="margin-right: 0.5rem; color: #9aceeb; font-size: 1.2rem;"></i>
       Regulatory Compliance
     </h3>
@@ -91,7 +91,7 @@ header:
 </div>
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0;">Our OT MDR Approach</h2>
+  <h2 style="margin: 0 0 0 0;">Our OT MDR Approach</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 0;">Security expertise that speaks both IT and OT fluently</p>
 </div>
@@ -101,11 +101,11 @@ header:
   <div style="position: relative; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
       <div>
-        <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
           <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
           Deep OT Expertise
         </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin-bottom: 1rem;">
+        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
           Our team brings years of hands-on experience in industrial environments, understanding the critical nuances that separate OT from IT security.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5;">
@@ -117,11 +117,11 @@ header:
       </div>
       
       <div>
-        <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
           <i class="fas fa-search" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Protocol-Aware Detection
         </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin-bottom: 1rem;">
+        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
           We implement detection mechanisms specifically designed for OT environments, not adapted from IT security tools.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5;">
@@ -134,7 +134,7 @@ header:
     </div>
     
     <div style="text-align: center; padding: 2rem; background: rgba(74, 144, 226, 0.1); border-radius: 12px; border: 1px solid rgba(74, 144, 226, 0.2);">
-      <h3 style="color: #9aceeb; margin-bottom: 1rem;">
+      <h3 style="color: #9aceeb; margin: 0 0 1rem 0;">
         <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
         24/7 Monitoring by OT Security Specialists
       </h3>
@@ -163,7 +163,7 @@ header:
 </div>
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0;">How We Protect Your Operations</h2>
+  <h2 style="margin: 0 0 0 0;">How We Protect Your Operations</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">A phased approach that builds comprehensive protection without disrupting operations</p>
 </div>
@@ -239,7 +239,7 @@ header:
 </div>
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0;">Why Seguri for OT MDR?</h2>
+  <h2 style="margin: 0 0 0 0;">Why Seguri for OT MDR?</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Experience, expertise, and an operational mindset that puts safety and availability first</p>
 </div>
@@ -249,11 +249,11 @@ header:
   <div style="position: relative; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
       <div>
-        <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
           <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
           Multi-Industry Experience
         </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin-bottom: 1rem;">
+        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
           Our team has hands-on experience defending critical infrastructure across multiple industrial sectors.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
@@ -266,11 +266,11 @@ header:
       </div>
       
       <div>
-        <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
           <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Operational Awareness
         </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin-bottom: 1rem;">
+        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
           We understand that availability and safety come first in OT environments. Our approach prioritizes operational continuity above all else.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
@@ -284,11 +284,11 @@ header:
     
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
       <div>
-        <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
           <i class="fas fa-clipboard-check" style="margin-right: 0.5rem; color: #4a90e2;"></i>
           Regulatory Compliance
         </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin-bottom: 1rem;">
+        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
           We help you meet and exceed regulatory requirements with comprehensive compliance support.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
@@ -300,11 +300,11 @@ header:
       </div>
       
       <div>
-        <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+        <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
           <i class="fas fa-puzzle-piece" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Integrated Approach
         </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin-bottom: 1rem;">
+        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
           Our OT MDR service integrates seamlessly with your existing security infrastructure for unified protection.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
@@ -319,7 +319,7 @@ header:
 </div>
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0;">What You Can Expect</h2>
+  <h2 style="margin: 0 0 0 0;">What You Can Expect</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Measurable security improvements that enhance both protection and operations</p>
 </div>
@@ -327,7 +327,7 @@ header:
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 1000px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <h3 style="color: #9aceeb; margin-bottom: 1.5rem; display: flex; align-items: center;">
+    <h3 style="color: #9aceeb; margin: 0 0 1.5rem 0; display: flex; align-items: center;">
       <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       Enhanced Security Posture
     </h3>
@@ -340,7 +340,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <h3 style="color: #4a90e2; margin-bottom: 1.5rem; display: flex; align-items: center;">
+    <h3 style="color: #4a90e2; margin: 0 0 1.5rem 0; display: flex; align-items: center;">
       <i class="fas fa-cogs" style="margin-right: 0.5rem; color: #9aceeb;"></i>
       Operational Excellence
     </h3>
@@ -358,7 +358,7 @@ header:
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 25s linear infinite; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2;">
-    <h2 style="color: #9aceeb; margin-bottom: 1.5rem; font-size: 2rem;">
+    <h2 style="color: #9aceeb; margin: 0 0 1.5rem 0; font-size: 2rem;">
       <i class="fas fa-rocket" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       Ready to Secure Your Critical Operations?
     </h2>
@@ -393,14 +393,14 @@ header:
 </div>
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0;">Continue Learning</h2>
+  <h2 style="margin: 0 0 0 0;">Continue Learning</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 900px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.05), rgba(74, 144, 226, 0.03)); border: 1px solid rgba(154, 206, 235, 0.1); border-radius: 12px; padding: 2rem;">
-    <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
       <i class="fas fa-blog" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       Related Blog Posts
     </h3>
@@ -413,7 +413,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.05), rgba(154, 206, 235, 0.03)); border: 1px solid rgba(74, 144, 226, 0.1); border-radius: 12px; padding: 2rem;">
-    <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
       <i class="fas fa-graduation-cap" style="margin-right: 0.5rem; color: #9aceeb;"></i>
       Training Opportunities
     </h3>
