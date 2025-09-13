@@ -7,6 +7,9 @@ header:
   teaser: /assets/images/service-iam.jpg
   overlay_filter: 0.5
 toc: true
+parent: "Our Services"
+parent_url: "/services/"
+breadcrumbs: true
 ---
 
 <style>
