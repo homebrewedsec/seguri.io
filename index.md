@@ -52,6 +52,7 @@ training:
 <div style="text-align: center; margin: 2rem 0 3rem;">
   <h2 style="margin: 0;">Our Services</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Tailored cybersecurity solutions designed for your unique operational environment</p>
 </div>
 
 {% include feature_row id="services" start_index=0 %}
