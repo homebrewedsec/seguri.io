@@ -36,8 +36,6 @@ header:
 
 <div style="text-align: center; margin: 1rem 0 1.5rem;">
   <h2 style="margin: 0 0 0 0;">The OT Security Reality</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 2rem;">Why traditional cybersecurity fails in operational environments</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
@@ -85,8 +83,6 @@ header:
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0 0 0 0;">Our OT MDR Approach</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 0;">Security expertise that speaks both IT and OT fluently</p>
 </div>
 
 <div class="ot-approach-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
@@ -157,8 +153,6 @@ header:
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0 0 0 0;">How We Protect Your Operations</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">A phased approach that builds comprehensive protection without disrupting operations</p>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
@@ -379,7 +373,6 @@ header:
     <i class="fas fa-industry" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin-right: 0.5rem;"></i>
     Continue Learning
   </h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
 <div style="display: grid; grid-template-columns: 1fr 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
