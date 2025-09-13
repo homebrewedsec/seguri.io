@@ -21,14 +21,14 @@ header:
 </div>
 
 <div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 0; position: relative; border-radius: 16px; overflow: hidden;">
-  <img src="/assets/images/ot-security-challenges.jpg" alt="OT Security Operations" style="width: 100%; height: 300px; object-fit: cover; border-radius: 16px;">
+  <img src="/assets/images/ot-security-challenges.jpg" alt="OT Security Operations" style="width: 100%; height: 400px; object-fit: cover; border-radius: 16px;">
   <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 16px;"></div>
-  <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 1.5rem 2rem;">
-    <h2 style="color: #9aceeb; margin: 0 0 2rem 0; font-size: 1.8rem; border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 8px; background: rgba(0,0,0,0.4); backdrop-filter: blur(4px);">
+  <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 2rem 3rem;">
+    <h2 style="color: #9aceeb; margin: 0 0 2rem 0; font-size: 1.8rem; text-shadow: 0 0 20px rgba(154, 206, 235, 0.8), 0 0 40px rgba(154, 206, 235, 0.6), 0 4px 8px rgba(0,0,0,0.9);">
       <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       OT Security That Actually Understands Operations
     </h2>
-    <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0;">
+    <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0; border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 8px; background: rgba(0,0,0,0.4); backdrop-filter: blur(4px);">
       Traditional IT security solutions don't understand that your SCADA systems can't afford a reboot, that your safety instrumented systems operate on microsecond timing, or that a misconfigured firewall rule could shut down critical operations. Our OT Managed Detection and Response services bridge this critical gap with specialized monitoring and response capabilities designed specifically for industrial environments.
     </p>
   </div>
