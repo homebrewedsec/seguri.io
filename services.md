@@ -10,6 +10,24 @@ header:
   teaser: /assets/images/home-header.webp
 ---
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+p {
+  text-align: justify;
+}
+.archive__item-excerpt p {
+  text-align: justify !important;
+}
+.archive__item-title {
+  text-align: center !important;
+}
+.page__title {
+  text-align: center !important;
+}
+</style>
+
 ## Tailored Cybersecurity Solutions
 
 At Seguri, we provide specialized cybersecurity services that go beyond one-size-fits-all approaches. Our expert team delivers comprehensive security solutions tailored to your organization's unique needs, threats, and business objectives.
