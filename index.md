@@ -68,7 +68,7 @@ training:
 
 {% include feature_row id="training" start_index=6 %}
 
-<div style="text-align: center; margin: 4rem 0 2rem;">
+<div style="text-align: center; margin: 2rem 0 2rem;">
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
   <i class="fas fa-users" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin: 0 1rem;"></i>
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
