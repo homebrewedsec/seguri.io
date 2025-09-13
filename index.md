@@ -49,7 +49,7 @@ training:
 
 ---
 {: #services}
-<div style="text-align: center; margin: 1rem 0 2rem;">
+<div style="text-align: center; margin: 0.5rem 0 1rem;">
   <h2 style="margin: 0;">Our Services</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Tailored cybersecurity solutions designed for your unique operational environment</p>
@@ -60,7 +60,7 @@ training:
 {% include feature_row id="services2" start_index=3 %}
 
 {: #training}
-<div style="text-align: center; margin: 2rem 0 2rem;">
+<div style="text-align: center; margin: 1rem 0 1.5rem;">
   <h2 style="margin: 0;">Training & Education</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Empower your team with cutting-edge cybersecurity knowledge and hands-on expertise</p>
@@ -68,13 +68,13 @@ training:
 
 {% include feature_row id="training" start_index=6 %}
 
-<div style="text-align: center; margin: 2rem 0 2rem;">
+<div style="text-align: center; margin: 1rem 0 1.5rem;">
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
 </div>
 
 {: #about}
-<div style="text-align: center; margin: 2rem 0 2rem;">
+<div style="text-align: center; margin: 1rem 0 1.5rem;">
   <h2 style="margin: 0;">
     <i class="fas fa-users" style="margin-right: 0.5rem; color: rgba(154, 206, 235, 0.8);"></i>
     Who is Seguri?
@@ -82,13 +82,13 @@ training:
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
-<div class="about-enhanced" style="max-width: 900px; margin: 0 auto; padding: 2rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
+<div class="about-enhanced" style="max-width: 900px; margin: 0 auto; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 20s linear infinite; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2;">
-    <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 1rem;">
+    <div style="display: flex; align-items: flex-start; gap: 2rem; margin-bottom: 0.5rem;">
       <div style="flex: 1;">
-        <h3 style="color: #9aceeb; margin-bottom: 1rem; font-size: 1.3rem; text-align: center;">
+        <h3 style="color: #9aceeb; margin-bottom: 0.5rem; font-size: 1.3rem; text-align: center;">
           <i class="fas fa-rocket" style="margin-right: 0.5rem; color: #4a90e2;"></i>
           Our Mission
         </h3>
@@ -98,9 +98,9 @@ training:
       </div>
     </div>
     
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 1rem 0;">
+    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin: 0.5rem 0;">
       <div>
-        <h4 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center; justify-content: center;">
+        <h4 style="color: #4a90e2; margin-bottom: 0.5rem; display: flex; align-items: center; justify-content: center;">
           <i class="fas fa-lightbulb" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Born from Experience
         </h4>
@@ -110,7 +110,7 @@ training:
       </div>
       
       <div>
-        <h4 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center; justify-content: center;">
+        <h4 style="color: #4a90e2; margin-bottom: 0.5rem; display: flex; align-items: center; justify-content: center;">
           <i class="fas fa-cogs" style="margin-right: 0.5rem; color: #9aceeb;"></i>
           Adaptive Approach
         </h4>
@@ -121,11 +121,11 @@ training:
     </div>
     
     <div style="text-align: center; padding: 2rem; background: rgba(74, 144, 226, 0.1); border-radius: 12px; border: 1px solid rgba(74, 144, 226, 0.2);">
-      <h4 style="color: #9aceeb; margin-bottom: 1rem;">
+      <h4 style="color: #9aceeb; margin-bottom: 0.5rem;">
         <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
         Security Experts with Deep Technical Expertise
       </h4>
-      <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.6; margin-bottom: 1rem;">
+      <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.6; margin-bottom: 0.5rem;">
         At our core, we're security professionals with deep technical expertise and real-world experience defending complex environments. This perspective allows us to anticipate threats and develop robust protection strategies that actually work. We're not just another vendor—we're your true security partners.
       </p>
       <div style="display: flex; justify-content: center; gap: 2rem; margin-top: 1.5rem;">
