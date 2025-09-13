@@ -2,8 +2,6 @@
 layout: splash
 title: "OT Managed Detection and Response"
 excerpt: "Your production lines can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have."
-parent: "Our Services"
-parent_url: "/services/"
 header:
   overlay_image: /assets/images/service-ot-mdr.jpg
   teaser: /assets/images/service-ot-mdr.jpg
@@ -12,26 +10,18 @@ header:
   actions:
     - label: "Secure Your OT Environment"
       url: "/contact"
-breadcrumbs: true
 ---
 
 <style>
 h1, h2, h3, h4, h5, h6 {
-  text-align: left;
+  text-align: center;
 }
-p {
+p, li {
   text-align: justify;
-}
-li {
-  text-align: left;
-}
-/* Center section description text that follows headings with decorative bars */
-div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
-  text-align: center !important;
 }
 </style>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 2rem;">
   <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Production Lines Can't Go Dark</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
   <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; max-width: 800px; margin: 0 auto; line-height: 1.6;">
@@ -39,7 +29,7 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
   </p>
 </div>
 
-<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 0.1rem auto 0.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
+<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2; text-align: center;">
     <h2 style="color: #9aceeb; margin-bottom: 2rem; font-size: 1.8rem;">
@@ -52,12 +42,12 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
   </div>
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 1.5rem;">
   <h2 style="margin: 0;">The OT Security Reality</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 0.2rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 0.1rem auto 0.5rem;">Why traditional cybersecurity fails in operational environments</p>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 2rem;">Why traditional cybersecurity fails in operational environments</p>
   
-  <div style="max-width: 100%; margin: 0 auto 0.5rem; position: relative; border-radius: 12px; overflow: hidden;">
+  <div style="max-width: 100%; margin: 0 auto 2rem; position: relative; border-radius: 12px; overflow: hidden;">
     <img src="/assets/images/ot-security-challenges.jpg" alt="Industrial control systems and SCADA networks" style="width: 100%; height: 300px; object-fit: cover; border-radius: 12px;">
     <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 12px;"></div>
     <div style="position: absolute; bottom: 1rem; left: 1rem; right: 1rem; text-align: center;">
@@ -66,7 +56,7 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
   </div>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 0.5rem; max-width: 1200px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
   
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
@@ -109,13 +99,13 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
 
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0;">Our OT MDR Approach</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 0.2rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 0.2rem auto 0;">Security expertise that speaks both IT and OT fluently</p>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 0;">Security expertise that speaks both IT and OT fluently</p>
 </div>
 
-<div class="ot-approach-enhanced" style="max-width: 100%; margin: 0 auto 0.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
+<div class="ot-approach-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
@@ -181,13 +171,13 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
   </div>
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0;">How We Protect Your Operations</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 0.2rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 0.2rem auto 0;">A phased approach that builds comprehensive protection without disrupting operations</p>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">A phased approach that builds comprehensive protection without disrupting operations</p>
 </div>
 
-<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 0 auto 0.5rem; max-width: 1200px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
     <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(154, 206, 235, 0.3);">1</div>
@@ -257,13 +247,13 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
 
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0;">Why Seguri for OT MDR?</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 0.2rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 0.2rem auto 0;">Experience, expertise, and an operational mindset that puts safety and availability first</p>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Experience, expertise, and an operational mindset that puts safety and availability first</p>
 </div>
 
-<div class="why-seguri-enhanced" style="max-width: 100%; margin: 0 auto 0.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
+<div class="why-seguri-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
@@ -337,13 +327,13 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
   </div>
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0;">What You Can Expect</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 0.2rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 0.2rem auto 0;">Measurable security improvements that enhance both protection and operations</p>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Measurable security improvements that enhance both protection and operations</p>
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 0.5rem; max-width: 1000px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 1000px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
     <h3 style="color: #9aceeb; margin-bottom: 1.5rem; display: flex; align-items: center;">
@@ -373,7 +363,7 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
 
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; max-width: 900px; margin-left: auto; margin-right: auto; position: relative; overflow: hidden;">
+<div style="text-align: center; margin: 1rem 0 1.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; max-width: 900px; margin-left: auto; margin-right: auto; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 25s linear infinite; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2;">
@@ -405,18 +395,18 @@ div[style*="text-align: center"] p[style*="color: rgba(255, 255, 255, 0.7)"] {
 }
 </style>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 1.5rem;">
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
   <i class="fas fa-industry" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin: 0 1rem;"></i>
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
 </div>
 
-<div style="text-align: center; margin: 0.1rem 0 0.5rem;">
+<div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0;">Continue Learning</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 0.2rem auto; border-radius: 2px;"></div>
+  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 0.5rem; max-width: 900px;">
+<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 900px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.05), rgba(74, 144, 226, 0.03)); border: 1px solid rgba(154, 206, 235, 0.1); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
