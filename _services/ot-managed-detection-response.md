@@ -20,7 +20,7 @@ header:
   </p>
 </div>
 
-<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 0; position: relative; border-radius: 16px; overflow: hidden;">
+<div class="ot-intro-enhanced" style="width: 100%; margin: 1rem 0 2rem; padding: 0; position: relative; border-radius: 16px; overflow: hidden;">
   <img src="/assets/images/ot-security-challenges.jpg" alt="OT Security Operations" style="width: 100%; height: 400px; object-fit: cover; border-radius: 16px;">
   <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 16px;"></div>
   <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 2rem 3rem;">
