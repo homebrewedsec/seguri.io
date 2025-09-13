@@ -86,7 +86,7 @@ header:
 </div>
 
 <div class="ot-approach-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 0; position: relative; border-radius: 16px; overflow: hidden;">
-  <img src="/assets/images/ot-monitoring-center.jpg" alt="OT Security Operations" style="width: 100%; height: 500px; object-fit: cover; border-radius: 16px;">
+  <img src="/assets/images/ot-monitoring-center.jpg" alt="OT Security Operations" style="width: 100%; min-height: 500px; object-fit: cover; border-radius: 16px; position: absolute; top: 0; left: 0; z-index: 0;">
   <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.75), rgba(154, 206, 235, 0.65)); border-radius: 16px;"></div>
   <div style="position: absolute; inset: 0; padding: 2rem; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
