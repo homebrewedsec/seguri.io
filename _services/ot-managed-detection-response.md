@@ -1,7 +1,7 @@
 ---
 layout: splash
 title: "OT Managed Detection and Response"
-excerpt: "Your production lines can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have."
+excerpt: "Your critical operations can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have."
 header:
   overlay_image: /assets/images/service-ot-mdr.jpg
   teaser: /assets/images/service-ot-mdr.jpg
@@ -13,10 +13,10 @@ header:
 ---
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Production Lines Can't Go Dark</h1>
+  <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Critical Operations Can't Go Dark</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
   <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    Your operational technology environments power everything that matters—manufacturing lines, power grids, water treatment facilities, and critical infrastructure. When cyber attackers target these systems, they're not just after data—they're threatening your operations, your safety, and your bottom line.
+    Your operational technology environments power everything that matters—water treatment facilities, power grids, transportation systems, and critical infrastructure. When cyber attackers target these systems, they're not just after data—they're threatening your operations, your safety, and your bottom line.
   </p>
 </div>
 
@@ -29,7 +29,7 @@ header:
       OT Security That Actually Understands Operations
     </h2>
     <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0;">
-      Traditional IT security solutions don't understand that your SCADA systems can't afford a reboot, that your safety instrumented systems operate on microsecond timing, or that a misconfigured firewall rule could shut down an entire production line. Our OT Managed Detection and Response services bridge this critical gap with specialized monitoring and response capabilities designed specifically for industrial environments.
+      Traditional IT security solutions don't understand that your SCADA systems can't afford a reboot, that your safety instrumented systems operate on microsecond timing, or that a misconfigured firewall rule could shut down critical operations. Our OT Managed Detection and Response services bridge this critical gap with specialized monitoring and response capabilities designed specifically for industrial environments.
     </p>
   </div>
 </div>
@@ -261,7 +261,7 @@ header:
           <li>Electric utilities and power generation</li>
           <li>Oil and gas operations</li>
           <li>Water and wastewater treatment</li>
-          <li>Manufacturing and process industries</li>
+          <li>Chemical and process industries</li>
           <li>Transportation systems</li>
         </ul>
       </div>
@@ -276,9 +276,9 @@ header:
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
           <li>Minimal impact on operational systems</li>
-          <li>Coordination with maintenance windows</li>
+          <li>Coordination with operational windows</li>
           <li>Respect for safety procedures</li>
-          <li>Clear communication with operations teams</li>
+          <li>Clear communication with operational teams</li>
         </ul>
       </div>
     </div>
@@ -364,7 +364,7 @@ header:
       Ready to Secure Your Critical Operations?
     </h2>
     <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 2rem; font-size: 1.1rem; line-height: 1.6; max-width: 700px; margin-left: auto; margin-right: auto;">
-      Your production lines can't afford to go dark due to a cyberattack. Our OT MDR services provide the specialized protection your industrial environment needs, delivered by experts who understand that uptime isn't just important—it's everything.
+      Your critical operations can't afford to go dark due to a cyberattack. Our OT MDR services provide the specialized protection your industrial environment needs, delivered by experts who understand that uptime isn't just important—it's everything.
     </p>
     
     <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
