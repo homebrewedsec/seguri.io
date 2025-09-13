@@ -1,22 +1,22 @@
 ---
 layout: splash
 title: "OT Managed Detection and Response"
-excerpt: "Your critical operations can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have."
+excerpt: "Your operations can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have."
 header:
   overlay_image: /assets/images/service-ot-mdr.jpg
   teaser: /assets/images/service-ot-mdr.jpg
   overlay_filter: 0.5
-  title: "Protect Your Critical Operations from Cyber Threats"
+  title: "Protect Your Operations from Cyber Threats"
   actions:
-    - label: "Secure Your OT Environment"
+    - label: "Secure Your Critical Infrastructure"
       url: "/contact"
 ---
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
-  <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Critical Operations Can't Go Dark</h1>
+  <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Critical Infrastructure Can't Go Dark</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
   <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; max-width: 800px; margin: 0 auto; line-height: 1.6;">
-    Your operational technology environments power everything that matters—water treatment facilities, power grids, transportation systems, and critical infrastructure. When cyber attackers target these systems, they're not just after data—they're threatening your operations, your safety, and your bottom line.
+    Your operational technology environments power everything that matters—water treatment facilities, power grids, transportation systems, and critical infrastructure. When cyber attackers target these systems, they're not just after data—they're threatening your critical processes, your safety, and your bottom line.
   </p>
 </div>
 
@@ -29,7 +29,7 @@ header:
       OT Security That Actually Understands Operations
     </h2>
     <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0; border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 8px; background: rgba(0,0,0,0.4); backdrop-filter: blur(4px);">
-      Traditional IT security solutions don't understand that your SCADA systems can't afford a reboot, that your safety instrumented systems operate on microsecond timing, or that a misconfigured firewall rule could shut down critical operations. Our OT Managed Detection and Response services bridge this critical gap with specialized monitoring and response capabilities designed specifically for industrial environments.
+      Traditional IT security solutions don't understand that your SCADA systems can't afford a reboot, that your safety instrumented systems operate on microsecond timing, or that a misconfigured firewall rule could shut down critical processes. Our OT Managed Detection and Response services bridge this critical gap with specialized monitoring and response capabilities designed specifically for industrial environments.
     </p>
   </div>
 </div>
@@ -346,9 +346,9 @@ header:
       Operational Excellence
     </h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
-      <li><strong>Zero Impact Monitoring:</strong> Security measures that enhance rather than hinder operations</li>
-      <li><strong>Improved Availability:</strong> Proactive identification of issues before they cause downtime</li>
-      <li><strong>Enhanced Safety:</strong> Protection of safety-critical systems and processes</li>
+      <li><strong>Zero Impact Monitoring:</strong> Security measures that enhance rather than hinder critical processes</li>
+      <li><strong>Improved Availability:</strong> Proactive identification of issues before they impact operations</li>
+      <li><strong>Enhanced Safety:</strong> Protection of safety-critical infrastructure and processes</li>
       <li><strong>Optimized Investment:</strong> Efficient security spend with measurable ROI and clear value</li>
     </ul>
   </div>
@@ -361,16 +361,16 @@ header:
   <div style="position: relative; z-index: 2;">
     <h2 style="color: #9aceeb; margin: 0 0 1.5rem 0; font-size: 2rem;">
       <i class="fas fa-rocket" style="margin-right: 0.5rem; color: #4a90e2;"></i>
-      Ready to Secure Your Critical Operations?
+      Ready to Secure Your Critical Infrastructure?
     </h2>
     <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 2rem; font-size: 1.1rem; line-height: 1.6; max-width: 700px; margin-left: auto; margin-right: auto;">
-      Your critical operations can't afford to go dark due to a cyberattack. Our OT MDR services provide the specialized protection your industrial environment needs, delivered by experts who understand that uptime isn't just important—it's everything.
+      Your operations can't afford to go dark due to a cyberattack. Our OT MDR services provide the specialized protection your industrial environment needs, delivered by experts who understand that uptime isn't just important—it's everything.
     </p>
     
     <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
       <a href="/contact" style="padding: 1rem 2.5rem; background: linear-gradient(135deg, #9aceeb, #4a90e2); border: none; border-radius: 8px; color: #fff; font-size: 1.2rem; font-weight: 600; text-decoration: none; transition: all 0.3s ease; display: inline-flex; align-items: center; box-shadow: 0 4px 15px rgba(154, 206, 235, 0.3);">
         <i class="fas fa-shield-alt" style="margin-right: 0.5rem;"></i>
-        Secure Your OT Environment
+        Secure Your Critical Infrastructure
       </a>
       <a href="/blog" style="color: rgba(255, 255, 255, 0.8); text-decoration: none; font-size: 1rem; display: inline-flex; align-items: center; transition: color 0.3s ease;">
         <i class="fas fa-book-open" style="margin-right: 0.5rem; color: #9aceeb;"></i>
