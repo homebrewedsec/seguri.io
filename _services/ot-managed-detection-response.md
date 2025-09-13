@@ -15,7 +15,7 @@ header:
 <div style="text-align: center; margin: 1rem 0 2rem;">
   <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Critical Infrastructure Can't Go Dark</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
-  <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; max-width: 800px; margin: 0 auto; line-height: 1.6;">
+  <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; width: 100%; margin: 0 auto; line-height: 1.6; text-shadow: 0 0 15px rgba(255,255,255,0.3), 0 0 30px rgba(255,255,255,0.2), 0 3px 6px rgba(255,255,255,0.1);">
     Your operational technology environments power everything that matters—water treatment facilities, power grids, transportation systems, and critical infrastructure. When cyber attackers target these systems, they're not just after data—they're threatening your critical processes, your safety, and your bottom line.
   </p>
 </div>
@@ -233,82 +233,75 @@ header:
 
 <div style="text-align: center; margin: 1rem 0 2rem;">
   <h2 style="margin: 0 0 0 0;">Why Seguri for OT MDR?</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Experience, expertise, and an operational mindset that puts safety and availability first</p>
 </div>
 
-<div class="why-seguri-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
+<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 0 auto 3rem; max-width: 1200px;">
   
-  <div style="position: relative; z-index: 2;">
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
-      <div>
-        <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
-          <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
-          Multi-Industry Experience
-        </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
-          Our team has hands-on experience defending critical infrastructure across multiple industrial sectors.
-        </p>
-        <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
-          <li>Electric utilities and power generation</li>
-          <li>Oil and gas operations</li>
-          <li>Water and wastewater treatment</li>
-          <li>Chemical and process industries</li>
-          <li>Transportation systems</li>
-        </ul>
-      </div>
-      
-      <div>
-        <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
-          <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #9aceeb;"></i>
-          Operational Awareness
-        </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
-          We understand that availability and safety come first in OT environments. Our approach prioritizes operational continuity above all else.
-        </p>
-        <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
-          <li>Zero impact monitoring that enhances operations</li>
-          <li>Coordination with operational windows</li>
-          <li>Respect for safety procedures and enhanced safety</li>
-          <li>Clear communication with operational teams</li>
-        </ul>
-      </div>
+  <div style="text-align: center;">
+    <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
+      <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
+        <i class="fas fa-hexagon fa-stack-2x text-primary" style="color: #9aceeb; filter: drop-shadow(0 4px 8px rgba(154, 206, 235, 0.3)); animation: pulse-glow 3s ease-in-out infinite;"></i>
+        <i class="fas fa-industry fa-stack-1x fa-inverse" style="color: #fff; font-size: 0.9em;"></i>
+      </span>
     </div>
-    
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem;">
-      <div>
-        <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
-          <i class="fas fa-clipboard-check" style="margin-right: 0.5rem; color: #4a90e2;"></i>
-          Regulatory Compliance
-        </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
-          We help you meet and exceed regulatory requirements with comprehensive compliance support.
-        </p>
-        <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
-          <li>NERC CIP compliance support</li>
-          <li>CISA cybersecurity framework alignment</li>
-          <li>Industry-specific standard adherence</li>
-          <li>Audit preparation and support</li>
-        </ul>
-      </div>
-      
-      <div>
-        <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
-          <i class="fas fa-puzzle-piece" style="margin-right: 0.5rem; color: #9aceeb;"></i>
-          Integrated Approach
-        </h3>
-        <p style="color: rgba(255, 255, 255, 0.8); line-height: 1.6; margin: 0 0 1rem 0;">
-          Our OT MDR service integrates seamlessly with your existing security infrastructure for unified protection.
-        </p>
-        <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
-          <li>Complete visibility into OT environment and threats</li>
-          <li>Integration with enterprise SIEM platforms</li>
-          <li>Rapid threat detection and proactive prevention</li>
-          <li>Unified security operations with measurable ROI</li>
-        </ul>
-      </div>
-    </div>
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0; text-align: center;">Multi-Industry Experience</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); text-align: left; padding-left: 1.5rem; line-height: 1.6; margin: 0;">
+      <li>Electric utilities and power generation</li>
+      <li>Oil and gas operations</li>
+      <li>Water and wastewater treatment</li>
+      <li>Chemical and process industries</li>
+      <li>Transportation systems</li>
+    </ul>
   </div>
+  
+  <div style="text-align: center;">
+    <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
+      <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
+        <i class="fas fa-hexagon fa-stack-2x text-primary" style="color: #4d6775; filter: drop-shadow(0 4px 8px rgba(77, 103, 117, 0.4)); animation: pulse-glow-slate 3s ease-in-out infinite;"></i>
+        <i class="fas fa-shield-alt fa-stack-1x fa-inverse" style="color: #fff; font-size: 0.9em;"></i>
+      </span>
+    </div>
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 0; text-align: center;">Operational Awareness</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); text-align: left; padding-left: 1.5rem; line-height: 1.6; margin: 0;">
+      <li>Zero impact monitoring that enhances operations</li>
+      <li>Coordination with operational windows</li>
+      <li>Respect for safety procedures and enhanced safety</li>
+      <li>Clear communication with operational teams</li>
+    </ul>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
+      <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
+        <i class="fas fa-hexagon fa-stack-2x text-primary" style="color: #9aceeb; filter: drop-shadow(0 4px 8px rgba(154, 206, 235, 0.3)); animation: pulse-glow 3s ease-in-out infinite;"></i>
+        <i class="fas fa-clipboard-check fa-stack-1x fa-inverse" style="color: #fff; font-size: 0.9em;"></i>
+      </span>
+    </div>
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0; text-align: center;">Regulatory Compliance</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); text-align: left; padding-left: 1.5rem; line-height: 1.6; margin: 0;">
+      <li>NERC CIP compliance support</li>
+      <li>CISA cybersecurity framework alignment</li>
+      <li>Industry-specific standard adherence</li>
+      <li>Audit preparation and support</li>
+    </ul>
+  </div>
+  
+  <div style="text-align: center;">
+    <div style="text-align:center; margin: 2rem auto 1.5rem; position: relative;">
+      <span class="fa-stack fa-4x" style="display: inline-block; position: relative;">
+        <i class="fas fa-hexagon fa-stack-2x text-primary" style="color: #4d6775; filter: drop-shadow(0 4px 8px rgba(77, 103, 117, 0.4)); animation: pulse-glow-slate 3s ease-in-out infinite;"></i>
+        <i class="fas fa-puzzle-piece fa-stack-1x fa-inverse" style="color: #fff; font-size: 0.9em;"></i>
+      </span>
+    </div>
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 0; text-align: center;">Integrated Approach</h3>
+    <ul style="color: rgba(255, 255, 255, 0.8); text-align: left; padding-left: 1.5rem; line-height: 1.6; margin: 0;">
+      <li>Complete visibility into OT environment and threats</li>
+      <li>Integration with enterprise SIEM platforms</li>
+      <li>Rapid threat detection and proactive prevention</li>
+      <li>Unified security operations with measurable ROI</li>
+    </ul>
+  </div>
+
 </div>
 
 
