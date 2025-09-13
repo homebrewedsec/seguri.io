@@ -8,7 +8,7 @@ header:
   teaser: /assets/images/home-header.webp
 ---
 
-{% assign current_date = site.time | date: "%Y-%m-%d" %}
+{% assign current_date = site.time %}
 {% assign upcoming_events = site.events | where_exp: "event", "event.event_date" | where_exp: "event", "event.event_date >= current_date" | sort: "event_date" %}
 
 <div class="grid__wrapper">
