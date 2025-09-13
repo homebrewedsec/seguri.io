@@ -70,13 +70,15 @@ training:
 
 <div style="text-align: center; margin: 2rem 0 2rem;">
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
-  <i class="fas fa-users" style="font-size: 1.2rem; color: rgba(154, 206, 235, 0.5); margin: 0 1rem;"></i>
   <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
 </div>
 
 {: #about}
 <div style="text-align: center; margin: 4rem 0 3rem;">
-  <h2 style="margin: 0;">Who is Seguri?</h2>
+  <h2 style="margin: 0;">
+    <i class="fas fa-users" style="margin-right: 0.5rem; color: rgba(154, 206, 235, 0.8);"></i>
+    Who is Seguri?
+  </h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
