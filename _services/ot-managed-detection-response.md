@@ -16,7 +16,7 @@ header:
   <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Critical Infrastructure Can't Go Dark</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
   <p style="color: rgba(255, 255, 255, 0.8); font-size: 1.2rem; width: 100%; margin: 0 auto; line-height: 1.6; text-shadow: 0 0 15px rgba(255,255,255,0.3), 0 0 30px rgba(255,255,255,0.2), 0 3px 6px rgba(255,255,255,0.1);">
-    Your operational technology environments power everything that matters—water treatment facilities, power grids, transportation systems, and critical infrastructure. When cyber attackers target these systems, they're not just after data—they're threatening your critical processes, your safety, and your bottom line.
+    Your operational technology environments power everything that matters: water treatment facilities, power grids, transportation systems, and critical infrastructure. When cyber attackers target these systems, they're not just after data, they're threatening your critical processes, your safety, and your bottom line.
   </p>
 </div>
 
@@ -129,7 +129,7 @@ header:
         24/7 Monitoring by OT Security Specialists
       </h3>
       <p style="color: rgba(255, 255, 255, 0.95); line-height: 1.6; margin-bottom: 1.5rem; text-shadow: 0 0 15px rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.9);">
-        Our security operations center provides round-the-clock monitoring with analysts who understand that operational impact and security risk require careful balance. When seconds count and production is on the line, you need defenders who know the difference between a security incident and a process deviation.
+        Our security operations center provides round-the-clock monitoring with analysts who understand that operational impact and security risk require careful balance. When seconds count and operations are on the line, you need defenders who know the difference between a security incident and a process deviation.
       </p>
       <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
         <div style="text-align: center; flex: 1; min-width: 200px;">
@@ -341,7 +341,7 @@ header:
       Ready to Secure Your Critical Infrastructure?
     </h2>
     <p style="color: rgba(255, 255, 255, 0.8); margin-bottom: 2rem; font-size: 1.1rem; line-height: 1.6; max-width: 700px; margin-left: auto; margin-right: auto;">
-      Your operations can't afford to go dark due to a cyberattack. Our OT MDR services provide the specialized protection your industrial environment needs, delivered by experts who understand that uptime isn't just important—it's everything.
+      Your operations can't afford to go dark due to a cyberattack. Our OT MDR services provide the specialized protection your industrial environment needs, delivered by experts who understand that uptime isn't just important, it's everything.
     </p>
     
     <div style="display: flex; flex-direction: column; align-items: center; gap: 1rem;">
