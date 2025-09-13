@@ -245,6 +245,7 @@ defaults:
       show_date: false
       share: true
       related: true
+      breadcrumbs: true
   # _training
   - scope:
       path: ""

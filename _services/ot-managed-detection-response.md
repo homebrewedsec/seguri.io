@@ -2,6 +2,8 @@
 layout: splash
 title: "OT Managed Detection and Response"
 excerpt: "Your production lines can't afford to go dark due to a cyberattack. We protect your industrial control systems and SCADA networks with specialized OT security expertise that most consultants simply don't have."
+parent: "Our Services"
+parent_url: "/services/"
 header:
   overlay_image: /assets/images/service-ot-mdr.jpg
   teaser: /assets/images/service-ot-mdr.jpg
@@ -10,6 +12,7 @@ header:
   actions:
     - label: "Secure Your OT Environment"
       url: "/contact"
+breadcrumbs: true
 ---
 
 <style>
