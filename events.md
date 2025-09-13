@@ -9,7 +9,7 @@ header:
 ---
 
 {% assign current_date = site.time | date: "%Y-%m-%d" %}
-{% assign upcoming_events = site.events | where_exp: "event", "event.event_date >= current_date" | sort: "event_date" %}
+{% assign upcoming_events = site.events | where_exp: "event", "event.event_date and event.event_date >= current_date" | sort: "event_date" %}
 
 <div class="grid__wrapper">
   {% for event in upcoming_events %}
