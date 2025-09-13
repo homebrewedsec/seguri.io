@@ -12,15 +12,6 @@ header:
       url: "/contact"
 ---
 
-<style>
-h1, h2, h3, h4, h5, h6 {
-  text-align: center;
-}
-p, li {
-  text-align: justify;
-}
-</style>
-
 <div style="text-align: center; margin: 1rem 0 2rem;">
   <h1 style="margin: 0; font-size: 2.8rem; color: #fff;">When Production Lines Can't Go Dark</h1>
   <div style="width: 140px; height: 4px; background: linear-gradient(90deg, #4a90e2, #9aceeb, #4a90e2); margin: 1.5rem auto; border-radius: 2px; box-shadow: 0 0 15px rgba(154, 206, 235, 0.4);"></div>
