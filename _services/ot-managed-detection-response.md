@@ -28,7 +28,7 @@ header:
       <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       OT Security That Actually Understands Operations
     </h2>
-    <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0; border: 2px solid rgba(255,255,255,0.3); padding: 1rem 1.5rem; border-radius: 8px; background: rgba(0,0,0,0.4); backdrop-filter: blur(4px);">
+    <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0; text-shadow: 0 0 15px rgba(0,0,0,0.8), 0 0 30px rgba(0,0,0,0.6), 0 3px 6px rgba(0,0,0,0.9);">
       Traditional IT security solutions don't understand that your SCADA systems can't afford a reboot, that your safety instrumented systems operate on microsecond timing, or that a misconfigured firewall rule could shut down critical processes. Our OT Managed Detection and Response services bridge this critical gap with specialized monitoring and response capabilities designed specifically for industrial environments.
     </p>
   </div>
