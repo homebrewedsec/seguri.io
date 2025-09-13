@@ -49,11 +49,11 @@ social:
   links: # An array of links to social media profiles
 
 # Analytics
-#analytics:
-#  provider               : "google-gtag"
-#  google:
-#    tracking_id          : "G-PX89M4SK7R"
-#    anonymize_ip         : # true, false (default)
+analytics:
+  provider               : "google-gtag"
+  google:
+    tracking_id          : "G-PX89M4SK7R"
+    anonymize_ip         : false
 
 # Site Footer
 footer:
