@@ -20,8 +20,7 @@ header:
   </p>
 </div>
 
-<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 2rem auto 4rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 20s linear infinite; pointer-events: none;"></div>
+<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2; text-align: center;">
     <h2 style="color: #9aceeb; margin-bottom: 2rem; font-size: 1.8rem;">
@@ -39,7 +38,7 @@ header:
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 2rem;">Why traditional cybersecurity fails in operational environments</p>
   
-  <div style="max-width: 800px; margin: 0 auto 2rem; position: relative; border-radius: 12px; overflow: hidden;">
+  <div style="max-width: 100%; margin: 0 auto 2rem; position: relative; border-radius: 12px; overflow: hidden;">
     <img src="/assets/images/ot-security-challenges.jpg" alt="Industrial control systems and SCADA networks" style="width: 100%; height: 300px; object-fit: cover; border-radius: 12px;">
     <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 12px;"></div>
     <div style="position: absolute; bottom: 1rem; left: 1rem; right: 1rem; text-align: center;">
@@ -97,8 +96,7 @@ header:
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 0;">Security expertise that speaks both IT and OT fluently</p>
 </div>
 
-<div class="ot-approach-enhanced" style="max-width: 1000px; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 25s linear infinite; pointer-events: none;"></div>
+<div class="ot-approach-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
@@ -246,8 +244,7 @@ header:
   <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Experience, expertise, and an operational mindset that puts safety and availability first</p>
 </div>
 
-<div class="why-seguri-enhanced" style="max-width: 1000px; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
-  <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 30s linear infinite; pointer-events: none;"></div>
+<div class="why-seguri-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
   <div style="position: relative; z-index: 2;">
     <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
