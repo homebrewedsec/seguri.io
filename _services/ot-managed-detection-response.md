@@ -22,10 +22,10 @@ header:
 
 <div class="ot-intro-enhanced" style="width: 100%; margin: 1rem 0 2rem; padding: 0; position: relative; border-radius: 16px; overflow: hidden;">
   <img src="/assets/images/ot-security-challenges.jpg" alt="OT Security Operations" style="width: 100%; height: 400px; object-fit: cover; border-radius: 16px;">
-  <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 16px;"></div>
+  <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.5), rgba(154, 206, 235, 0.4)); border-radius: 16px;"></div>
   <div style="position: absolute; inset: 0; display: flex; flex-direction: column; align-items: center; justify-content: center; text-align: center; padding: 2rem 3rem;">
-    <h2 style="color: #9aceeb; margin: 0 0 2rem 0; font-size: 1.8rem; text-shadow: 0 0 20px rgba(154, 206, 235, 0.8), 0 0 40px rgba(154, 206, 235, 0.6), 0 4px 8px rgba(0,0,0,0.9);">
-      <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
+    <h2 style="color: #ffffff; margin: 0 0 2rem 0; font-size: 1.8rem; text-shadow: 0 0 25px rgba(0,0,0,1), 0 0 50px rgba(0,0,0,0.9), 0 6px 12px rgba(0,0,0,1), 0 0 15px rgba(154, 206, 235, 0.4);">
+      <i class="fas fa-industry" style="margin-right: 0.5rem; color: #9aceeb;"></i>
       OT Security That Actually Understands Operations
     </h2>
     <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.7; font-size: 1.1rem; margin-bottom: 0; text-shadow: 0 0 15px rgba(0,0,0,0.8), 0 0 30px rgba(0,0,0,0.6), 0 3px 6px rgba(0,0,0,0.9);">
