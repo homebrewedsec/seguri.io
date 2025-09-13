@@ -22,7 +22,7 @@ header:
 
 <div class="ot-intro-enhanced" style="max-width: 1000px; margin: 1rem auto 2rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px;">
   
-  <div style="position: relative; z-index: 2; text-align: center;">
+  <div style="position: relative; z-index: 2; text-align: center; display: flex; flex-direction: column; align-items: center; justify-content: flex-start; height: 100%;">
     <h2 style="color: #9aceeb; margin-bottom: 2rem; font-size: 1.8rem;">
       <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       OT Security That Actually Understands Operations
