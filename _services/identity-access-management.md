@@ -9,6 +9,15 @@ header:
 toc: true
 ---
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+p, li {
+  text-align: justify;
+}
+</style>
+
 ## Your Digital Identity Foundation
 
 In today's interconnected business environment, your identity infrastructure is the foundation of your security posture. Every access decision, every authentication attempt, and every authorization check depends on the strength and effectiveness of your Identity and Access Management (IAM) systems. Our specialized IAM services help you build, assess, and optimize identity infrastructure that protects your most critical assets while enabling your business to operate efficiently.

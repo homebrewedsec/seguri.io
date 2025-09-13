@@ -9,6 +9,15 @@ header:
 toc: true
 ---
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+p, li {
+  text-align: justify;
+}
+</style>
+
 ## When Crisis Strikes, Be Ready
 
 Every organization will eventually face a cybersecurity incident – it's not a matter of if, but when. The difference between a manageable security event and a business-threatening crisis lies in preparation. Our Incident Response Planning services go beyond generic templates to create comprehensive, tested, and actionable response strategies tailored specifically to your organization, your threats, and your business priorities.

@@ -9,6 +9,15 @@ header:
 toc: true
 ---
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+p, li {
+  text-align: justify;
+}
+</style>
+
 ## Security-Informed Deal Making
 
 Mergers and acquisitions represent significant growth opportunities, but they also introduce substantial security risks that can derail deals, reduce valuations, or create long-term vulnerabilities in your organization. Our specialized M&A security services help you navigate these challenges, providing the security intelligence you need to make informed decisions while ensuring successful integrations that strengthen rather than compromise your overall security posture.

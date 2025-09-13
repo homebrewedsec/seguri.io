@@ -9,6 +9,15 @@ header:
 toc: true
 ---
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+p, li {
+  text-align: justify;
+}
+</style>
+
 ## Beyond Basic Vulnerability Scanning
 
 Your network infrastructure is the foundation that connects all your critical business systems, but it's also the primary pathway that attackers use to move through your environment. Traditional vulnerability scanners can tell you what's broken, but they can't tell you what matters most or how an attacker would actually exploit your environment. Our Network Security Assessments go far beyond basic scanning to provide the strategic insights you need to build a truly resilient network defense.

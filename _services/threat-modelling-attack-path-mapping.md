@@ -9,6 +9,15 @@ header:
 toc: true
 ---
 
+<style>
+h1, h2, h3, h4, h5, h6 {
+  text-align: center;
+}
+p, li {
+  text-align: justify;
+}
+</style>
+
 ## Think Like an Attacker, Defend Like a Professional
 
 Traditional security approaches focus on protecting everything equally, but modern threats are sophisticated and targeted. Our Threat Modeling and Attack Path Mapping services combine a hacker's insight with a defender's focus to help you understand exactly how attackers would target your organization, enabling you to prioritize your security investments where they matter most and build defenses that actually work against real-world threats.
