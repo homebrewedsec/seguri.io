@@ -49,7 +49,7 @@ header:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 1.5rem; margin: 0 auto 2rem; max-width: 1200px; align-items: start;">
   
-  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem;">
+  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; display: flex; flex-direction: column; justify-content: flex-start; align-self: start;">
     <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
       <i class="fas fa-clock" style="margin-right: 0.5rem; color: #9aceeb; font-size: 1.2rem;"></i>
       Always-On Operations
