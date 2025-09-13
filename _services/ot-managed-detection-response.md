@@ -20,7 +20,7 @@ header:
   </p>
 </div>
 
-<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 0 auto 4rem; padding: 3rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
+<div class="ot-intro-enhanced" style="max-width: 1000px; margin: 2rem auto 4rem; padding: 3rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 20s linear infinite; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2; text-align: center;">
@@ -50,8 +50,7 @@ header:
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 0 auto 4rem; max-width: 1200px;">
   
-  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -20px; right: -20px; width: 80px; height: 80px; background: radial-gradient(circle, rgba(74, 144, 226, 0.1), transparent); border-radius: 50%;"></div>
+  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
       <i class="fas fa-clock" style="margin-right: 0.5rem; color: #9aceeb; font-size: 1.2rem;"></i>
       Always-On Operations
@@ -64,8 +63,7 @@ header:
     </ul>
   </div>
 
-  <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -20px; right: -20px; width: 80px; height: 80px; background: radial-gradient(circle, rgba(154, 206, 235, 0.1), transparent); border-radius: 50%;"></div>
+  <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #9aceeb; margin-bottom: 1rem; display: flex; align-items: center;">
       <i class="fas fa-crosshairs" style="margin-right: 0.5rem; color: #4a90e2; font-size: 1.2rem;"></i>
       Targeted Threat Landscape
@@ -78,8 +76,7 @@ header:
     </ul>
   </div>
 
-  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -20px; right: -20px; width: 80px; height: 80px; background: radial-gradient(circle, rgba(74, 144, 226, 0.1), transparent); border-radius: 50%;"></div>
+  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem;">
     <h3 style="color: #4a90e2; margin-bottom: 1rem; display: flex; align-items: center;">
       <i class="fas fa-gavel" style="margin-right: 0.5rem; color: #9aceeb; font-size: 1.2rem;"></i>
       Regulatory Compliance
@@ -176,7 +173,7 @@ header:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 0 auto 4rem; max-width: 1200px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">1</div>
+    <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(154, 206, 235, 0.3);">1</div>
     <h3 style="color: #9aceeb; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Assessment & Baseline</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>Network Architecture Review:</strong> Complete mapping of OT network topology</li>
@@ -187,7 +184,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">2</div>
+    <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(74, 144, 226, 0.3);">2</div>
     <h3 style="color: #4a90e2; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Implementation</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>Sensor Deployment:</strong> Strategic placement of monitoring capabilities</li>
@@ -198,7 +195,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">3</div>
+    <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(154, 206, 235, 0.3);">3</div>
     <h3 style="color: #9aceeb; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Ongoing Operations</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>24/7 Monitoring:</strong> Continuous surveillance by OT security specialists</li>
@@ -209,7 +206,7 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">4</div>
+    <div style="position: absolute; top: 1.5rem; left: 1.5rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2; box-shadow: 0 2px 8px rgba(74, 144, 226, 0.3);">4</div>
     <h3 style="color: #4a90e2; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Continuous Improvement</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>Regular Reviews:</strong> Quarterly assessments of security posture</li>
