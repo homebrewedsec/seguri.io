@@ -143,18 +143,18 @@ header:
       <p style="color: rgba(255, 255, 255, 0.85); line-height: 1.6; margin-bottom: 1.5rem;">
         Our security operations center provides round-the-clock monitoring with analysts who understand that operational impact and security risk require careful balance. When seconds count and production is on the line, you need defenders who know the difference between a security incident and a process deviation.
       </p>
-      <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(200px, 1fr)); gap: 1.5rem;">
-        <div style="text-align: center;">
+      <div style="display: flex; justify-content: center; gap: 2rem; flex-wrap: wrap;">
+        <div style="text-align: center; flex: 1; min-width: 200px;">
           <i class="fas fa-user-cog" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block;"></i>
           <span style="color: rgba(255, 255, 255, 0.8); font-weight: 600;">OT-Specialized Analysts</span>
           <p style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; margin: 0.5rem 0 0;">Industrial experience, not just security training</p>
         </div>
-        <div style="text-align: center;">
+        <div style="text-align: center; flex: 1; min-width: 200px;">
           <i class="fas fa-tachometer-alt" style="font-size: 1.8rem; color: #4a90e2; margin-bottom: 0.5rem; display: block;"></i>
           <span style="color: rgba(255, 255, 255, 0.8); font-weight: 600;">Rapid Response</span>
           <p style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; margin: 0.5rem 0 0;">OT-specific incident response playbooks</p>
         </div>
-        <div style="text-align: center;">
+        <div style="text-align: center; flex: 1; min-width: 200px;">
           <i class="fas fa-handshake" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block;"></i>
           <span style="color: rgba(255, 255, 255, 0.8); font-weight: 600;">Operations Coordination</span>
           <p style="color: rgba(255, 255, 255, 0.6); font-size: 0.9rem; margin: 0.5rem 0 0;">Seamless integration with plant operations</p>
