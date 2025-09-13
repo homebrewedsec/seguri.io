@@ -267,9 +267,9 @@ header:
           We understand that availability and safety come first in OT environments. Our approach prioritizes operational continuity above all else.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
-          <li>Minimal impact on operational systems</li>
+          <li>Zero impact monitoring that enhances operations</li>
           <li>Coordination with operational windows</li>
-          <li>Respect for safety procedures</li>
+          <li>Respect for safety procedures and enhanced safety</li>
           <li>Clear communication with operational teams</li>
         </ul>
       </div>
@@ -301,51 +301,16 @@ header:
           Our OT MDR service integrates seamlessly with your existing security infrastructure for unified protection.
         </p>
         <ul style="color: rgba(255, 255, 255, 0.7); padding-left: 1.5rem; line-height: 1.5; margin: 0;">
-          <li>Correlation with IT security events</li>
+          <li>Complete visibility into OT environment and threats</li>
           <li>Integration with enterprise SIEM platforms</li>
-          <li>Coordination with incident response teams</li>
-          <li>Unified security operations approach</li>
+          <li>Rapid threat detection and proactive prevention</li>
+          <li>Unified security operations with measurable ROI</li>
         </ul>
       </div>
     </div>
   </div>
 </div>
 
-<div style="text-align: center; margin: 1rem 0 2rem;">
-  <h2 style="margin: 0 0 0 0;">What You Can Expect</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Measurable security improvements that enhance both protection and operations</p>
-</div>
-
-<div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin: 0 auto 2rem; max-width: 1000px;">
-  
-  <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <h3 style="color: #9aceeb; margin: 0 0 1.5rem 0; display: flex; align-items: center;">
-      <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
-      Enhanced Security Posture
-    </h3>
-    <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
-      <li><strong>Complete Visibility:</strong> Full understanding of your OT environment and its threats</li>
-      <li><strong>Faster Detection:</strong> Rapid identification of security threats before they impact operations</li>
-      <li><strong>Proactive Prevention:</strong> Threat hunting that stops attacks before they succeed</li>
-      <li><strong>Regulatory Compliance:</strong> Meeting industry standards and requirements with confidence</li>
-    </ul>
-  </div>
-
-  <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <h3 style="color: #4a90e2; margin: 0 0 1.5rem 0; display: flex; align-items: center;">
-      <i class="fas fa-cogs" style="margin-right: 0.5rem; color: #9aceeb;"></i>
-      Operational Excellence
-    </h3>
-    <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
-      <li><strong>Zero Impact Monitoring:</strong> Security measures that enhance rather than hinder critical processes</li>
-      <li><strong>Improved Availability:</strong> Proactive identification of issues before they impact operations</li>
-      <li><strong>Enhanced Safety:</strong> Protection of safety-critical infrastructure and processes</li>
-      <li><strong>Optimized Investment:</strong> Efficient security spend with measurable ROI and clear value</li>
-    </ul>
-  </div>
-
-</div>
 
 <div style="text-align: center; margin: 1rem 0 1.5rem; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; max-width: 900px; margin-left: auto; margin-right: auto; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 25s linear infinite; pointer-events: none;"></div>
