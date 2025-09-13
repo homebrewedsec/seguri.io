@@ -34,10 +34,18 @@ header:
   </div>
 </div>
 
-<div style="text-align: center; margin: 4rem 0 3rem;">
+<div style="text-align: center; margin: 4rem 0 2rem;">
   <h2 style="margin: 0;">The OT Security Reality</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 0;">Why traditional cybersecurity fails in operational environments</p>
+  <p style="color: rgba(255, 255, 255, 0.7); max-width: 700px; margin: 1rem auto 2rem;">Why traditional cybersecurity fails in operational environments</p>
+  
+  <div style="max-width: 800px; margin: 0 auto 3rem; position: relative; border-radius: 12px; overflow: hidden;">
+    <img src="/assets/images/ot-security-challenges.jpg" alt="Industrial control systems and SCADA networks" style="width: 100%; height: 300px; object-fit: cover; border-radius: 12px;">
+    <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.3), rgba(154, 206, 235, 0.2)); border-radius: 12px;"></div>
+    <div style="position: absolute; bottom: 1rem; left: 1rem; right: 1rem; text-align: center;">
+      <p style="color: white; font-weight: 600; margin: 0; text-shadow: 0 2px 4px rgba(0,0,0,0.5);">When cyber attackers target these systems, they're threatening operations, safety, and your bottom line</p>
+    </div>
+  </div>
 </div>
 
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(300px, 1fr)); gap: 2rem; margin: 0 auto 4rem; max-width: 1200px;">
@@ -168,8 +176,8 @@ header:
 <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(280px, 1fr)); gap: 2rem; margin: 0 auto 4rem; max-width: 1200px;">
   
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -10px; left: -10px; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">1</div>
-    <h3 style="color: #9aceeb; margin: 1rem 0 1rem 2rem; font-size: 1.3rem;">Assessment & Baseline</h3>
+    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">1</div>
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Assessment & Baseline</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>Network Architecture Review:</strong> Complete mapping of OT network topology</li>
       <li><strong>Asset Inventory:</strong> Comprehensive identification of all OT devices</li>
@@ -179,8 +187,8 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -10px; left: -10px; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">2</div>
-    <h3 style="color: #4a90e2; margin: 1rem 0 1rem 2rem; font-size: 1.3rem;">Implementation</h3>
+    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">2</div>
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Implementation</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>Sensor Deployment:</strong> Strategic placement of monitoring capabilities</li>
       <li><strong>Integration Setup:</strong> Connection with existing security tools and SIEM</li>
@@ -190,8 +198,8 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -10px; left: -10px; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">3</div>
-    <h3 style="color: #9aceeb; margin: 1rem 0 1rem 2rem; font-size: 1.3rem;">Ongoing Operations</h3>
+    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #9aceeb, #4a90e2); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">3</div>
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Ongoing Operations</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>24/7 Monitoring:</strong> Continuous surveillance by OT security specialists</li>
       <li><strong>Incident Response:</strong> Rapid response with operational awareness</li>
@@ -201,8 +209,8 @@ header:
   </div>
 
   <div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 12px; padding: 2rem; position: relative; overflow: hidden;">
-    <div style="position: absolute; top: -10px; left: -10px; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold;">4</div>
-    <h3 style="color: #4a90e2; margin: 1rem 0 1rem 2rem; font-size: 1.3rem;">Continuous Improvement</h3>
+    <div style="position: absolute; top: 1rem; left: 1rem; width: 40px; height: 40px; background: linear-gradient(135deg, #4a90e2, #9aceeb); border-radius: 50%; display: flex; align-items: center; justify-content: center; color: white; font-weight: bold; z-index: 2;">4</div>
+    <h3 style="color: #4a90e2; margin: 0 0 1rem 3rem; font-size: 1.3rem;">Continuous Improvement</h3>
     <ul style="color: rgba(255, 255, 255, 0.8); margin: 0; padding-left: 1.5rem; line-height: 1.6;">
       <li><strong>Regular Reviews:</strong> Quarterly assessments of security posture</li>
       <li><strong>Technology Updates:</strong> Integration of new detection capabilities</li>
