@@ -85,68 +85,64 @@ header:
   <h2 style="margin: 0 0 0 0;">Our OT MDR Approach</h2>
 </div>
 
-<div class="ot-approach-enhanced" style="max-width: 100%; margin: 0 auto 2rem; padding: 0; position: relative; border-radius: 16px; overflow: hidden;">
-  <img src="/assets/images/ot-monitoring-center.jpg" alt="OT Security Operations" style="width: 100%; min-height: 500px; object-fit: cover; border-radius: 16px; position: absolute; top: 0; left: 0; z-index: 0;">
-  <div style="position: absolute; inset: 0; background: linear-gradient(135deg, rgba(74, 144, 226, 0.75), rgba(154, 206, 235, 0.65)); border-radius: 16px;"></div>
-  <div style="position: absolute; inset: 0; padding: 2rem; z-index: 2;">
-    <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 1.5rem; margin-bottom: 2rem;">
-      <div>
-        <h3 style="color: #ffffff; margin: 0 0 1rem 0; display: flex; align-items: center; text-shadow: 0 0 15px rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.9);">
-          <i class="fas fa-industry" style="margin-right: 0.5rem; color: #9aceeb;"></i>
-          Deep OT Expertise
-        </h3>
-        <p style="color: rgba(255, 255, 255, 0.95); line-height: 1.6; margin: 0 0 1rem 0; text-shadow: 0 0 10px rgba(0,0,0,0.8), 0 2px 4px rgba(0,0,0,0.9);">
-          Our team brings years of hands-on experience in industrial environments, understanding the critical nuances that separate OT from IT security.
-        </p>
-        <ul style="color: rgba(255, 255, 255, 0.9); padding-left: 1.5rem; line-height: 1.5; text-shadow: 0 0 8px rgba(0,0,0,0.7);">
-          <li>Industrial protocols (Modbus, DNP3, EtherNet/IP, CIP)</li>
-          <li>Control system architectures (DCS, PLC, HMI, SCADA)</li>
-          <li>Safety instrumented systems (SIS)</li>
-          <li>Industrial networking topologies</li>
-        </ul>
-      </div>
-      
-      <div>
-        <h3 style="color: #ffffff; margin: 0 0 1rem 0; display: flex; align-items: center; text-shadow: 0 0 15px rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.9);">
-          <i class="fas fa-search" style="margin-right: 0.5rem; color: #9aceeb;"></i>
-          Protocol-Aware Detection
-        </h3>
-        <p style="color: rgba(255, 255, 255, 0.95); line-height: 1.6; margin: 0 0 1rem 0; text-shadow: 0 0 10px rgba(0,0,0,0.8), 0 2px 4px rgba(0,0,0,0.9);">
-          We implement detection mechanisms specifically designed for OT environments, not adapted from IT security tools.
-        </p>
-        <ul style="color: rgba(255, 255, 255, 0.9); padding-left: 1.5rem; line-height: 1.5; text-shadow: 0 0 8px rgba(0,0,0,0.7);">
-          <li>Deep packet inspection of industrial protocols</li>
-          <li>Detection of unauthorized command sequences</li>
-          <li>Abnormal device communication identification</li>
-          <li>Engineering workstation activity monitoring</li>
-        </ul>
-      </div>
-    </div>
-    
-    <div style="text-align: center; padding: 2rem; border-radius: 12px; background: rgba(0, 0, 0, 0.3); margin-top: 2rem;">
-      <h3 style="color: #ffffff; margin: 0 0 1rem 0; text-shadow: 0 0 20px rgba(0,0,0,0.8), 0 4px 8px rgba(0,0,0,0.9);">
-        <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #9aceeb;"></i>
-        24/7 Monitoring by OT Security Specialists
+<div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 16px; padding: 2rem; margin: 0 auto 2rem;">
+  <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 2rem;">
+    <div>
+      <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
+        <i class="fas fa-industry" style="margin-right: 0.5rem; color: #4a90e2;"></i>
+        Deep OT Expertise
       </h3>
-      <p style="color: rgba(255, 255, 255, 0.95); line-height: 1.6; margin-bottom: 1.5rem; text-shadow: 0 0 15px rgba(0,0,0,0.8), 0 3px 6px rgba(0,0,0,0.9);">
-        Our security operations center provides round-the-clock monitoring with analysts who understand that operational impact and security risk require careful balance. When seconds count and operations are on the line, you need defenders who know the difference between a security incident and a process deviation.
+      <p style="color: rgba(255, 255, 255, 0.9); line-height: 1.6; margin: 0 0 1rem 0;">
+        Our team brings years of hands-on experience in industrial environments, understanding the critical nuances that separate OT from IT security.
       </p>
-      <div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
-        <div style="text-align: center; flex: 1; min-width: 200px;">
-          <i class="fas fa-user-cog" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block; line-height: 1; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));"></i>
-          <span style="color: rgba(255, 255, 255, 0.95); font-weight: 600; text-shadow: 0 0 10px rgba(0,0,0,0.8);">OT-Specialized Analysts</span>
-          <p style="color: rgba(255, 255, 255, 0.85); font-size: 0.9rem; margin: 0.5rem 0 0; text-shadow: 0 0 8px rgba(0,0,0,0.7);">Industrial experience, not just security training</p>
-        </div>
-        <div style="text-align: center; flex: 1; min-width: 200px;">
-          <i class="fas fa-tachometer-alt" style="font-size: 1.8rem; color: #4a90e2; margin-bottom: 0.5rem; display: block; line-height: 1; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));"></i>
-          <span style="color: rgba(255, 255, 255, 0.95); font-weight: 600; text-shadow: 0 0 10px rgba(0,0,0,0.8);">Rapid Response</span>
-          <p style="color: rgba(255, 255, 255, 0.85); font-size: 0.9rem; margin: 0.5rem 0 0; text-shadow: 0 0 8px rgba(0,0,0,0.7);">OT-specific incident response playbooks</p>
-        </div>
-        <div style="text-align: center; flex: 1; min-width: 200px;">
-          <i class="fas fa-handshake" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block; line-height: 1; filter: drop-shadow(0 2px 4px rgba(0,0,0,0.5));"></i>
-          <span style="color: rgba(255, 255, 255, 0.95); font-weight: 600; text-shadow: 0 0 10px rgba(0,0,0,0.8);">Operations Coordination</span>
-          <p style="color: rgba(255, 255, 255, 0.85); font-size: 0.9rem; margin: 0.5rem 0 0; text-shadow: 0 0 8px rgba(0,0,0,0.7);">Seamless integration with plant operations</p>
-        </div>
+      <ul style="color: rgba(255, 255, 255, 0.8); padding-left: 1.5rem; line-height: 1.6;">
+        <li>Industrial protocols (Modbus, DNP3, EtherNet/IP, CIP)</li>
+        <li>Control system architectures (DCS, PLC, HMI, SCADA)</li>
+        <li>Safety instrumented systems (SIS)</li>
+        <li>Industrial networking topologies</li>
+      </ul>
+    </div>
+
+    <div>
+      <h3 style="color: #4a90e2; margin: 0 0 1rem 0; display: flex; align-items: center;">
+        <i class="fas fa-search" style="margin-right: 0.5rem; color: #9aceeb;"></i>
+        Protocol-Aware Detection
+      </h3>
+      <p style="color: rgba(255, 255, 255, 0.9); line-height: 1.6; margin: 0 0 1rem 0;">
+        We implement detection mechanisms specifically designed for OT environments, not adapted from IT security tools.
+      </p>
+      <ul style="color: rgba(255, 255, 255, 0.8); padding-left: 1.5rem; line-height: 1.6;">
+        <li>Deep packet inspection of industrial protocols</li>
+        <li>Detection of unauthorized command sequences</li>
+        <li>Abnormal device communication identification</li>
+        <li>Engineering workstation activity monitoring</li>
+      </ul>
+    </div>
+  </div>
+
+  <div style="text-align: center; padding: 2rem; border-radius: 12px; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); margin-top: 2rem;">
+    <h3 style="color: #9aceeb; margin: 0 0 1rem 0;">
+      <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
+      24/7 Monitoring by OT Security Specialists
+    </h3>
+    <p style="color: rgba(255, 255, 255, 0.9); line-height: 1.6; margin-bottom: 1.5rem;">
+      Our security operations center provides round-the-clock monitoring with analysts who understand that operational impact and security risk require careful balance. When seconds count and operations are on the line, you need defenders who know the difference between a security incident and a process deviation.
+    </p>
+    <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(250px, 1fr)); gap: 1.5rem;">
+      <div style="text-align: center;">
+        <i class="fas fa-user-cog" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block;"></i>
+        <span style="color: rgba(255, 255, 255, 0.95); font-weight: 600; display: block; margin-bottom: 0.5rem;">OT-Specialized Analysts</span>
+        <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.9rem; margin: 0;">Industrial experience, not just security training</p>
+      </div>
+      <div style="text-align: center;">
+        <i class="fas fa-tachometer-alt" style="font-size: 1.8rem; color: #4a90e2; margin-bottom: 0.5rem; display: block;"></i>
+        <span style="color: rgba(255, 255, 255, 0.95); font-weight: 600; display: block; margin-bottom: 0.5rem;">Rapid Response</span>
+        <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.9rem; margin: 0;">OT-specific incident response playbooks</p>
+      </div>
+      <div style="text-align: center;">
+        <i class="fas fa-handshake" style="font-size: 1.8rem; color: #9aceeb; margin-bottom: 0.5rem; display: block;"></i>
+        <span style="color: rgba(255, 255, 255, 0.95); font-weight: 600; display: block; margin-bottom: 0.5rem;">Operations Coordination</span>
+        <p style="color: rgba(255, 255, 255, 0.8); font-size: 0.9rem; margin: 0;">Seamless integration with plant operations</p>
       </div>
     </div>
   </div>
