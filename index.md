@@ -51,7 +51,6 @@ training:
 {: #services}
 <div style="text-align: center; margin: 0.5rem 0 1rem;">
   <h2 style="margin: 0;">Our Services</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
 {% include feature_row id="services" start_index=0 %}
@@ -61,15 +60,10 @@ training:
 {: #training}
 <div style="text-align: center; margin: 1rem 0 1.5rem;">
   <h2 style="margin: 0;">Training & Education</h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
 {% include feature_row id="training" start_index=6 %}
 
-<div style="text-align: center; margin: 1rem 0 1.5rem;">
-  <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, transparent, rgba(154, 206, 235, 0.3)); margin: 0 auto;"></div>
-  <div style="display: inline-block; width: 150px; height: 1px; background: linear-gradient(90deg, rgba(154, 206, 235, 0.3), transparent); margin: 0 auto;"></div>
-</div>
 
 {: #about}
 <div style="text-align: center; margin: 1rem 0 1.5rem;">
@@ -77,7 +71,6 @@ training:
     <i class="fas fa-users" style="margin-right: 0.5rem; color: rgba(154, 206, 235, 0.8);"></i>
     Who is Seguri?
   </h2>
-  <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
 <div class="about-enhanced" style="width: 100%; margin: 0 auto; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
