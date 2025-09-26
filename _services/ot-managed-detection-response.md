@@ -85,7 +85,7 @@ header:
   <h2 style="margin: 0 0 0 0;">Our OT MDR Approach</h2>
 </div>
 
-<div style="background: linear-gradient(135deg, rgba(74, 144, 226, 0.08), rgba(154, 206, 235, 0.05)); border: 1px solid rgba(74, 144, 226, 0.15); border-radius: 16px; padding: 2rem; margin: 0 auto 2rem;">
+<div style="background: linear-gradient(135deg, rgba(26, 35, 45, 0.9), rgba(45, 55, 72, 0.8)); border: 2px solid rgba(154, 206, 235, 0.3); border-radius: 16px; padding: 2.5rem; margin: 2rem auto; box-shadow: 0 8px 32px rgba(0, 0, 0, 0.3);">
   <div style="display: grid; grid-template-columns: 1fr 1fr; gap: 2rem; margin-bottom: 2rem;">
     <div>
       <h3 style="color: #9aceeb; margin: 0 0 1rem 0; display: flex; align-items: center;">
@@ -120,7 +120,7 @@ header:
     </div>
   </div>
 
-  <div style="text-align: center; padding: 2rem; border-radius: 12px; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); margin-top: 2rem;">
+  <div style="text-align: center; padding: 2rem; border-radius: 12px; background: linear-gradient(135deg, rgba(154, 206, 235, 0.15), rgba(74, 144, 226, 0.12)); border: 1px solid rgba(154, 206, 235, 0.4); margin-top: 2rem; box-shadow: 0 4px 16px rgba(154, 206, 235, 0.1);">
     <h3 style="color: #9aceeb; margin: 0 0 1rem 0;">
       <i class="fas fa-shield-alt" style="margin-right: 0.5rem; color: #4a90e2;"></i>
       24/7 Monitoring by OT Security Specialists
