@@ -52,7 +52,6 @@ training:
 <div style="text-align: center; margin: 0.5rem 0 1rem;">
   <h2 style="margin: 0;">Our Services</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Tailored cybersecurity solutions designed for your unique operational environment</p>
 </div>
 
 {% include feature_row id="services" start_index=0 %}
@@ -63,7 +62,6 @@ training:
 <div style="text-align: center; margin: 1rem 0 1.5rem;">
   <h2 style="margin: 0;">Training & Education</h2>
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
-  <p style="color: rgba(255, 255, 255, 0.7); max-width: 600px; margin: 1rem auto 0;">Empower your team with cutting-edge cybersecurity knowledge and hands-on expertise</p>
 </div>
 
 {% include feature_row id="training" start_index=6 %}
@@ -82,7 +80,7 @@ training:
   <div style="width: 80px; height: 3px; background: linear-gradient(90deg, transparent, #9aceeb, transparent); margin: 1rem auto; border-radius: 2px;"></div>
 </div>
 
-<div class="about-enhanced" style="max-width: 900px; margin: 0 auto; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
+<div class="about-enhanced" style="width: 100%; margin: 0 auto; padding: 1.5rem 2rem; background: linear-gradient(135deg, rgba(154, 206, 235, 0.08), rgba(74, 144, 226, 0.05)); border: 1px solid rgba(154, 206, 235, 0.15); border-radius: 16px; position: relative; overflow: hidden;">
   <div style="position: absolute; top: -50%; left: -50%; width: 200%; height: 200%; background: radial-gradient(circle at center, rgba(154, 206, 235, 0.05) 0%, transparent 50%); animation: subtle-rotate 20s linear infinite; pointer-events: none;"></div>
   
   <div style="position: relative; z-index: 2;">
