@@ -91,9 +91,9 @@ header:
         </h3>
         <p style="color: rgba(255, 255, 255, 0.8); margin: 0; line-height: 1.5; margin-left: 2rem;">
           Seguri, Inc.<br>
-          1111B S Governors Ave<br>
-          #21567<br>
-          Dover, DE 19904
+          134 N Market St<br>
+          #4578<br>
+          Chattanooga, TN 37405
         </p>
       </div>
 
